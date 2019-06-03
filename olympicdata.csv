@@ -1,0 +1,2997 @@
+Year,Country,Gold,Silver,Bronze,Total,Rank,NumMedals,Country Code,Pop,locCity
+1960,Afghanistan,0,0,0,0,0,301,AFG,8774440,Roma
+1960,Albania,0,0,0,0,0,301,ALB,1618829,Roma
+1960,Algeria,0,0,0,0,0,301,DZA,11277757,Roma
+1960,American Samoa,0,0,0,0,0,301,ASM,20012,Roma
+1960,Andorra,0,0,0,0,0,301,ADO,13414,Roma
+1960,Angola,0,0,0,0,0,301,AGO,4965988,Roma
+1960,Antigua and Barbuda,0,0,0,0,0,301,ATG,54681,Roma
+1960,Argentina,0,1,1,2,28,301,ARG,20623998,Roma
+1960,Armenia,0,0,0,0,0,301,ARM,1867396,Roma
+1960,Aruba,0,0,0,0,0,301,ABW,54208,Roma
+1960,Australia,8,8,6,22,5,301,AUS,10276477,Roma
+1960,Austria,1,1,0,2,25,301,AUT,7047539,Roma
+1960,Azerbaijan,0,0,0,0,0,301,AZE,3897889,Roma
+1960,"Bahamas, The",0,0,0,0,0,301,BHS,109526,Roma
+1960,Bahrain,0,0,0,0,0,301,BHR,162501,Roma
+1960,Bangladesh,0,0,0,0,0,301,BGD,49537147,Roma
+1960,Barbados,0,0,0,0,0,301,BRB,230858,Roma
+1960,Belarus,0,0,0,0,0,301,BLR,8198000,Roma
+1960,Belgium,0,2,2,4,19,301,BEL,9153489,Roma
+1960,Belize,0,0,0,0,0,301,BLZ,92068,Roma
+1960,Benin,0,0,0,0,0,301,BEN,2431620,Roma
+1960,Bermuda,0,0,0,0,0,301,BMU,44400,Roma
+1960,Bhutan,0,0,0,0,0,301,BTN,224155,Roma
+1960,Bolivia,0,0,0,0,0,301,BOL,3353125,Roma
+1960,Bosnia and Herzegovina,0,0,0,0,0,301,BIH,3305501,Roma
+1960,Botswana,0,0,0,0,0,301,BWA,524173,Roma
+1960,Brazil,0,0,2,2,29,301,BRA,72775883,Roma
+1960,Brunei Darussalam,0,0,0,0,0,301,BRN,81817,Roma
+1960,Bulgaria,1,3,3,7,13,301,BGR,7867374,Roma
+1960,Burkina Faso,0,0,0,0,0,301,BFA,4829291,Roma
+1960,Burundi,0,0,0,0,0,301,BDI,2786740,Roma
+1960,Cambodia,0,0,0,0,0,301,KHM,5720019,Roma
+1960,Cameroon,0,0,0,0,0,301,CMR,5361367,Roma
+1960,Canada,0,1,0,1,40,301,CAN,17909009,Roma
+1960,Cape Verde,0,0,0,0,0,301,CPV,212247,Roma
+1960,Cayman Islands,0,0,0,0,0,301,CYM,7867,Roma
+1960,Central African Republic,0,0,0,0,0,301,CAF,1503501,Roma
+1960,Chad,0,0,0,0,0,301,TCD,3002596,Roma
+1960,Channel Islands,0,0,0,0,0,301,CHI,109419,Roma
+1960,Chile,0,0,0,0,0,301,CHL,7649026,Roma
+1960,China,0,0,0,0,0,301,CHN,667070000,Roma
+1960,Colombia,0,0,0,0,0,301,COL,16006395,Roma
+1960,Comoros,0,0,0,0,0,301,COM,190475,Roma
+1960,"Congo, Dem. Rep.",0,0,0,0,0,301,ZAR,15248246,Roma
+1960,"Congo, Rep.",0,0,0,0,0,301,COG,1013581,Roma
+1960,Costa Rica,0,0,0,0,0,301,CRI,1334044,Roma
+1960,Cote d'Ivoire,0,0,0,0,0,301,CIV,3474724,Roma
+1960,Croatia,0,0,0,0,0,301,HRV,4140000,Roma
+1960,Cuba,0,0,0,0,0,301,CUB,7141130,Roma
+1960,Curacao,0,0,0,0,0,301,CUW,0,Roma
+1960,Cyprus,0,0,0,0,0,301,CYP,572929,Roma
+1960,Czech Republic,0,0,0,0,0,301,CZE,9602006,Roma
+1960,Denmark,2,3,1,6,14,301,DNK,4579603,Roma
+1960,Djibouti,0,0,0,0,0,301,DJI,83636,Roma
+1960,Dominica,0,0,0,0,0,301,DMA,60016,Roma
+1960,Dominican Republic,0,0,0,0,0,301,DOM,3311788,Roma
+1960,Ecuador,0,0,0,0,0,301,ECU,4514593,Roma
+1960,"Egypt, Arab Rep.",0,0,0,0,0,301,EGY,27997745,Roma
+1960,El Salvador,0,0,0,0,0,301,SLV,2772970,Roma
+1960,Equatorial Guinea,0,0,0,0,0,301,GNQ,252115,Roma
+1960,Eritrea,0,0,0,0,0,301,ERI,1404810,Roma
+1960,Estonia,0,0,0,0,0,301,EST,1215650,Roma
+1960,Ethiopia,1,0,0,1,33,301,ETH,22151218,Roma
+1960,Faeroe Islands,0,0,0,0,0,301,FRO,34266,Roma
+1960,Fiji,0,0,0,0,0,301,FJI,393383,Roma
+1960,Finland,1,1,3,5,17,301,FIN,4429634,Roma
+1960,France,0,2,3,5,18,301,FRA,46647521,Roma
+1960,French Polynesia,0,0,0,0,0,301,PYF,78083,Roma
+1960,Gabon,0,0,0,0,0,301,GAB,498823,Roma
+1960,"Gambia, The",0,0,0,0,0,301,GMB,367929,Roma
+1960,Georgia,0,0,0,0,0,301,GEO,3645600,Roma
+1960,Germany,12,19,11,42,3,301,DEU,72814900,Roma
+1960,Ghana,0,1,0,1,35,301,GHA,6652516,Roma
+1960,Greece,1,0,0,1,32,301,GRC,8331725,Roma
+1960,Greenland,0,0,0,0,0,301,GRL,32500,Roma
+1960,Grenada,0,0,0,0,0,301,GRD,89861,Roma
+1960,Guam,0,0,0,0,0,301,GUM,66741,Roma
+1960,Guatemala,0,0,0,0,0,301,GTM,4140636,Roma
+1960,Guinea,0,0,0,0,0,301,GIN,3576684,Roma
+1960,Guinea-Bissau,0,0,0,0,0,301,GNB,635956,Roma
+1960,Guyana,0,0,0,0,0,301,GUY,560296,Roma
+1960,Haiti,0,0,0,0,0,301,HTI,3869288,Roma
+1960,Honduras,0,0,0,0,0,301,HND,2002333,Roma
+1960,"Hong Kong SAR, China",0,0,0,0,0,301,HKG,3075605,Roma
+1960,Hungary,6,8,7,21,6,301,HUN,9983967,Roma
+1960,Iceland,0,0,0,0,0,301,ISL,175574,Roma
+1960,India,0,1,0,1,37,301,IND,449595489,Roma
+1960,Indonesia,0,0,0,0,0,301,IDN,88692697,Roma
+1960,"Iran, Islamic Rep.",0,1,3,4,20,301,IRN,21958460,Roma
+1960,Iraq,0,0,1,1,41,301,IRQ,7289759,Roma
+1960,Ireland,0,0,0,0,0,301,IRL,2828600,Roma
+1960,Isle of Man,0,0,0,0,0,301,IMY,48441,Roma
+1960,Israel,0,0,0,0,0,301,ISR,2114020,Roma
+1960,Italy,13,10,13,36,4,301,ITA,50199700,Roma
+1960,Jamaica,0,0,0,0,0,301,JAM,1629003,Roma
+1960,Japan,4,7,7,18,9,301,JPN,92500572,Roma
+1960,Jordan,0,0,0,0,0,301,JOR,844000,Roma
+1960,Kazakhstan,0,0,0,0,0,301,KAZ,9995997,Roma
+1960,Kenya,0,0,0,0,0,301,KEN,8105440,Roma
+1960,Kiribati,0,0,0,0,0,301,KIR,32970,Roma
+1960,"Korea, Dem. Rep.",0,0,0,0,0,301,PRK,11424179,Roma
+1960,"Korea, Rep.",0,0,0,0,0,301,KOR,25074152,Roma
+1960,Kosovo,0,0,0,0,0,301,KSV,947000,Roma
+1960,Kuwait,0,0,0,0,0,301,KWT,261994,Roma
+1960,Kyrgyz Republic,0,0,0,0,0,301,KGZ,2172300,Roma
+1960,Lao PDR,0,0,0,0,0,301,LAO,2119731,Roma
+1960,Latvia,0,0,0,0,0,301,LVA,2120979,Roma
+1960,Lebanon,0,0,0,0,0,301,LBN,1804927,Roma
+1960,Lesotho,0,0,0,0,0,301,LSO,851412,Roma
+1960,Liberia,0,0,0,0,0,301,LBR,1120314,Roma
+1960,Libya,0,0,0,0,0,301,LBY,1428435,Roma
+1960,Liechtenstein,0,0,0,0,0,301,LIE,16504,Roma
+1960,Lithuania,0,0,0,0,0,301,LTU,2778550,Roma
+1960,Luxembourg,0,0,0,0,0,301,LUX,313970,Roma
+1960,"Macao SAR, China",0,0,0,0,0,301,MAC,171456,Roma
+1960,"Macedonia, FYR",1,1,0,2,24,301,MKD,1471139,Roma
+1960,Madagascar,0,0,0,0,0,301,MDG,5099371,Roma
+1960,Malawi,0,0,0,0,0,301,MWI,3525127,Roma
+1960,Malaysia,0,0,0,0,0,301,MYS,8160975,Roma
+1960,Maldives,0,0,0,0,0,301,MDV,88960,Roma
+1960,Mali,0,0,0,0,0,301,MLI,5098942,Roma
+1960,Malta,0,0,0,0,0,301,MLT,326550,Roma
+1960,Marshall Islands,0,0,0,0,0,301,MHL,14665,Roma
+1960,Mauritania,0,0,0,0,0,301,MRT,858316,Roma
+1960,Mauritius,0,0,0,0,0,301,MUS,659351,Roma
+1960,Mexico,0,0,1,1,44,301,MEX,38676974,Roma
+1960,"Micronesia, Fed. Sts.",0,0,0,0,0,301,FSM,44539,Roma
+1960,Moldova,0,0,0,0,0,301,MDA,2544000,Roma
+1960,Monaco,0,0,0,0,0,301,MCO,22454,Roma
+1960,Mongolia,0,0,0,0,0,301,MNG,955508,Roma
+1960,Montenegro,0,0,0,0,0,301,MNE,479099,Roma
+1960,Morocco,0,1,0,1,38,301,MAR,12328534,Roma
+1960,Mozambique,0,0,0,0,0,301,MOZ,7647284,Roma
+1960,Myanmar,0,0,0,0,0,301,MMR,21486424,Roma
+1960,Namibia,0,0,0,0,0,301,NAM,602545,Roma
+1960,Nepal,0,0,0,0,0,301,NPL,9544938,Roma
+1960,Netherlands,0,1,2,3,22,301,NLD,11486631,Roma
+1960,New Caledonia,0,0,0,0,0,301,NCL,79000,Roma
+1960,New Zealand,2,0,1,3,21,301,NZL,2371800,Roma
+1960,Nicaragua,0,0,0,0,0,301,NIC,1774574,Roma
+1960,Niger,0,0,0,0,0,301,NER,3337141,Roma
+1960,Nigeria,0,0,0,0,0,301,NGA,45211614,Roma
+1960,Northern Mariana Islands,0,0,0,0,0,301,MNP,10070,Roma
+1960,Norway,1,0,0,1,31,301,NOR,3581239,Roma
+1960,Oman,0,0,0,0,0,301,OMN,551737,Roma
+1960,Pakistan,1,0,1,2,26,301,PAK,45540594,Roma
+1960,Palau,0,0,0,0,0,301,PLW,9638,Roma
+1960,Panama,0,0,0,0,0,301,PAN,1136090,Roma
+1960,Papua New Guinea,0,0,0,0,0,301,PNG,1966957,Roma
+1960,Paraguay,0,0,0,0,0,301,PRY,1907041,Roma
+1960,Peru,0,0,0,0,0,301,PER,9931518,Roma
+1960,Philippines,0,0,0,0,0,301,PHL,26271731,Roma
+1960,Poland,4,6,11,21,7,301,POL,29637450,Roma
+1960,Portugal,0,1,0,1,34,301,PRT,8857716,Roma
+1960,Puerto Rico,0,0,0,0,0,301,PRI,2358000,Roma
+1960,Qatar,0,0,0,0,0,301,QAT,47316,Roma
+1960,Romania,3,1,6,10,10,301,ROM,18406905,Roma
+1960,Russia,0,0,0,0,0,301,RUS,119897000,Roma
+1960,Rwanda,0,0,0,0,0,301,RWA,2933424,Roma
+1960,Samoa,0,0,0,0,0,301,WSM,108645,Roma
+1960,San Marino,0,0,0,0,0,301,SMR,15393,Roma
+1960,Sao Tome and Principe,0,0,0,0,0,301,STP,64255,Roma
+1960,Saudi Arabia,0,0,0,0,0,301,SAU,4072110,Roma
+1960,Senegal,0,0,0,0,0,301,SEN,3177737,Roma
+1960,Serbia,0,0,0,0,0,301,SRB,0,Roma
+1960,Seychelles,0,0,0,0,0,301,SYC,41700,Roma
+1960,Sierra Leone,0,0,0,0,0,301,SLE,2160111,Roma
+1960,Singapore,0,1,0,1,36,301,SGP,1646000,Roma
+1960,Sint Maarten (Dutch part),0,0,0,0,0,301,SXM,0,Roma
+1960,Slovak Republic,0,0,0,0,0,301,SVK,4068095,Roma
+1960,Slovenia,0,0,0,0,0,301,SVN,1584720,Roma
+1960,Solomon Islands,0,0,0,0,0,301,SLB,117869,Roma
+1960,Somalia,0,0,0,0,0,301,SOM,2756380,Roma
+1960,South Africa,0,1,2,3,23,301,ZAF,17396000,Roma
+1960,South Sudan,0,0,0,0,0,301,SSD,2955044,Roma
+1960,Spain,0,0,1,1,42,301,ESP,30455000,Roma
+1960,Sri Lanka,0,0,0,0,0,301,LKA,9896000,Roma
+1960,St. Kitts and Nevis,0,0,0,0,0,301,KNA,51197,Roma
+1960,St. Lucia,0,0,0,0,0,301,LCA,89901,Roma
+1960,St. Martin (French part),0,0,0,0,0,301,MAF,4279,Roma
+1960,St. Vincent and the Grenadines,0,0,0,0,0,301,VCT,80948,Roma
+1960,Sudan,0,0,0,0,0,301,SDN,7527450,Roma
+1960,Suriname,0,0,0,0,0,301,SUR,290137,Roma
+1960,Swaziland,0,0,0,0,0,301,SWZ,349233,Roma
+1960,Sweden,1,2,3,6,15,301,SWE,7484656,Roma
+1960,Switzerland,0,3,3,6,16,301,CHE,5327827,Roma
+1960,Syrian Arab Republic,0,0,0,0,0,301,SYR,4592777,Roma
+1960,Tajikistan,0,0,0,0,0,301,TJK,2064035,Roma
+1960,Tanzania,0,0,0,0,0,301,TZA,10074490,Roma
+1960,Thailand,0,0,0,0,0,301,THA,27362310,Roma
+1960,Timor-Leste,0,0,0,0,0,301,TMP,499681,Roma
+1960,Togo,0,0,0,0,0,301,TGO,1580513,Roma
+1960,Tonga,0,0,0,0,0,301,TON,61600,Roma
+1960,Trinidad and Tobago,0,0,0,0,0,301,TTO,848481,Roma
+1960,Tunisia,0,0,0,0,0,301,TUN,4220701,Roma
+1960,Turkey,7,2,0,9,11,301,TUR,27553280,Roma
+1960,Turkmenistan,0,0,0,0,0,301,TKM,1593501,Roma
+1960,Turks and Caicos Islands,0,0,0,0,0,301,TCA,5724,Roma
+1960,Tuvalu,0,0,0,0,0,301,TUV,6104,Roma
+1960,Uganda,0,0,0,0,0,301,UGA,6788211,Roma
+1960,Ukraine,0,0,0,0,0,301,UKR,42662162,Roma
+1960,United Arab Emirates,0,0,0,0,0,301,ARE,89608,Roma
+1960,England,2,6,12,20,8,301,GBR,52400000,Roma
+1960,United States,34,21,16,71,2,301,USA,180671000,Roma
+1960,Uruguay,0,0,0,0,0,301,URY,2538779,Roma
+1960,Uzbekistan,0,0,0,0,0,301,UZB,8558503,Roma
+1960,Vanuatu,0,0,0,0,0,301,VUT,63701,Roma
+1960,"Venezuela, RB",0,0,1,1,43,301,VEN,7580281,Roma
+1960,Vietnam,0,0,0,0,0,301,VNM,34743000,Roma
+1960,Virgin Islands (U.S.),0,0,0,0,0,301,VIR,32000,Roma
+1960,West Bank and Gaza,0,0,0,0,0,301,WBG,0,Roma
+1960,"Yemen, Rep.",0,0,0,0,0,301,YEM,5099785,Roma
+1960,Zambia,0,0,0,0,0,301,ZMB,3082627,Roma
+1960,Zimbabwe,0,0,0,0,0,301,ZWE,3752390,Roma
+1964,Afghanistan,0,0,0,0,0,339,AFG,9547131,Tokyo
+1964,Albania,0,0,0,0,0,339,ALB,1822299,Tokyo
+1964,Algeria,0,0,0,0,0,339,DZA,12443175,Tokyo
+1964,American Samoa,0,0,0,0,0,339,ASM,22701,Tokyo
+1964,Andorra,0,0,0,0,0,339,ADO,17470,Tokyo
+1964,Angola,0,0,0,0,0,339,AGO,5339893,Tokyo
+1964,Antigua and Barbuda,0,0,0,0,0,339,ATG,58500,Tokyo
+1964,Argentina,0,1,0,1,34,339,ARG,21963952,Tokyo
+1964,Armenia,0,0,0,0,0,339,ARM,2138133,Tokyo
+1964,Aruba,0,0,0,0,0,339,ABW,57029,Tokyo
+1964,Australia,6,2,10,18,8,339,AUS,11167000,Tokyo
+1964,Austria,0,0,0,0,0,339,AUT,7223801,Tokyo
+1964,Azerbaijan,0,0,0,0,0,339,AZE,4445653,Tokyo
+1964,"Bahamas, The",1,0,0,1,28,339,BHS,133697,Tokyo
+1964,Bahrain,0,0,0,0,0,339,BHR,182774,Tokyo
+1964,Bangladesh,0,0,0,0,0,339,BGD,55503132,Tokyo
+1964,Barbados,0,0,0,0,0,339,BRB,234478,Tokyo
+1964,Belarus,0,0,0,0,0,339,BLR,8524224,Tokyo
+1964,Belgium,2,0,1,3,23,339,BEL,9378113,Tokyo
+1964,Belize,0,0,0,0,0,339,BLZ,103070,Tokyo
+1964,Benin,0,0,0,0,0,339,BEN,2586362,Tokyo
+1964,Bermuda,0,0,0,0,0,339,BMU,48900,Tokyo
+1964,Bhutan,0,0,0,0,0,339,BTN,246388,Tokyo
+1964,Bolivia,0,0,0,0,0,339,BOL,3666584,Tokyo
+1964,Bosnia and Herzegovina,0,0,0,0,0,339,BIH,3503878,Tokyo
+1964,Botswana,0,0,0,0,0,339,BWA,579729,Tokyo
+1964,Brazil,0,0,1,1,40,339,BRA,82017016,Tokyo
+1964,Brunei Darussalam,0,0,0,0,0,339,BRN,97924,Tokyo
+1964,Bulgaria,3,5,2,10,13,339,BGR,8144340,Tokyo
+1964,Burkina Faso,0,0,0,0,0,339,BFA,5098892,Tokyo
+1964,Burundi,0,0,0,0,0,339,BDI,3011957,Tokyo
+1964,Cambodia,0,0,0,0,0,339,KHM,6327099,Tokyo
+1964,Cameroon,0,0,0,0,0,339,CMR,5850454,Tokyo
+1964,Canada,1,2,1,4,21,339,CAN,19325000,Tokyo
+1964,Cape Verde,0,0,0,0,0,339,CPV,235189,Tokyo
+1964,Cayman Islands,0,0,0,0,0,339,CYM,8299,Tokyo
+1964,Central African Republic,0,0,0,0,0,339,CAF,1616515,Tokyo
+1964,Chad,0,0,0,0,0,339,TCD,3247798,Tokyo
+1964,Channel Islands,0,0,0,0,0,339,CHI,113778,Tokyo
+1964,Chile,0,0,0,0,0,339,CHL,8455039,Tokyo
+1964,China,0,0,0,0,0,339,CHN,698355000,Tokyo
+1964,Colombia,0,0,0,0,0,339,COL,18022435,Tokyo
+1964,Comoros,0,0,0,0,0,339,COM,204150,Tokyo
+1964,"Congo, Dem. Rep.",0,0,0,0,0,339,ZAR,16903899,Tokyo
+1964,"Congo, Rep.",0,0,0,0,0,339,COG,1126573,Tokyo
+1964,Costa Rica,0,0,0,0,0,339,CRI,1532828,Tokyo
+1964,Cote d'Ivoire,0,0,0,0,0,339,CIV,4049675,Tokyo
+1964,Croatia,0,0,0,0,0,339,HRV,4259680,Tokyo
+1964,Cuba,0,1,0,1,33,339,CUB,7787144,Tokyo
+1964,Curacao,0,0,0,0,0,339,CUW,0,Tokyo
+1964,Cyprus,0,0,0,0,0,339,CYP,578629,Tokyo
+1964,Czech Republic,0,0,0,0,0,339,CZE,9727804,Tokyo
+1964,Denmark,2,1,3,6,17,339,DNK,4722072,Tokyo
+1964,Djibouti,0,0,0,0,0,339,DJI,107584,Tokyo
+1964,Dominica,0,0,0,0,0,339,DMA,63921,Tokyo
+1964,Dominican Republic,0,0,0,0,0,339,DOM,3778110,Tokyo
+1964,Ecuador,0,0,0,0,0,339,ECU,5063645,Tokyo
+1964,"Egypt, Arab Rep.",0,0,0,0,0,339,EGY,31241836,Tokyo
+1964,El Salvador,0,0,0,0,0,339,SLV,3144962,Tokyo
+1964,Equatorial Guinea,0,0,0,0,0,339,GNQ,264743,Tokyo
+1964,Eritrea,0,0,0,0,0,339,ERI,1546225,Tokyo
+1964,Estonia,0,0,0,0,0,339,EST,1277000,Tokyo
+1964,Ethiopia,1,0,0,1,30,339,ETH,24396981,Tokyo
+1964,Faeroe Islands,0,0,0,0,0,339,FRO,35946,Tokyo
+1964,Fiji,0,0,0,0,0,339,FJI,450452,Tokyo
+1964,Finland,3,0,2,5,18,339,FIN,4548543,Tokyo
+1964,France,1,8,6,15,10,339,FRA,49361165,Tokyo
+1964,French Polynesia,0,0,0,0,0,339,PYF,90132,Tokyo
+1964,Gabon,0,0,0,0,0,339,GAB,523236,Tokyo
+1964,"Gambia, The",0,0,0,0,0,339,GMB,394552,Tokyo
+1964,Georgia,0,0,0,0,0,339,GEO,3870300,Tokyo
+1964,Germany,10,22,18,50,3,339,DEU,75318337,Tokyo
+1964,Ghana,0,0,1,1,38,339,GHA,7513510,Tokyo
+1964,Greece,0,0,0,0,0,339,GRC,8510429,Tokyo
+1964,Greenland,0,0,0,0,0,339,GRL,37600,Tokyo
+1964,Grenada,0,0,0,0,0,339,GRD,94066,Tokyo
+1964,Guam,0,0,0,0,0,339,GUM,73048,Tokyo
+1964,Guatemala,0,0,0,0,0,339,GTM,4610494,Tokyo
+1964,Guinea,0,0,0,0,0,339,GIN,3809929,Tokyo
+1964,Guinea-Bissau,0,0,0,0,0,339,GNB,656056,Tokyo
+1964,Guyana,0,0,0,0,0,339,GUY,623794,Tokyo
+1964,Haiti,0,0,0,0,0,339,HTI,4190472,Tokyo
+1964,Honduras,0,0,0,0,0,339,HND,2282764,Tokyo
+1964,"Hong Kong SAR, China",0,0,0,0,0,339,HKG,3504600,Tokyo
+1964,Hungary,10,7,5,22,7,339,HUN,10119835,Tokyo
+1964,Iceland,0,0,0,0,0,339,ISL,188983,Tokyo
+1964,India,1,0,0,1,29,339,IND,487607406,Tokyo
+1964,Indonesia,0,0,0,0,0,339,IDN,97828538,Tokyo
+1964,"Iran, Islamic Rep.",0,0,2,2,27,339,IRN,24373188,Tokyo
+1964,Iraq,0,0,0,0,0,339,IRQ,8122200,Tokyo
+1964,Ireland,0,0,1,1,37,339,IRL,2866550,Tokyo
+1964,Isle of Man,0,0,0,0,0,339,IMY,49818,Tokyo
+1964,Israel,0,0,0,0,0,339,ISR,2475000,Tokyo
+1964,Italy,10,10,7,27,5,339,ITA,51675350,Tokyo
+1964,Jamaica,0,0,0,0,0,339,JAM,1734763,Tokyo
+1964,Japan,16,5,8,29,4,339,JPN,97826000,Tokyo
+1964,Jordan,0,0,0,0,0,339,JOR,1060998,Tokyo
+1964,Kazakhstan,0,0,0,0,0,339,KAZ,11577537,Tokyo
+1964,Kenya,0,0,1,1,41,339,KEN,9200158,Tokyo
+1964,Kiribati,0,0,0,0,0,339,KIR,36789,Tokyo
+1964,"Korea, Dem. Rep.",0,0,0,0,0,339,PRK,12282423,Tokyo
+1964,"Korea, Rep.",0,2,1,3,24,339,KOR,27836904,Tokyo
+1964,Kosovo,0,0,0,0,0,339,KSV,1050000,Tokyo
+1964,Kuwait,0,0,0,0,0,339,KWT,431404,Tokyo
+1964,Kyrgyz Republic,0,0,0,0,0,339,KGZ,2495300,Tokyo
+1964,Lao PDR,0,0,0,0,0,339,LAO,2325343,Tokyo
+1964,Latvia,0,0,0,0,0,339,LVA,2240623,Tokyo
+1964,Lebanon,0,0,0,0,0,339,LBN,2041212,Tokyo
+1964,Lesotho,0,0,0,0,0,339,LSO,915473,Tokyo
+1964,Liberia,0,0,0,0,0,339,LBR,1224094,Tokyo
+1964,Libya,0,0,0,0,0,339,LBY,1648635,Tokyo
+1964,Liechtenstein,0,0,0,0,0,339,LIE,18170,Tokyo
+1964,Lithuania,0,0,0,0,0,339,LTU,2935200,Tokyo
+1964,Luxembourg,0,0,0,0,0,339,LUX,327750,Tokyo
+1964,"Macao SAR, China",0,0,0,0,0,339,MAC,197523,Tokyo
+1964,"Macedonia, FYR",2,1,2,5,20,339,MKD,1556150,Tokyo
+1964,Madagascar,0,0,0,0,0,339,MDG,5625401,Tokyo
+1964,Malawi,0,0,0,0,0,339,MWI,3877229,Tokyo
+1964,Malaysia,0,0,0,0,0,339,MYS,9287442,Tokyo
+1964,Maldives,0,0,0,0,0,339,MDV,98899,Tokyo
+1964,Mali,0,0,0,0,0,339,MLI,5315835,Tokyo
+1964,Malta,0,0,0,0,0,339,MLT,321250,Tokyo
+1964,Marshall Islands,0,0,0,0,0,339,MHL,16702,Tokyo
+1964,Mauritania,0,0,0,0,0,339,MRT,963865,Tokyo
+1964,Mauritius,0,0,0,0,0,339,MUS,736381,Tokyo
+1964,Mexico,0,0,1,1,35,339,MEX,43931398,Tokyo
+1964,"Micronesia, Fed. Sts.",0,0,0,0,0,339,FSM,50483,Tokyo
+1964,Moldova,0,0,0,0,0,339,MDA,2774000,Tokyo
+1964,Monaco,0,0,0,0,0,339,MCO,23237,Tokyo
+1964,Mongolia,0,0,0,0,0,339,MNG,1074511,Tokyo
+1964,Montenegro,0,0,0,0,0,339,MNE,501813,Tokyo
+1964,Morocco,0,0,0,0,0,339,MAR,13737160,Tokyo
+1964,Mozambique,0,0,0,0,0,339,MOZ,8296721,Tokyo
+1964,Myanmar,0,0,0,0,0,339,MMR,23471163,Tokyo
+1964,Namibia,0,0,0,0,0,339,NAM,665297,Tokyo
+1964,Nepal,0,0,0,0,0,339,NPL,10247834,Tokyo
+1964,Netherlands,2,4,4,10,14,339,NLD,12127120,Tokyo
+1964,New Caledonia,0,0,0,0,0,339,NCL,89880,Tokyo
+1964,New Zealand,3,0,2,5,19,339,NZL,2585400,Tokyo
+1964,Nicaragua,0,0,0,0,0,339,NIC,2002244,Tokyo
+1964,Niger,0,0,0,0,0,339,NER,3729912,Tokyo
+1964,Nigeria,0,0,1,1,39,339,NGA,49169820,Tokyo
+1964,Northern Mariana Islands,0,0,0,0,0,339,MNP,10901,Tokyo
+1964,Norway,0,0,0,0,0,339,NOR,3694339,Tokyo
+1964,Oman,0,0,0,0,0,339,OMN,608889,Tokyo
+1964,Pakistan,0,1,0,1,32,339,PAK,50404401,Tokyo
+1964,Palau,0,0,0,0,0,339,PLW,10593,Tokyo
+1964,Panama,0,0,0,0,0,339,PAN,1280601,Tokyo
+1964,Papua New Guinea,0,0,0,0,0,339,PNG,2116831,Tokyo
+1964,Paraguay,0,0,0,0,0,339,PRY,2120601,Tokyo
+1964,Peru,0,0,0,0,0,339,PER,11144018,Tokyo
+1964,Philippines,0,1,0,1,31,339,PHL,29961902,Tokyo
+1964,Poland,7,6,10,23,6,339,POL,31139450,Tokyo
+1964,Portugal,0,0,0,0,0,339,PRT,9035365,Tokyo
+1964,Puerto Rico,0,0,0,0,0,339,PRI,2554066,Tokyo
+1964,Qatar,0,0,0,0,0,339,QAT,67497,Tokyo
+1964,Romania,2,4,6,12,12,339,ROM,18919126,Tokyo
+1964,Russia,0,0,0,0,0,339,RUS,125344803,Tokyo
+1964,Rwanda,0,0,0,0,0,339,RWA,3161719,Tokyo
+1964,Samoa,0,0,0,0,0,339,WSM,123354,Tokyo
+1964,San Marino,0,0,0,0,0,339,SMR,17033,Tokyo
+1964,Sao Tome and Principe,0,0,0,0,0,339,STP,64209,Tokyo
+1964,Saudi Arabia,0,0,0,0,0,339,SAU,4657855,Tokyo
+1964,Senegal,0,0,0,0,0,339,SEN,3548083,Tokyo
+1964,Serbia,0,0,0,0,0,339,SRB,0,Tokyo
+1964,Seychelles,0,0,0,0,0,339,SYC,46322,Tokyo
+1964,Sierra Leone,0,0,0,0,0,339,SLE,2285313,Tokyo
+1964,Singapore,0,0,0,0,0,339,SGP,1842000,Tokyo
+1964,Sint Maarten (Dutch part),0,0,0,0,0,339,SXM,0,Tokyo
+1964,Slovak Republic,0,0,0,0,0,339,SVK,4327341,Tokyo
+1964,Slovenia,0,0,0,0,0,339,SVN,1632114,Tokyo
+1964,Solomon Islands,0,0,0,0,0,339,SLB,132787,Tokyo
+1964,Somalia,0,0,0,0,0,339,SOM,3002173,Tokyo
+1964,South Africa,0,0,0,0,0,339,ZAF,19390554,Tokyo
+1964,South Sudan,0,0,0,0,0,339,SSD,3196264,Tokyo
+1964,Spain,0,0,0,0,0,339,ESP,31609195,Tokyo
+1964,Sri Lanka,0,0,0,0,0,339,LKA,10903000,Tokyo
+1964,St. Kitts and Nevis,0,0,0,0,0,339,KNA,49934,Tokyo
+1964,St. Lucia,0,0,0,0,0,339,LCA,94813,Tokyo
+1964,St. Martin (French part),0,0,0,0,0,339,MAF,4748,Tokyo
+1964,St. Vincent and the Grenadines,0,0,0,0,0,339,VCT,85076,Tokyo
+1964,Sudan,0,0,0,0,0,339,SDN,8475765,Tokyo
+1964,Suriname,0,0,0,0,0,339,SUR,323428,Tokyo
+1964,Swaziland,0,0,0,0,0,339,SWZ,382575,Tokyo
+1964,Sweden,2,2,4,8,15,339,SWE,7661354,Tokyo
+1964,Switzerland,1,2,1,4,22,339,CHE,5789228,Tokyo
+1964,Syrian Arab Republic,0,0,0,0,0,339,SYR,5224579,Tokyo
+1964,Tajikistan,0,0,0,0,0,339,TJK,2401598,Tokyo
+1964,Tanzania,0,0,0,0,0,339,TZA,11338544,Tokyo
+1964,Thailand,0,0,0,0,0,339,THA,30870998,Tokyo
+1964,Timor-Leste,0,0,0,0,0,339,TMP,537285,Tokyo
+1964,Togo,0,0,0,0,0,339,TGO,1662072,Tokyo
+1964,Tonga,0,0,0,0,0,339,TON,71757,Tokyo
+1964,Trinidad and Tobago,0,1,2,3,25,339,TTO,903272,Tokyo
+1964,Tunisia,0,1,1,2,26,339,TUN,4530835,Tokyo
+1964,Turkey,2,3,1,6,16,339,TUR,30292969,Tokyo
+1964,Turkmenistan,0,0,0,0,0,339,TKM,1829697,Tokyo
+1964,Turks and Caicos Islands,0,0,0,0,0,339,TCA,5705,Tokyo
+1964,Tuvalu,0,0,0,0,0,339,TUV,6687,Tokyo
+1964,Uganda,0,0,0,0,0,339,UGA,7746181,Tokyo
+1964,Ukraine,0,0,0,0,0,339,UKR,44794336,Tokyo
+1964,United Arab Emirates,0,0,0,0,0,339,ARE,134411,Tokyo
+1964,England,4,12,2,18,9,339,GBR,54000000,Tokyo
+1964,United States,36,26,28,90,2,339,USA,191889000,Tokyo
+1964,Uruguay,0,0,1,1,36,339,URY,2665561,Tokyo
+1964,Uzbekistan,0,0,0,0,0,339,UZB,9888629,Tokyo
+1964,Vanuatu,0,0,0,0,0,339,VUT,72131,Tokyo
+1964,"Venezuela, RB",0,0,0,0,0,339,VEN,8785731,Tokyo
+1964,Vietnam,0,0,0,0,0,339,VNM,37573875,Tokyo
+1964,Virgin Islands (U.S.),0,0,0,0,0,339,VIR,41300,Tokyo
+1964,West Bank and Gaza,0,0,0,0,0,339,WBG,0,Tokyo
+1964,"Yemen, Rep.",0,0,0,0,0,339,YEM,5472775,Tokyo
+1964,Zambia,0,0,0,0,0,339,ZMB,3472843,Tokyo
+1964,Zimbabwe,0,0,0,0,0,339,ZWE,4279559,Tokyo
+1968,Afghanistan,0,0,0,0,0,363,AFG,10465770,Ciudad de Mexico
+1968,Albania,0,0,0,0,0,363,ALB,2031167,Ciudad de Mexico
+1968,Algeria,0,0,0,0,0,363,DZA,13887045,Ciudad de Mexico
+1968,American Samoa,0,0,0,0,0,363,ASM,25886,Ciudad de Mexico
+1968,Andorra,0,0,0,0,0,363,ADO,21888,Ciudad de Mexico
+1968,Angola,0,0,0,0,0,363,AGO,5715372,Ciudad de Mexico
+1968,Antigua and Barbuda,0,0,0,0,0,363,ATG,63176,Ciudad de Mexico
+1968,Argentina,0,0,2,2,37,363,ARG,23269302,Ciudad de Mexico
+1968,Armenia,0,0,0,0,0,363,ARM,2394635,Ciudad de Mexico
+1968,Aruba,0,0,0,0,0,363,ABW,58385,Ciudad de Mexico
+1968,Australia,5,7,5,17,8,363,AUS,12009000,Ciudad de Mexico
+1968,Austria,0,2,2,4,26,363,AUT,7415403,Ciudad de Mexico
+1968,Azerbaijan,0,0,0,0,0,363,AZE,4950977,Ciudad de Mexico
+1968,"Bahamas, The",0,0,0,0,0,363,BHS,158629,Ciudad de Mexico
+1968,Bahrain,0,0,0,0,0,363,BHR,200953,Ciudad de Mexico
+1968,Bangladesh,0,0,0,0,0,363,BGD,62909226,Ciudad de Mexico
+1968,Barbados,0,0,0,0,0,363,BRB,236997,Ciudad de Mexico
+1968,Belarus,0,0,0,0,0,363,BLR,8874552,Ciudad de Mexico
+1968,Belgium,0,1,1,2,36,363,BEL,9618756,Ciudad de Mexico
+1968,Belize,0,0,0,0,0,363,BLZ,116061,Ciudad de Mexico
+1968,Benin,0,0,0,0,0,363,BEN,2788551,Ciudad de Mexico
+1968,Bermuda,0,0,0,0,0,363,BMU,53000,Ciudad de Mexico
+1968,Bhutan,0,0,0,0,0,363,BTN,273954,Ciudad de Mexico
+1968,Bolivia,0,0,0,0,0,363,BOL,4020815,Ciudad de Mexico
+1968,Bosnia and Herzegovina,0,0,0,0,0,363,BIH,3650807,Ciudad de Mexico
+1968,Botswana,0,0,0,0,0,363,BWA,650835,Ciudad de Mexico
+1968,Brazil,0,1,2,3,29,363,BRA,91377490,Ciudad de Mexico
+1968,Brunei Darussalam,0,0,0,0,0,363,BRN,118166,Ciudad de Mexico
+1968,Bulgaria,2,4,3,9,16,363,BGR,8369603,Ciudad de Mexico
+1968,Burkina Faso,0,0,0,0,0,363,BFA,5434040,Ciudad de Mexico
+1968,Burundi,0,0,0,0,0,363,BDI,3317315,Ciudad de Mexico
+1968,Cambodia,0,0,0,0,0,363,KHM,6793560,Ciudad de Mexico
+1968,Cameroon,0,1,0,1,40,363,CMR,6437157,Ciudad de Mexico
+1968,Canada,1,3,1,5,21,363,CAN,20744000,Ciudad de Mexico
+1968,Cape Verde,0,0,0,0,0,363,CPV,260848,Ciudad de Mexico
+1968,Cayman Islands,0,0,0,0,0,363,CYM,8632,Ciudad de Mexico
+1968,Central African Republic,0,0,0,0,0,363,CAF,1755260,Ciudad de Mexico
+1968,Chad,0,0,0,0,0,363,TCD,3500777,Ciudad de Mexico
+1968,Channel Islands,0,0,0,0,0,363,CHI,118726,Ciudad de Mexico
+1968,Chile,0,0,0,0,0,363,CHL,9220119,Ciudad de Mexico
+1968,China,0,0,0,0,0,363,CHN,774510000,Ciudad de Mexico
+1968,Colombia,0,0,0,0,0,363,COL,20234946,Ciudad de Mexico
+1968,Comoros,0,0,0,0,0,363,COM,221983,Ciudad de Mexico
+1968,"Congo, Dem. Rep.",0,0,0,0,0,363,ZAR,18913177,Ciudad de Mexico
+1968,"Congo, Rep.",0,0,0,0,0,363,COG,1259394,Ciudad de Mexico
+1968,Costa Rica,0,0,0,0,0,363,CRI,1729135,Ciudad de Mexico
+1968,Cote d'Ivoire,0,0,0,0,0,363,CIV,4794399,Ciudad de Mexico
+1968,Croatia,0,0,0,0,0,363,HRV,4364000,Ciudad de Mexico
+1968,Cuba,0,4,0,4,25,363,CUB,8413282,Ciudad de Mexico
+1968,Curacao,0,0,0,0,0,363,CUW,0,Ciudad de Mexico
+1968,Cyprus,0,0,0,0,0,363,CYP,598491,Ciudad de Mexico
+1968,Czech Republic,0,0,0,0,0,363,CZE,9876346,Ciudad de Mexico
+1968,Denmark,1,4,3,8,18,363,DNK,4864883,Ciudad de Mexico
+1968,Djibouti,0,0,0,0,0,363,DJI,140459,Ciudad de Mexico
+1968,Dominica,0,0,0,0,0,363,DMA,69042,Ciudad de Mexico
+1968,Dominican Republic,0,0,0,0,0,363,DOM,4271065,Ciudad de Mexico
+1968,Ecuador,0,0,0,0,0,363,ECU,5687634,Ciudad de Mexico
+1968,"Egypt, Arab Rep.",0,0,0,0,0,363,EGY,34660399,Ciudad de Mexico
+1968,El Salvador,0,0,0,0,0,363,SLV,3537318,Ciudad de Mexico
+1968,Equatorial Guinea,0,0,0,0,0,363,GNQ,288702,Ciudad de Mexico
+1968,Eritrea,0,0,0,0,0,363,ERI,1707748,Ciudad de Mexico
+1968,Estonia,0,0,0,0,0,363,EST,1334050,Ciudad de Mexico
+1968,Ethiopia,1,1,0,2,31,363,ETH,26945326,Ciudad de Mexico
+1968,Faeroe Islands,0,0,0,0,0,363,FRO,37718,Ciudad de Mexico
+1968,Fiji,0,0,0,0,0,363,FJI,498887,Ciudad de Mexico
+1968,Finland,1,2,1,4,24,363,FIN,4626469,Ciudad de Mexico
+1968,France,7,3,5,15,10,363,FRA,51175036,Ciudad de Mexico
+1968,French Polynesia,0,0,0,0,0,363,PYF,103385,Ciudad de Mexico
+1968,Gabon,0,0,0,0,0,363,GAB,565080,Ciudad de Mexico
+1968,"Gambia, The",0,0,0,0,0,363,GMB,425509,Ciudad de Mexico
+1968,Georgia,0,0,0,0,0,363,GEO,4042300,Ciudad de Mexico
+1968,Germany,0,0,0,0,0,363,DEU,77294314,Ciudad de Mexico
+1968,Ghana,0,0,0,0,0,363,GHA,8221194,Ciudad de Mexico
+1968,Greece,0,0,1,1,44,363,GRC,8740765,Ciudad de Mexico
+1968,Greenland,0,0,0,0,0,363,GRL,43400,Ciudad de Mexico
+1968,Grenada,0,0,0,0,0,363,GRD,94875,Ciudad de Mexico
+1968,Guam,0,0,0,0,0,363,GUM,80219,Ciudad de Mexico
+1968,Guatemala,0,0,0,0,0,363,GTM,5131566,Ciudad de Mexico
+1968,Guinea,0,0,0,0,0,363,GIN,4089829,Ciudad de Mexico
+1968,Guinea-Bissau,0,0,0,0,0,363,GNB,666641,Ciudad de Mexico
+1968,Guyana,0,0,0,0,0,363,GUY,693051,Ciudad de Mexico
+1968,Haiti,0,0,0,0,0,363,HTI,4538688,Ciudad de Mexico
+1968,Honduras,0,0,0,0,0,363,HND,2552200,Ciudad de Mexico
+1968,"Hong Kong SAR, China",0,0,0,0,0,363,HKG,3802700,Ciudad de Mexico
+1968,Hungary,10,10,12,32,3,363,HUN,10255815,Ciudad de Mexico
+1968,Iceland,0,0,0,0,0,363,ISL,201488,Ciudad de Mexico
+1968,India,0,0,1,1,42,363,IND,531160986,Ciudad de Mexico
+1968,Indonesia,0,0,0,0,0,363,IDN,108364330,Ciudad de Mexico
+1968,"Iran, Islamic Rep.",2,1,2,5,20,363,IRN,27113136,Ciudad de Mexico
+1968,Iraq,0,0,0,0,0,363,IRQ,9260685,Ciudad de Mexico
+1968,Ireland,0,0,0,0,0,363,IRL,2915550,Ciudad de Mexico
+1968,Isle of Man,0,0,0,0,0,363,IMY,54289,Ciudad de Mexico
+1968,Israel,0,0,0,0,0,363,ISR,2803000,Ciudad de Mexico
+1968,Italy,3,4,9,16,9,363,ITA,53235750,Ciudad de Mexico
+1968,Jamaica,0,1,0,1,41,363,JAM,1823706,Ciudad de Mexico
+1968,Japan,11,7,7,25,5,363,JPN,101061000,Ciudad de Mexico
+1968,Jordan,0,0,0,0,0,363,JOR,1358918,Ciudad de Mexico
+1968,Kazakhstan,0,0,0,0,0,363,KAZ,12682452,Ciudad de Mexico
+1968,Kenya,3,4,2,9,14,363,KEN,10502250,Ciudad de Mexico
+1968,Kiribati,0,0,0,0,0,363,KIR,41552,Ciudad de Mexico
+1968,"Korea, Dem. Rep.",0,0,0,0,0,363,PRK,13608614,Ciudad de Mexico
+1968,"Korea, Rep.",0,1,1,2,35,363,KOR,30574752,Ciudad de Mexico
+1968,Kosovo,0,0,0,0,0,363,KSV,1163000,Ciudad de Mexico
+1968,Kuwait,0,0,0,0,0,363,KWT,639328,Ciudad de Mexico
+1968,Kyrgyz Republic,0,0,0,0,0,363,KGZ,2818300,Ciudad de Mexico
+1968,Lao PDR,0,0,0,0,0,363,LAO,2554162,Ciudad de Mexico
+1968,Latvia,0,0,0,0,0,363,LVA,2323619,Ciudad de Mexico
+1968,Lebanon,0,0,0,0,0,363,LBN,2210965,Ciudad de Mexico
+1968,Lesotho,0,0,0,0,0,363,LSO,990869,Ciudad de Mexico
+1968,Liberia,0,0,0,0,0,363,LBR,1348448,Ciudad de Mexico
+1968,Libya,0,0,0,0,0,363,LBY,1919537,Ciudad de Mexico
+1968,Liechtenstein,0,0,0,0,0,363,LIE,20235,Ciudad de Mexico
+1968,Lithuania,0,0,0,0,0,363,LTU,3078850,Ciudad de Mexico
+1968,Luxembourg,0,0,0,0,0,363,LUX,335850,Ciudad de Mexico
+1968,"Macao SAR, China",0,0,0,0,0,363,MAC,237129,Ciudad de Mexico
+1968,"Macedonia, FYR",3,3,2,8,17,363,MKD,1649396,Ciudad de Mexico
+1968,Madagascar,0,0,0,0,0,363,MDG,6232704,Ciudad de Mexico
+1968,Malawi,0,0,0,0,0,363,MWI,4286430,Ciudad de Mexico
+1968,Malaysia,0,0,0,0,0,363,MYS,10375877,Ciudad de Mexico
+1968,Maldives,0,0,0,0,0,363,MDV,108458,Ciudad de Mexico
+1968,Mali,0,0,0,0,0,363,MLI,5565670,Ciudad de Mexico
+1968,Malta,0,0,0,0,0,363,MLT,307900,Ciudad de Mexico
+1968,Marshall Islands,0,0,0,0,0,363,MHL,18965,Ciudad de Mexico
+1968,Mauritania,0,0,0,0,0,363,MRT,1083646,Ciudad de Mexico
+1968,Mauritius,0,0,0,0,0,363,MUS,798413,Ciudad de Mexico
+1968,Mexico,3,3,3,9,15,363,MEX,49787609,Ciudad de Mexico
+1968,"Micronesia, Fed. Sts.",0,0,0,0,0,363,FSM,58404,Ciudad de Mexico
+1968,Moldova,0,0,0,0,0,363,MDA,2960000,Ciudad de Mexico
+1968,Monaco,0,0,0,0,0,363,MCO,23296,Ciudad de Mexico
+1968,Mongolia,0,1,3,4,27,363,MNG,1207102,Ciudad de Mexico
+1968,Montenegro,0,0,0,0,0,363,MNE,521962,Ciudad de Mexico
+1968,Morocco,0,0,0,0,0,363,MAR,15191876,Ciudad de Mexico
+1968,Mozambique,0,0,0,0,0,363,MOZ,9043116,Ciudad de Mexico
+1968,Myanmar,0,0,0,0,0,363,MMR,25853304,Ciudad de Mexico
+1968,Namibia,0,0,0,0,0,363,NAM,737802,Ciudad de Mexico
+1968,Nepal,0,0,0,0,0,363,NPL,11088215,Ciudad de Mexico
+1968,Netherlands,3,3,1,7,19,363,NLD,12729721,Ciudad de Mexico
+1968,New Caledonia,0,0,0,0,0,363,NCL,100184,Ciudad de Mexico
+1968,New Zealand,1,0,2,3,28,363,NZL,2748100,Ciudad de Mexico
+1968,Nicaragua,0,0,0,0,0,363,NIC,2257923,Ciudad de Mexico
+1968,Niger,0,0,0,0,0,363,NER,4173030,Ciudad de Mexico
+1968,Nigeria,0,0,0,0,0,363,NGA,53640549,Ciudad de Mexico
+1968,Northern Mariana Islands,0,0,0,0,0,363,MNP,12318,Ciudad de Mexico
+1968,Norway,1,1,0,2,32,363,NOR,3816486,Ciudad de Mexico
+1968,Oman,0,0,0,0,0,363,OMN,679593,Ciudad de Mexico
+1968,Pakistan,1,0,0,1,39,363,PAK,56074840,Ciudad de Mexico
+1968,Palau,0,0,0,0,0,363,PLW,11206,Ciudad de Mexico
+1968,Panama,0,0,0,0,0,363,PAN,1440312,Ciudad de Mexico
+1968,Papua New Guinea,0,0,0,0,0,363,PNG,2313016,Ciudad de Mexico
+1968,Paraguay,0,0,0,0,0,363,PRY,2360108,Ciudad de Mexico
+1968,Peru,0,0,0,0,0,363,PER,12477560,Ciudad de Mexico
+1968,Philippines,0,0,0,0,0,363,PHL,33796910,Ciudad de Mexico
+1968,Poland,5,2,11,18,7,363,POL,32294655,Ciudad de Mexico
+1968,Portugal,0,0,0,0,0,363,PRT,8836650,Ciudad de Mexico
+1968,Puerto Rico,0,0,0,0,0,363,PRI,2662064,Ciudad de Mexico
+1968,Qatar,0,0,0,0,0,363,QAT,93056,Ciudad de Mexico
+1968,Romania,4,6,5,15,11,363,ROM,19799831,Ciudad de Mexico
+1968,Russia,0,0,0,0,0,363,RUS,128927892,Ciudad de Mexico
+1968,Rwanda,0,0,0,0,0,363,RWA,3527260,Ciudad de Mexico
+1968,Samoa,0,0,0,0,0,363,WSM,137503,Ciudad de Mexico
+1968,San Marino,0,0,0,0,0,363,SMR,18588,Ciudad de Mexico
+1968,Sao Tome and Principe,0,0,0,0,0,363,STP,70040,Ciudad de Mexico
+1968,Saudi Arabia,0,0,0,0,0,363,SAU,5362099,Ciudad de Mexico
+1968,Senegal,0,0,0,0,0,363,SEN,3975826,Ciudad de Mexico
+1968,Serbia,0,0,0,0,0,363,SRB,0,Ciudad de Mexico
+1968,Seychelles,0,0,0,0,0,363,SYC,51134,Ciudad de Mexico
+1968,Sierra Leone,0,0,0,0,0,363,SLE,2439310,Ciudad de Mexico
+1968,Singapore,0,0,0,0,0,363,SGP,2012000,Ciudad de Mexico
+1968,Sint Maarten (Dutch part),0,0,0,0,0,363,SXM,0,Ciudad de Mexico
+1968,Slovak Republic,0,0,0,0,0,363,SVK,4483915,Ciudad de Mexico
+1968,Slovenia,0,0,0,0,0,363,SVN,1704546,Ciudad de Mexico
+1968,Solomon Islands,0,0,0,0,0,363,SLB,149926,Ciudad de Mexico
+1968,Somalia,0,0,0,0,0,363,SOM,3311111,Ciudad de Mexico
+1968,South Africa,0,0,0,0,0,363,ZAF,21153722,Ciudad de Mexico
+1968,South Sudan,0,0,0,0,0,363,SSD,3484292,Ciudad de Mexico
+1968,Spain,0,0,0,0,0,363,ESP,33113134,Ciudad de Mexico
+1968,Sri Lanka,0,0,0,0,0,363,LKA,11992000,Ciudad de Mexico
+1968,St. Kitts and Nevis,0,0,0,0,0,363,KNA,46399,Ciudad de Mexico
+1968,St. Lucia,0,0,0,0,0,363,LCA,101181,Ciudad de Mexico
+1968,St. Martin (French part),0,0,0,0,0,363,MAF,5161,Ciudad de Mexico
+1968,St. Vincent and the Grenadines,0,0,0,0,0,363,VCT,88615,Ciudad de Mexico
+1968,Sudan,0,0,0,0,0,363,SDN,9598196,Ciudad de Mexico
+1968,Suriname,0,0,0,0,0,363,SUR,360548,Ciudad de Mexico
+1968,Swaziland,0,0,0,0,0,363,SWZ,422266,Ciudad de Mexico
+1968,Sweden,2,1,1,4,23,363,SWE,7912273,Ciudad de Mexico
+1968,Switzerland,0,1,4,5,22,363,CHE,6067714,Ciudad de Mexico
+1968,Syrian Arab Republic,0,0,0,0,0,363,SYR,5963248,Ciudad de Mexico
+1968,Tajikistan,0,0,0,0,0,363,TJK,2743461,Ciudad de Mexico
+1968,Tanzania,0,0,0,0,0,363,TZA,12786833,Ciudad de Mexico
+1968,Thailand,0,0,0,0,0,363,THA,34785711,Ciudad de Mexico
+1968,Timor-Leste,0,0,0,0,0,363,TMP,579192,Ciudad de Mexico
+1968,Togo,0,0,0,0,0,363,TGO,1945781,Ciudad de Mexico
+1968,Tonga,0,0,0,0,0,363,TON,81096,Ciudad de Mexico
+1968,Trinidad and Tobago,0,0,0,0,0,363,TTO,931466,Ciudad de Mexico
+1968,Tunisia,1,0,1,2,33,363,TUN,4933131,Ciudad de Mexico
+1968,Turkey,2,0,0,2,30,363,TUR,33196289,Ciudad de Mexico
+1968,Turkmenistan,0,0,0,0,0,363,TKM,2066889,Ciudad de Mexico
+1968,Turks and Caicos Islands,0,0,0,0,0,363,TCA,5563,Ciudad de Mexico
+1968,Tuvalu,0,0,0,0,0,363,TUV,7128,Ciudad de Mexico
+1968,Uganda,0,1,1,2,34,363,UGA,8872890,Ciudad de Mexico
+1968,Ukraine,0,0,0,0,0,363,UKR,46409304,Ciudad de Mexico
+1968,United Arab Emirates,0,0,0,0,0,363,ARE,180762,Ciudad de Mexico
+1968,England,5,5,3,13,13,363,GBR,55211700,Ciudad de Mexico
+1968,United States,45,28,34,107,1,363,USA,200706000,Ciudad de Mexico
+1968,Uruguay,0,0,0,0,0,363,URY,2774949,Ciudad de Mexico
+1968,Uzbekistan,0,0,0,0,0,363,UZB,11254896,Ciudad de Mexico
+1968,Vanuatu,0,0,0,0,0,363,VUT,80669,Ciudad de Mexico
+1968,"Venezuela, RB",1,0,0,1,38,363,VEN,10040248,Ciudad de Mexico
+1968,Vietnam,0,0,0,0,0,363,VNM,40856187,Ciudad de Mexico
+1968,Virgin Islands (U.S.),0,0,0,0,0,363,VIR,54600,Ciudad de Mexico
+1968,West Bank and Gaza,0,0,0,0,0,363,WBG,0,Ciudad de Mexico
+1968,"Yemen, Rep.",0,0,0,0,0,363,YEM,5890204,Ciudad de Mexico
+1968,Zambia,0,0,0,0,0,363,ZMB,3929254,Ciudad de Mexico
+1968,Zimbabwe,0,0,0,0,0,363,ZWE,4874109,Ciudad de Mexico
+1972,Afghanistan,0,0,0,0,0,382,AFG,11644377,Munchen
+1972,Albania,0,0,0,0,0,382,ALB,2251320,Munchen
+1972,Algeria,0,0,0,0,0,382,DZA,15511892,Munchen
+1972,American Samoa,0,0,0,0,0,382,ASM,28490,Munchen
+1972,Andorra,0,0,0,0,0,382,ADO,26892,Munchen
+1972,Angola,0,0,0,0,0,382,AGO,6180863,Munchen
+1972,Antigua and Barbuda,0,0,0,0,0,382,ATG,67205,Munchen
+1972,Argentina,0,1,0,1,40,382,ARG,24785830,Munchen
+1972,Armenia,0,0,0,0,0,382,ARM,2643464,Munchen
+1972,Aruba,0,0,0,0,0,382,ABW,59849,Munchen
+1972,Australia,8,7,2,17,11,382,AUS,13177000,Munchen
+1972,Austria,0,1,2,3,28,382,AUT,7544201,Munchen
+1972,Azerbaijan,0,0,0,0,0,382,AZE,5393176,Munchen
+1972,"Bahamas, The",0,0,0,0,0,382,BHS,177844,Munchen
+1972,Bahrain,0,0,0,0,0,382,BHR,229588,Munchen
+1972,Bangladesh,0,0,0,0,0,382,BGD,68730070,Munchen
+1972,Barbados,0,0,0,0,0,382,BRB,241367,Munchen
+1972,Belarus,0,0,0,0,0,382,BLR,9188968,Munchen
+1972,Belgium,0,2,0,2,31,382,BEL,9711115,Munchen
+1972,Belize,0,0,0,0,0,382,BLZ,127148,Munchen
+1972,Benin,0,0,0,0,0,382,BEN,3039300,Munchen
+1972,Bermuda,0,0,0,0,0,382,BMU,54200,Munchen
+1972,Bhutan,0,0,0,0,0,382,BTN,312823,Munchen
+1972,Bolivia,0,0,0,0,0,382,BOL,4429194,Munchen
+1972,Bosnia and Herzegovina,0,0,0,0,0,382,BIH,3799098,Munchen
+1972,Botswana,0,0,0,0,0,382,BWA,740118,Munchen
+1972,Brazil,0,0,2,2,32,382,BRA,100812672,Munchen
+1972,Brunei Darussalam,0,0,0,0,0,382,BRN,141827,Munchen
+1972,Bulgaria,6,10,5,21,8,382,BGR,8576200,Munchen
+1972,Burkina Faso,0,0,0,0,0,382,BFA,5825171,Munchen
+1972,Burundi,0,0,0,0,0,382,BDI,3547335,Munchen
+1972,Cambodia,0,0,0,0,0,382,KHM,7334436,Munchen
+1972,Cameroon,0,0,0,0,0,382,CMR,7134374,Munchen
+1972,Canada,0,2,3,5,22,382,CAN,21993631,Munchen
+1972,Cape Verde,0,0,0,0,0,382,CPV,293218,Munchen
+1972,Cayman Islands,0,0,0,0,0,382,CYM,10137,Munchen
+1972,Central African Republic,0,0,0,0,0,382,CAF,1900665,Munchen
+1972,Chad,0,0,0,0,0,382,TCD,3816295,Munchen
+1972,Channel Islands,0,0,0,0,0,382,CHI,123611,Munchen
+1972,Chile,0,0,0,0,0,382,CHL,9929560,Munchen
+1972,China,0,0,0,0,0,382,CHN,862030000,Munchen
+1972,Colombia,0,1,2,3,27,382,COL,22404289,Munchen
+1972,Comoros,0,0,0,0,0,382,COM,241769,Munchen
+1972,"Congo, Dem. Rep.",0,0,0,0,0,382,ZAR,21121467,Munchen
+1972,"Congo, Rep.",0,0,0,0,0,382,COG,1418556,Munchen
+1972,Costa Rica,0,0,0,0,0,382,CRI,1911212,Munchen
+1972,Cote d'Ivoire,0,0,0,0,0,382,CIV,5747633,Munchen
+1972,Croatia,0,0,0,0,0,382,HRV,4457000,Munchen
+1972,Cuba,3,1,4,8,16,382,CUB,9025344,Munchen
+1972,Curacao,0,0,0,0,0,382,CUW,0,Munchen
+1972,Cyprus,0,0,0,0,0,382,CYP,628000,Munchen
+1972,Czech Republic,0,0,0,0,0,382,CZE,9867632,Munchen
+1972,Denmark,1,0,0,1,34,382,DNK,4991596,Munchen
+1972,Djibouti,0,0,0,0,0,382,DJI,179224,Munchen
+1972,Dominica,0,0,0,0,0,382,DMA,71737,Munchen
+1972,Dominican Republic,0,0,0,0,0,382,DOM,4780283,Munchen
+1972,Ecuador,0,0,0,0,0,382,ECU,6376333,Munchen
+1972,"Egypt, Arab Rep.",0,0,0,0,0,382,EGY,37945429,Munchen
+1972,El Salvador,0,0,0,0,0,382,SLV,3937583,Munchen
+1972,Equatorial Guinea,0,0,0,0,0,382,GNQ,274892,Munchen
+1972,Eritrea,0,0,0,0,0,382,ERI,1891998,Munchen
+1972,Estonia,0,0,0,0,0,382,EST,1392518,Munchen
+1972,Ethiopia,0,0,2,2,33,382,ETH,30135531,Munchen
+1972,Faeroe Islands,0,0,0,0,0,382,FRO,39360,Munchen
+1972,Fiji,0,0,0,0,0,382,FJI,542811,Munchen
+1972,Finland,3,1,4,8,17,382,FIN,4639657,Munchen
+1972,France,2,4,7,13,14,382,FRA,52776806,Munchen
+1972,French Polynesia,0,0,0,0,0,382,PYF,118279,Munchen
+1972,Gabon,0,0,0,0,0,382,GAB,611990,Munchen
+1972,"Gambia, The",0,0,0,0,0,382,GMB,474538,Munchen
+1972,Georgia,0,0,0,0,0,382,GEO,4205300,Munchen
+1972,Germany,0,0,0,0,0,382,DEU,78688452,Munchen
+1972,Ghana,0,0,1,1,45,382,GHA,9083737,Munchen
+1972,Greece,0,2,0,2,30,382,GRC,8888628,Munchen
+1972,Greenland,0,0,0,0,0,382,GRL,48300,Munchen
+1972,Grenada,0,0,0,0,0,382,GRD,93937,Munchen
+1972,Guam,0,0,0,0,0,382,GUM,87585,Munchen
+1972,Guatemala,0,0,0,0,0,382,GTM,5719315,Munchen
+1972,Guinea,0,0,0,0,0,382,GIN,4285526,Munchen
+1972,Guinea-Bissau,0,0,0,0,0,382,GNB,718837,Munchen
+1972,Guyana,0,0,0,0,0,382,GUY,735896,Munchen
+1972,Haiti,0,0,0,0,0,382,HTI,4880740,Munchen
+1972,Honduras,0,0,0,0,0,382,HND,2845261,Munchen
+1972,"Hong Kong SAR, China",0,0,0,0,0,382,HKG,4123600,Munchen
+1972,Hungary,6,13,16,35,5,382,HUN,10398489,Munchen
+1972,Iceland,0,0,0,0,0,382,ISL,209137,Munchen
+1972,India,0,0,1,1,47,382,IND,580798773,Munchen
+1972,Indonesia,0,0,0,0,0,382,IDN,119974444,Munchen
+1972,"Iran, Islamic Rep.",0,2,1,3,26,382,IRN,30184173,Munchen
+1972,Iraq,0,0,0,0,0,382,IRQ,10599846,Munchen
+1972,Ireland,0,0,0,0,0,382,IRL,3036850,Munchen
+1972,Isle of Man,0,0,0,0,0,382,IMY,58563,Munchen
+1972,Israel,0,0,0,0,0,382,ISR,3148000,Munchen
+1972,Italy,5,3,10,18,9,382,ITA,54381345,Munchen
+1972,Jamaica,0,0,1,1,48,382,JAM,1925162,Munchen
+1972,Japan,13,8,8,29,6,382,JPN,107188000,Munchen
+1972,Jordan,0,0,0,0,0,382,JOR,1633558,Munchen
+1972,Kazakhstan,0,0,0,0,0,382,KAZ,13540301,Munchen
+1972,Kenya,2,3,4,9,15,382,KEN,12083159,Munchen
+1972,Kiribati,0,0,0,0,0,382,KIR,45731,Munchen
+1972,"Korea, Dem. Rep.",1,1,3,5,21,382,PRK,15214618,Munchen
+1972,"Korea, Rep.",0,1,0,1,35,382,KOR,33265648,Munchen
+1972,Kosovo,0,0,0,0,0,382,KSV,1278000,Munchen
+1972,Kuwait,0,0,0,0,0,382,KWT,867326,Munchen
+1972,Kyrgyz Republic,0,0,0,0,0,382,KGZ,3088200,Munchen
+1972,Lao PDR,0,0,0,0,0,382,LAO,2836932,Munchen
+1972,Latvia,0,0,0,0,0,382,LVA,2395674,Munchen
+1972,Lebanon,0,1,0,1,37,382,LBN,2416743,Munchen
+1972,Lesotho,0,0,0,0,0,382,LSO,1075281,Munchen
+1972,Liberia,0,0,0,0,0,382,LBR,1497356,Munchen
+1972,Libya,0,0,0,0,0,382,LBY,2247280,Munchen
+1972,Liechtenstein,0,0,0,0,0,382,LIE,22153,Munchen
+1972,Lithuania,0,0,0,0,0,382,LTU,3213622,Munchen
+1972,Luxembourg,0,0,0,0,0,382,LUX,346600,Munchen
+1972,"Macao SAR, China",0,0,0,0,0,382,MAC,254282,Munchen
+1972,"Macedonia, FYR",2,1,2,5,20,382,MKD,1723445,Munchen
+1972,Madagascar,0,0,0,0,0,382,MDG,6952383,Munchen
+1972,Malawi,0,0,0,0,0,382,MWI,4812216,Munchen
+1972,Malaysia,0,0,0,0,0,382,MYS,11460080,Munchen
+1972,Maldives,0,0,0,0,0,382,MDV,121593,Munchen
+1972,Mali,0,0,0,0,0,382,MLI,5893113,Munchen
+1972,Malta,0,0,0,0,0,382,MLT,302450,Munchen
+1972,Marshall Islands,0,0,0,0,0,382,MHL,22340,Munchen
+1972,Mauritania,0,0,0,0,0,382,MRT,1217914,Munchen
+1972,Mauritius,0,0,0,0,0,382,MUS,852053,Munchen
+1972,Mexico,0,1,0,1,36,382,MEX,56395803,Munchen
+1972,"Micronesia, Fed. Sts.",0,0,0,0,0,382,FSM,62298,Munchen
+1972,Moldova,0,0,0,0,0,382,MDA,3132000,Munchen
+1972,Monaco,0,0,0,0,0,382,MCO,24052,Munchen
+1972,Mongolia,0,1,0,1,42,382,MNG,1356666,Munchen
+1972,Montenegro,0,0,0,0,0,382,MNE,540724,Munchen
+1972,Morocco,0,0,0,0,0,382,MAR,16611970,Munchen
+1972,Mozambique,0,0,0,0,0,382,MOZ,9882718,Munchen
+1972,Myanmar,0,0,0,0,0,382,MMR,28517301,Munchen
+1972,Namibia,0,0,0,0,0,382,NAM,829806,Munchen
+1972,Nepal,0,0,0,0,0,382,NPL,12060891,Munchen
+1972,Netherlands,3,1,1,5,19,382,NLD,13328593,Munchen
+1972,New Caledonia,0,0,0,0,0,382,NCL,119138,Munchen
+1972,New Zealand,1,1,1,3,24,382,NZL,2903900,Munchen
+1972,Nicaragua,0,0,0,0,0,382,NIC,2551425,Munchen
+1972,Niger,0,0,1,1,44,382,NER,4664739,Munchen
+1972,Nigeria,0,0,1,1,46,382,NGA,58829321,Munchen
+1972,Northern Mariana Islands,0,0,0,0,0,382,MNP,14142,Munchen
+1972,Norway,2,1,1,4,23,382,NOR,3933004,Munchen
+1972,Oman,0,0,0,0,0,382,OMN,776379,Munchen
+1972,Pakistan,0,1,0,1,38,382,PAK,62532284,Munchen
+1972,Palau,0,0,0,0,0,382,PLW,11853,Munchen
+1972,Panama,0,0,0,0,0,382,PAN,1614985,Munchen
+1972,Papua New Guinea,0,0,0,0,0,382,PNG,2576093,Munchen
+1972,Paraguay,0,0,0,0,0,382,PRY,2608887,Munchen
+1972,Peru,0,0,0,0,0,382,PER,13953601,Munchen
+1972,Philippines,0,0,0,0,0,382,PHL,37926125,Munchen
+1972,Poland,7,5,9,21,7,382,POL,33055650,Munchen
+1972,Portugal,0,0,0,0,0,382,PRT,8630430,Munchen
+1972,Puerto Rico,0,0,0,0,0,382,PRI,2817256,Munchen
+1972,Qatar,0,0,0,0,0,382,QAT,130390,Munchen
+1972,Romania,3,6,7,16,13,382,ROM,20657957,Munchen
+1972,Russia,0,0,0,0,0,382,RUS,131909342,Munchen
+1972,Rwanda,0,0,0,0,0,382,RWA,3983659,Munchen
+1972,Samoa,0,0,0,0,0,382,WSM,147323,Munchen
+1972,San Marino,0,0,0,0,0,382,SMR,19394,Munchen
+1972,Sao Tome and Principe,0,0,0,0,0,382,STP,77543,Munchen
+1972,Saudi Arabia,0,0,0,0,0,382,SAU,6342159,Munchen
+1972,Senegal,0,0,0,0,0,382,SEN,4485775,Munchen
+1972,Serbia,0,0,0,0,0,382,SRB,0,Munchen
+1972,Seychelles,0,0,0,0,0,382,SYC,56068,Munchen
+1972,Sierra Leone,0,0,0,0,0,382,SLE,2637861,Munchen
+1972,Singapore,0,0,0,0,0,382,SGP,2152000,Munchen
+1972,Sint Maarten (Dutch part),0,0,0,0,0,382,SXM,0,Munchen
+1972,Slovak Republic,0,0,0,0,0,382,SVK,4596622,Munchen
+1972,Slovenia,0,0,0,0,0,382,SVN,1752233,Munchen
+1972,Solomon Islands,0,0,0,0,0,382,SLB,172599,Munchen
+1972,Somalia,0,0,0,0,0,382,SOM,3490295,Munchen
+1972,South Africa,0,0,0,0,0,382,ZAF,23126276,Munchen
+1972,South Sudan,0,0,0,0,0,382,SSD,3823781,Munchen
+1972,Spain,0,0,1,1,43,382,ESP,34502705,Munchen
+1972,Sri Lanka,0,0,0,0,0,382,LKA,12861000,Munchen
+1972,St. Kitts and Nevis,0,0,0,0,0,382,KNA,44328,Munchen
+1972,St. Lucia,0,0,0,0,0,382,LCA,106458,Munchen
+1972,St. Martin (French part),0,0,0,0,0,382,MAF,5756,Munchen
+1972,St. Vincent and the Grenadines,0,0,0,0,0,382,VCT,92465,Munchen
+1972,Sudan,0,0,0,0,0,382,SDN,10918137,Munchen
+1972,Suriname,0,0,0,0,0,382,SUR,372614,Munchen
+1972,Swaziland,0,0,0,0,0,382,SWZ,472337,Munchen
+1972,Sweden,4,6,6,16,12,382,SWE,8122300,Munchen
+1972,Switzerland,0,3,0,3,25,382,CHE,6260956,Munchen
+1972,Syrian Arab Republic,0,0,0,0,0,382,SYR,6828765,Munchen
+1972,Tajikistan,0,0,0,0,0,382,TJK,3112041,Munchen
+1972,Tanzania,0,0,0,0,0,382,TZA,14504939,Munchen
+1972,Thailand,0,0,0,0,0,382,THA,39057780,Munchen
+1972,Timor-Leste,0,0,0,0,0,382,TMP,637603,Munchen
+1972,Togo,0,0,0,0,0,382,TGO,2247575,Munchen
+1972,Tonga,0,0,0,0,0,382,TON,86349,Munchen
+1972,Trinidad and Tobago,0,0,0,0,0,382,TTO,968742,Munchen
+1972,Tunisia,0,1,0,1,39,382,TUN,5294325,Munchen
+1972,Turkey,0,1,0,1,41,382,TUR,36475356,Munchen
+1972,Turkmenistan,0,0,0,0,0,382,TKM,2318070,Munchen
+1972,Turks and Caicos Islands,0,0,0,0,0,382,TCA,5924,Munchen
+1972,Tuvalu,0,0,0,0,0,382,TUV,7459,Munchen
+1972,Uganda,1,1,0,2,29,382,UGA,9988441,Munchen
+1972,Ukraine,0,0,0,0,0,382,UKR,47782683,Munchen
+1972,United Arab Emirates,0,0,0,0,0,382,ARE,322439,Munchen
+1972,England,4,5,9,18,10,382,GBR,56086065,Munchen
+1972,United States,33,31,30,94,2,382,USA,209896000,Munchen
+1972,Uruguay,0,0,0,0,0,382,URY,2821645,Munchen
+1972,Uzbekistan,0,0,0,0,0,382,UZB,12753995,Munchen
+1972,Vanuatu,0,0,0,0,0,382,VUT,90824,Munchen
+1972,"Venezuela, RB",0,0,0,0,0,382,VEN,11478612,Munchen
+1972,Vietnam,0,0,0,0,0,382,VNM,44758083,Munchen
+1972,Virgin Islands (U.S.),0,0,0,0,0,382,VIR,76000,Munchen
+1972,West Bank and Gaza,0,0,0,0,0,382,WBG,0,Munchen
+1972,"Yemen, Rep.",0,0,0,0,0,382,YEM,6290197,Munchen
+1972,Zambia,0,0,0,0,0,382,ZMB,4482567,Munchen
+1972,Zimbabwe,0,0,0,0,0,382,ZWE,5573282,Munchen
+1976,Afghanistan,0,0,0,0,0,343,AFG,12806810,Montreal
+1976,Albania,0,0,0,0,0,343,ALB,2486256,Montreal
+1976,Algeria,0,0,0,0,0,343,DZA,17311457,Montreal
+1976,American Samoa,0,0,0,0,0,343,ASM,30325,Montreal
+1976,Andorra,0,0,0,0,0,343,ADO,31781,Montreal
+1976,Angola,0,0,0,0,0,343,AGO,6808733,Montreal
+1976,Antigua and Barbuda,0,0,0,0,0,343,ATG,69782,Montreal
+1976,Argentina,0,0,0,0,0,343,ARG,26483835,Montreal
+1976,Armenia,0,0,0,0,0,343,ARM,2882831,Montreal
+1976,Aruba,0,0,0,0,0,343,ABW,60589,Montreal
+1976,Australia,0,1,4,5,22,343,AUS,14033000,Montreal
+1976,Austria,0,0,1,1,41,343,AUT,7565525,Montreal
+1976,Azerbaijan,0,0,0,0,0,343,AZE,5789050,Montreal
+1976,"Bahamas, The",0,0,0,0,0,343,BHS,192905,Montreal
+1976,Bahrain,0,0,0,0,0,343,BHR,283843,Montreal
+1976,Bangladesh,0,0,0,0,0,343,BGD,73944664,Montreal
+1976,Barbados,0,0,0,0,0,343,BRB,246536,Montreal
+1976,Belarus,0,0,0,0,0,343,BLR,9411000,Montreal
+1976,Belgium,0,3,3,6,19,343,BEL,9818227,Montreal
+1976,Belize,0,0,0,0,0,343,BLZ,135145,Montreal
+1976,Benin,0,0,0,0,0,343,BEN,3345501,Montreal
+1976,Bermuda,0,0,1,1,39,343,BMU,53200,Montreal
+1976,Bhutan,0,0,0,0,0,343,BTN,362006,Montreal
+1976,Bolivia,0,0,0,0,0,343,BOL,4884284,Montreal
+1976,Bosnia and Herzegovina,0,0,0,0,0,343,BIH,3958587,Montreal
+1976,Botswana,0,0,0,0,0,343,BWA,854746,Montreal
+1976,Brazil,0,0,2,2,33,343,BRA,110808302,Montreal
+1976,Brunei Darussalam,0,0,0,0,0,343,BRN,167275,Montreal
+1976,Bulgaria,6,9,7,22,8,343,BGR,8758599,Montreal
+1976,Burkina Faso,0,0,0,0,0,343,BFA,6274037,Montreal
+1976,Burundi,0,0,0,0,0,343,BDI,3744678,Montreal
+1976,Cambodia,0,0,0,0,0,343,KHM,7430726,Montreal
+1976,Cameroon,0,0,0,0,0,343,CMR,7959500,Montreal
+1976,Canada,0,5,6,11,13,343,CAN,23518000,Montreal
+1976,Cape Verde,0,0,0,0,0,343,CPV,312516,Montreal
+1976,Cayman Islands,0,0,0,0,0,343,CYM,13020,Montreal
+1976,Central African Republic,0,0,0,0,0,343,CAF,2061620,Montreal
+1976,Chad,0,0,0,0,0,343,TCD,4173072,Montreal
+1976,Channel Islands,0,0,0,0,0,343,CHI,126906,Montreal
+1976,Chile,0,0,0,0,0,343,CHL,10580399,Montreal
+1976,China,0,0,0,0,0,343,CHN,930685000,Montreal
+1976,Colombia,0,0,0,0,0,343,COL,24557647,Montreal
+1976,Comoros,0,0,0,0,0,343,COM,269912,Montreal
+1976,"Congo, Dem. Rep.",0,0,0,0,0,343,ZAR,23554958,Montreal
+1976,"Congo, Rep.",0,0,0,0,0,343,COG,1600295,Montreal
+1976,Costa Rica,0,0,0,0,0,343,CRI,2105377,Montreal
+1976,Cote d'Ivoire,0,0,0,0,0,343,CIV,6916167,Montreal
+1976,Croatia,0,0,0,0,0,343,HRV,4530000,Montreal
+1976,Cuba,6,4,3,13,10,343,CUB,9543798,Montreal
+1976,Curacao,0,0,0,0,0,343,CUW,0,Montreal
+1976,Cyprus,0,0,0,0,0,343,CYP,657526,Montreal
+1976,Czech Republic,0,0,0,0,0,343,CZE,10125939,Montreal
+1976,Denmark,1,0,2,3,25,343,DNK,5072596,Montreal
+1976,Djibouti,0,0,0,0,0,343,DJI,248710,Montreal
+1976,Dominica,0,0,0,0,0,343,DMA,72648,Montreal
+1976,Dominican Republic,0,0,0,0,0,343,DOM,5298530,Montreal
+1976,Ecuador,0,0,0,0,0,343,ECU,7119087,Montreal
+1976,"Egypt, Arab Rep.",0,0,0,0,0,343,EGY,41212513,Montreal
+1976,El Salvador,0,0,0,0,0,343,SLV,4324952,Montreal
+1976,Equatorial Guinea,0,0,0,0,0,343,GNQ,228527,Montreal
+1976,Eritrea,0,0,0,0,0,343,ERI,2120634,Montreal
+1976,Estonia,0,0,0,0,0,343,EST,1439576,Montreal
+1976,Ethiopia,0,0,0,0,0,343,ETH,33145955,Montreal
+1976,Faeroe Islands,0,0,0,0,0,343,FRO,40974,Montreal
+1976,Fiji,0,0,0,0,0,343,FJI,587522,Montreal
+1976,Finland,4,2,0,6,17,343,FIN,4725664,Montreal
+1976,France,2,3,4,9,14,343,FRA,54328016,Montreal
+1976,French Polynesia,0,0,0,0,0,343,PYF,134743,Montreal
+1976,Gabon,0,0,0,0,0,343,GAB,662036,Montreal
+1976,"Gambia, The",0,0,0,0,0,343,GMB,536409,Montreal
+1976,Georgia,0,0,0,0,0,343,GEO,4342400,Montreal
+1976,Germany,0,0,0,0,0,343,DEU,78336950,Montreal
+1976,Ghana,0,0,0,0,0,343,GHA,10023738,Montreal
+1976,Greece,0,0,0,0,0,343,GRC,9188150,Montreal
+1976,Greenland,0,0,0,0,0,343,GRL,49700,Montreal
+1976,Grenada,0,0,0,0,0,343,GRD,91435,Montreal
+1976,Guam,0,0,0,0,0,343,GUM,95386,Montreal
+1976,Guatemala,0,0,0,0,0,343,GTM,6352074,Montreal
+1976,Guinea,0,0,0,0,0,343,GIN,4366830,Montreal
+1976,Guinea-Bissau,0,0,0,0,0,343,GNB,789452,Montreal
+1976,Guyana,0,0,0,0,0,343,GUY,755241,Montreal
+1976,Haiti,0,0,0,0,0,343,HTI,5241510,Montreal
+1976,Honduras,0,0,0,0,0,343,HND,3204880,Montreal
+1976,"Hong Kong SAR, China",0,0,0,0,0,343,HKG,4518000,Montreal
+1976,Hungary,4,5,13,22,9,343,HUN,10598677,Montreal
+1976,Iceland,0,0,0,0,0,343,ISL,220154,Montreal
+1976,India,0,0,0,0,0,343,IND,636883717,Montreal
+1976,Indonesia,0,0,0,0,0,343,IDN,132385413,Montreal
+1976,"Iran, Islamic Rep.",0,1,1,2,32,343,IRN,33901414,Montreal
+1976,Iraq,0,0,0,0,0,343,IRQ,12068300,Montreal
+1976,Ireland,0,0,0,0,0,343,IRL,3238050,Montreal
+1976,Isle of Man,0,0,0,0,0,343,IMY,61900,Montreal
+1976,Israel,0,0,0,0,0,343,ISR,3533000,Montreal
+1976,Italy,2,7,4,13,12,343,ITA,55718260,Montreal
+1976,Jamaica,1,1,0,2,27,343,JAM,2037716,Montreal
+1976,Japan,9,6,10,25,7,343,JPN,112771000,Montreal
+1976,Jordan,0,0,0,0,0,343,JOR,1876274,Montreal
+1976,Kazakhstan,0,0,0,0,0,343,KAZ,14281735,Montreal
+1976,Kenya,0,0,0,0,0,343,KEN,13995996,Montreal
+1976,Kiribati,0,0,0,0,0,343,KIR,49466,Montreal
+1976,"Korea, Dem. Rep.",1,1,0,2,26,343,PRK,16539033,Montreal
+1976,"Korea, Rep.",1,1,4,6,18,343,KOR,35849000,Montreal
+1976,Kosovo,0,0,0,0,0,343,KSV,1400000,Montreal
+1976,Kuwait,0,0,0,0,0,343,KWT,1112107,Montreal
+1976,Kyrgyz Republic,0,0,0,0,0,343,KGZ,3358700,Montreal
+1976,Lao PDR,0,0,0,0,0,343,LAO,3093537,Montreal
+1976,Latvia,0,0,0,0,0,343,LVA,2470989,Montreal
+1976,Lebanon,0,0,0,0,0,343,LBN,2598362,Montreal
+1976,Lesotho,0,0,0,0,0,343,LSO,1177975,Montreal
+1976,Liberia,0,0,0,0,0,343,LBR,1676016,Montreal
+1976,Libya,0,0,0,0,0,343,LBY,2632823,Montreal
+1976,Liechtenstein,0,0,0,0,0,343,LIE,23926,Montreal
+1976,Lithuania,0,0,0,0,0,343,LTU,3328664,Montreal
+1976,Luxembourg,0,0,0,0,0,343,LUX,360731,Montreal
+1976,"Macao SAR, China",0,0,0,0,0,343,MAC,245915,Montreal
+1976,"Macedonia, FYR",2,3,3,8,15,343,MKD,1795556,Montreal
+1976,Madagascar,0,0,0,0,0,343,MDG,7799642,Montreal
+1976,Malawi,0,0,0,0,0,343,MWI,5478781,Montreal
+1976,Malaysia,0,0,0,0,0,343,MYS,12599655,Montreal
+1976,Maldives,0,0,0,0,0,343,MDV,137965,Montreal
+1976,Mali,0,0,0,0,0,343,MLI,6293218,Montreal
+1976,Malta,0,0,0,0,0,343,MLT,305774,Montreal
+1976,Marshall Islands,0,0,0,0,0,343,MHL,26549,Montreal
+1976,Mauritania,0,0,0,0,0,343,MRT,1367629,Montreal
+1976,Mauritius,0,0,0,0,0,343,MUS,906507,Montreal
+1976,Mexico,1,0,1,2,29,343,MEX,63486196,Montreal
+1976,"Micronesia, Fed. Sts.",0,0,0,0,0,343,FSM,64386,Montreal
+1976,Moldova,0,0,0,0,0,343,MDA,3284000,Montreal
+1976,Monaco,0,0,0,0,0,343,MCO,25521,Montreal
+1976,Mongolia,0,1,0,1,36,343,MNG,1520864,Montreal
+1976,Montenegro,0,0,0,0,0,343,MNE,559690,Montreal
+1976,Morocco,0,0,0,0,0,343,MAR,18074081,Montreal
+1976,Mozambique,0,0,0,0,0,343,MOZ,10908161,Montreal
+1976,Myanmar,0,0,0,0,0,343,MMR,31379211,Montreal
+1976,Namibia,0,0,0,0,0,343,NAM,928228,Montreal
+1976,Nepal,0,0,0,0,0,343,NPL,13156441,Montreal
+1976,Netherlands,0,2,3,5,21,343,NLD,13774037,Montreal
+1976,New Caledonia,0,0,0,0,0,343,NCL,136203,Montreal
+1976,New Zealand,2,1,1,4,23,343,NZL,3110500,Montreal
+1976,Nicaragua,0,0,0,0,0,343,NIC,2885281,Montreal
+1976,Niger,0,0,0,0,0,343,NER,5214731,Montreal
+1976,Nigeria,0,0,0,0,0,343,NGA,65426979,Montreal
+1976,Northern Mariana Islands,0,0,0,0,0,343,MNP,15316,Montreal
+1976,Norway,1,1,0,2,28,343,NOR,4026152,Montreal
+1976,Oman,0,0,0,0,0,343,OMN,927433,Montreal
+1976,Pakistan,0,0,1,1,40,343,PAK,70268556,Montreal
+1976,Palau,0,0,0,0,0,343,PLW,12284,Montreal
+1976,Panama,0,0,0,0,0,343,PAN,1800516,Montreal
+1976,Papua New Guinea,0,0,0,0,0,343,PNG,2888510,Montreal
+1976,Paraguay,0,0,0,0,0,343,PRY,2876352,Montreal
+1976,Peru,0,0,0,0,0,343,PER,15585924,Montreal
+1976,Philippines,0,0,0,0,0,343,PHL,42462461,Montreal
+1976,Poland,7,6,13,26,6,343,POL,34356300,Montreal
+1976,Portugal,0,2,0,2,31,343,PRT,9355810,Montreal
+1976,Puerto Rico,0,0,1,1,38,343,PRI,3043854,Montreal
+1976,Qatar,0,0,0,0,0,343,QAT,173786,Montreal
+1976,Romania,4,9,14,27,5,343,ROM,21551634,Montreal
+1976,Russia,0,0,0,0,0,343,RUS,135146686,Montreal
+1976,Rwanda,0,0,0,0,0,343,RWA,4499767,Montreal
+1976,Samoa,0,0,0,0,0,343,WSM,152390,Montreal
+1976,San Marino,0,0,0,0,0,343,SMR,19986,Montreal
+1976,Sao Tome and Principe,0,0,0,0,0,343,STP,84874,Montreal
+1976,Saudi Arabia,0,0,0,0,0,343,SAU,7790588,Montreal
+1976,Senegal,0,0,0,0,0,343,SEN,5032394,Montreal
+1976,Serbia,0,0,0,0,0,343,SRB,0,Montreal
+1976,Seychelles,0,0,0,0,0,343,SYC,60704,Montreal
+1976,Sierra Leone,0,0,0,0,0,343,SLE,2887735,Montreal
+1976,Singapore,0,0,0,0,0,343,SGP,2293000,Montreal
+1976,Sint Maarten (Dutch part),0,0,0,0,0,343,SXM,0,Montreal
+1976,Slovak Republic,0,0,0,0,0,343,SVK,4789507,Montreal
+1976,Slovenia,0,0,0,0,0,343,SVN,1820249,Montreal
+1976,Solomon Islands,0,0,0,0,0,343,SLB,200642,Montreal
+1976,Somalia,0,0,0,0,0,343,SOM,4259636,Montreal
+1976,South Africa,0,0,0,0,0,343,ZAF,25268094,Montreal
+1976,South Sudan,0,0,0,0,0,343,SSD,4222557,Montreal
+1976,Spain,0,2,0,2,30,343,ESP,35939437,Montreal
+1976,Sri Lanka,0,0,0,0,0,343,LKA,13717000,Montreal
+1976,St. Kitts and Nevis,0,0,0,0,0,343,KNA,44142,Montreal
+1976,St. Lucia,0,0,0,0,0,343,LCA,111211,Montreal
+1976,St. Martin (French part),0,0,0,0,0,343,MAF,6530,Montreal
+1976,St. Vincent and the Grenadines,0,0,0,0,0,343,VCT,96639,Montreal
+1976,Sudan,0,0,0,0,0,343,SDN,12506035,Montreal
+1976,Suriname,0,0,0,0,0,343,SUR,363278,Montreal
+1976,Swaziland,0,0,0,0,0,343,SWZ,533264,Montreal
+1976,Sweden,4,1,0,5,20,343,SWE,8222286,Montreal
+1976,Switzerland,1,1,2,4,24,343,CHE,6302504,Montreal
+1976,Syrian Arab Republic,0,0,0,0,0,343,SYR,7822610,Montreal
+1976,Tajikistan,0,0,0,0,0,343,TJK,3511050,Montreal
+1976,Tanzania,0,0,0,0,0,343,TZA,16491793,Montreal
+1976,Thailand,0,0,1,1,37,343,THA,43382444,Montreal
+1976,Timor-Leste,0,0,0,0,0,343,TMP,652114,Montreal
+1976,Togo,0,0,0,0,0,343,TGO,2464459,Montreal
+1976,Tonga,0,0,0,0,0,343,TON,89258,Montreal
+1976,Trinidad and Tobago,1,0,0,1,34,343,TTO,1025655,Montreal
+1976,Tunisia,0,0,0,0,0,343,TUN,5742339,Montreal
+1976,Turkey,0,0,0,0,0,343,TUR,40100696,Montreal
+1976,Turkmenistan,0,0,0,0,0,343,TKM,2587417,Montreal
+1976,Turks and Caicos Islands,0,0,0,0,0,343,TCA,6723,Montreal
+1976,Tuvalu,0,0,0,0,0,343,TUV,7752,Montreal
+1976,Uganda,0,0,0,0,0,343,UGA,11139632,Montreal
+1976,Ukraine,0,0,0,0,0,343,UKR,49036548,Montreal
+1976,United Arab Emirates,0,0,0,0,0,343,ARE,623450,Montreal
+1976,England,3,5,5,13,11,343,GBR,56211968,Montreal
+1976,United States,34,35,25,94,2,343,USA,218035000,Montreal
+1976,Uruguay,0,0,0,0,0,343,URY,2841603,Montreal
+1976,Uzbekistan,0,0,0,0,0,343,UZB,14386952,Montreal
+1976,Vanuatu,0,0,0,0,0,343,VUT,103024,Montreal
+1976,"Venezuela, RB",0,1,0,1,35,343,VEN,13196169,Montreal
+1976,Vietnam,0,0,0,0,0,343,VNM,49157643,Montreal
+1976,Virgin Islands (U.S.),0,0,0,0,0,343,VIR,96000,Montreal
+1976,West Bank and Gaza,0,0,0,0,0,343,WBG,0,Montreal
+1976,"Yemen, Rep.",0,0,0,0,0,343,YEM,6866630,Montreal
+1976,Zambia,0,0,0,0,0,343,ZMB,5131916,Montreal
+1976,Zimbabwe,0,0,0,0,0,343,ZWE,6373946,Montreal
+1980,Afghanistan,0,0,0,0,0,287,AFG,13180431,Moskva
+1980,Albania,0,0,0,0,0,287,ALB,2734776,Moskva
+1980,Algeria,0,0,0,0,0,287,DZA,19475204,Moskva
+1980,American Samoa,0,0,0,0,0,287,ASM,32456,Moskva
+1980,Andorra,0,0,0,0,0,287,ADO,36063,Moskva
+1980,Angola,0,0,0,0,0,287,AGO,7637141,Moskva
+1980,Antigua and Barbuda,0,0,0,0,0,287,ATG,70301,Moskva
+1980,Argentina,0,0,0,0,0,287,ARG,28120135,Moskva
+1980,Armenia,0,0,0,0,0,287,ARM,3096298,Moskva
+1980,Aruba,0,0,0,0,0,287,ABW,60096,Moskva
+1980,Australia,2,2,5,9,14,287,AUS,14692000,Moskva
+1980,Austria,1,2,1,4,21,287,AUT,7549433,Moskva
+1980,Azerbaijan,0,0,0,0,0,287,AZE,6163990,Moskva
+1980,"Bahamas, The",0,0,0,0,0,287,BHS,210660,Moskva
+1980,Bahrain,0,0,0,0,0,287,BHR,359902,Moskva
+1980,Bangladesh,0,0,0,0,0,287,BGD,82498440,Moskva
+1980,Barbados,0,0,0,0,0,287,BRB,248784,Moskva
+1980,Belarus,0,0,0,0,0,287,BLR,9643000,Moskva
+1980,Belgium,1,0,0,1,30,287,BEL,9859242,Moskva
+1980,Belize,0,0,0,0,0,287,BLZ,144151,Moskva
+1980,Benin,0,0,0,0,0,287,BEN,3718024,Moskva
+1980,Bermuda,0,0,0,0,0,287,BMU,54670,Moskva
+1980,Bhutan,0,0,0,0,0,287,BTN,412745,Moskva
+1980,Bolivia,0,0,0,0,0,287,BOL,5368901,Moskva
+1980,Bosnia and Herzegovina,0,0,0,0,0,287,BIH,4099903,Moskva
+1980,Botswana,0,0,0,0,0,287,BWA,997534,Moskva
+1980,Brazil,2,0,2,4,19,287,BRA,121740438,Moskva
+1980,Brunei Darussalam,0,0,0,0,0,287,BRN,193049,Moskva
+1980,Bulgaria,8,16,17,41,3,287,BGR,8861535,Moskva
+1980,Burkina Faso,0,0,0,0,0,287,BFA,6822840,Moskva
+1980,Burundi,0,0,0,0,0,287,BDI,4126538,Moskva
+1980,Cambodia,0,0,0,0,0,287,KHM,6699273,Moskva
+1980,Cameroon,0,0,0,0,0,287,CMR,8932121,Moskva
+1980,Canada,0,0,0,0,0,287,CAN,24593000,Moskva
+1980,Cape Verde,0,0,0,0,0,287,CPV,301591,Moskva
+1980,Cayman Islands,0,0,0,0,0,287,CYM,16164,Moskva
+1980,Central African Republic,0,0,0,0,0,287,CAF,2274089,Moskva
+1980,Chad,0,0,0,0,0,287,TCD,4512758,Moskva
+1980,Channel Islands,0,0,0,0,0,287,CHI,128213,Moskva
+1980,Chile,0,0,0,0,0,287,CHL,11192384,Moskva
+1980,China,0,0,0,0,0,287,CHN,981235000,Moskva
+1980,Colombia,0,0,0,0,0,287,COL,26934591,Moskva
+1980,Comoros,0,0,0,0,0,287,COM,313598,Moskva
+1980,"Congo, Dem. Rep.",0,0,0,0,0,287,ZAR,26357407,Moskva
+1980,"Congo, Rep.",0,0,0,0,0,287,COG,1796412,Moskva
+1980,Costa Rica,0,0,0,0,0,287,CRI,2348427,Moskva
+1980,Cote d'Ivoire,0,0,0,0,0,287,CIV,8265549,Moskva
+1980,Croatia,0,0,0,0,0,287,HRV,4588000,Moskva
+1980,Cuba,8,7,5,20,8,287,CUB,9835085,Moskva
+1980,Curacao,0,0,0,0,0,287,CUW,0,Moskva
+1980,Cyprus,0,0,0,0,0,287,CYP,685406,Moskva
+1980,Czech Republic,0,0,0,0,0,287,CZE,10304193,Moskva
+1980,Denmark,2,1,2,5,17,287,DNK,5123027,Moskva
+1980,Djibouti,0,0,0,0,0,287,DJI,359247,Moskva
+1980,Dominica,0,0,0,0,0,287,DMA,75313,Moskva
+1980,Dominican Republic,0,0,0,0,0,287,DOM,5825715,Moskva
+1980,Ecuador,0,0,0,0,0,287,ECU,7909432,Moskva
+1980,"Egypt, Arab Rep.",0,0,0,0,0,287,EGY,44931971,Moskva
+1980,El Salvador,0,0,0,0,0,287,SLV,4660556,Moskva
+1980,Equatorial Guinea,0,0,0,0,0,287,GNQ,220589,Moskva
+1980,Eritrea,0,0,0,0,0,287,ERI,2414647,Moskva
+1980,Estonia,0,0,0,0,0,287,EST,1477219,Moskva
+1980,Ethiopia,2,0,2,4,20,287,ETH,35241209,Moskva
+1980,Faeroe Islands,0,0,0,0,0,287,FRO,43010,Moskva
+1980,Fiji,0,0,0,0,0,287,FJI,635256,Moskva
+1980,Finland,3,1,4,8,15,287,FIN,4779535,Moskva
+1980,France,6,5,3,14,10,287,FRA,55224670,Moskva
+1980,French Polynesia,0,0,0,0,0,287,PYF,151702,Moskva
+1980,Gabon,0,0,0,0,0,287,GAB,726454,Moskva
+1980,"Gambia, The",0,0,0,0,0,287,GMB,604371,Moskva
+1980,Georgia,0,0,0,0,0,287,GEO,4467700,Moskva
+1980,Germany,0,0,0,0,0,287,DEU,78288576,Moskva
+1980,Ghana,0,0,0,0,0,287,GHA,10802497,Moskva
+1980,Greece,1,0,2,3,24,287,GRC,9642505,Moskva
+1980,Greenland,0,0,0,0,0,287,GRL,50200,Moskva
+1980,Grenada,0,0,0,0,0,287,GRD,89004,Moskva
+1980,Guam,0,0,0,0,0,287,GUM,104131,Moskva
+1980,Guatemala,0,0,0,0,0,287,GTM,7001101,Moskva
+1980,Guinea,0,0,0,0,0,287,GIN,4495479,Moskva
+1980,Guinea-Bissau,0,0,0,0,0,287,GNB,818280,Moskva
+1980,Guyana,0,0,1,1,35,287,GUY,776927,Moskva
+1980,Haiti,0,0,0,0,0,287,HTI,5691941,Moskva
+1980,Honduras,0,0,0,0,0,287,HND,3635862,Moskva
+1980,"Hong Kong SAR, China",0,0,0,0,0,287,HKG,5063100,Moskva
+1980,Hungary,7,10,15,32,4,287,HUN,10711122,Moskva
+1980,Iceland,0,0,0,0,0,287,ISL,228138,Moskva
+1980,India,1,0,0,1,31,287,IND,698965575,Moskva
+1980,Indonesia,0,0,0,0,0,287,IDN,145494452,Moskva
+1980,"Iran, Islamic Rep.",0,0,0,0,0,287,IRN,38889520,Moskva
+1980,Iraq,0,0,0,0,0,287,IRQ,13653358,Moskva
+1980,Ireland,0,1,1,2,29,287,IRL,3412800,Moskva
+1980,Isle of Man,0,0,0,0,0,287,IMY,65108,Moskva
+1980,Israel,0,0,0,0,0,287,ISR,3878000,Moskva
+1980,Italy,8,3,4,15,9,287,ITA,56433883,Moskva
+1980,Jamaica,0,0,3,3,26,287,JAM,2133000,Moskva
+1980,Japan,0,0,0,0,0,287,JPN,116782000,Moskva
+1980,Jordan,0,0,0,0,0,287,JOR,2181000,Moskva
+1980,Kazakhstan,0,0,0,0,0,287,KAZ,14898332,Moskva
+1980,Kenya,0,0,0,0,0,287,KEN,16267906,Moskva
+1980,Kiribati,0,0,0,0,0,287,KIR,54510,Moskva
+1980,"Korea, Dem. Rep.",0,3,2,5,18,287,PRK,17372172,Moskva
+1980,"Korea, Rep.",0,0,0,0,0,287,KOR,38124000,Moskva
+1980,Kosovo,0,0,0,0,0,287,KSV,1521000,Moskva
+1980,Kuwait,0,0,0,0,0,287,KWT,1371494,Moskva
+1980,Kyrgyz Republic,0,0,0,0,0,287,KGZ,3617400,Moskva
+1980,Lao PDR,0,0,0,0,0,287,LAO,3250924,Moskva
+1980,Latvia,0,0,0,0,0,287,LVA,2511701,Moskva
+1980,Lebanon,0,0,1,1,36,287,LBN,2605294,Moskva
+1980,Lesotho,0,0,0,0,0,287,LSO,1307403,Moskva
+1980,Liberia,0,0,0,0,0,287,LBR,1892529,Moskva
+1980,Libya,0,0,0,0,0,287,LBY,3078255,Moskva
+1980,Liechtenstein,0,0,0,0,0,287,LIE,25869,Moskva
+1980,Lithuania,0,0,0,0,0,287,LTU,3413202,Moskva
+1980,Luxembourg,0,0,0,0,0,287,LUX,364150,Moskva
+1980,"Macao SAR, China",0,0,0,0,0,287,MAC,246236,Moskva
+1980,"Macedonia, FYR",2,3,4,9,13,287,MKD,1895727,Moskva
+1980,Madagascar,0,0,0,0,0,287,MDG,8746516,Moskva
+1980,Malawi,0,0,0,0,0,287,MWI,6236824,Moskva
+1980,Malaysia,0,0,0,0,0,287,MYS,13833739,Moskva
+1980,Maldives,0,0,0,0,0,287,MDV,154316,Moskva
+1980,Mali,0,0,0,0,0,287,MLI,6735247,Moskva
+1980,Malta,0,0,0,0,0,287,MLT,316645,Moskva
+1980,Marshall Islands,0,0,0,0,0,287,MHL,30581,Moskva
+1980,Mauritania,0,0,0,0,0,287,MRT,1534141,Moskva
+1980,Mauritius,0,0,0,0,0,287,MUS,966000,Moskva
+1980,Mexico,0,1,3,4,23,287,MEX,70353013,Moskva
+1980,"Micronesia, Fed. Sts.",0,0,0,0,0,287,FSM,72967,Moskva
+1980,Moldova,0,0,0,0,0,287,MDA,3397000,Moskva
+1980,Monaco,0,0,0,0,0,287,MCO,26746,Moskva
+1980,Mongolia,0,2,2,4,22,287,MNG,1689621,Moskva
+1980,Montenegro,0,0,0,0,0,287,MNE,579088,Moskva
+1980,Morocco,0,0,0,0,0,287,MAR,19798703,Moskva
+1980,Mozambique,0,0,0,0,0,287,MOZ,12142014,Moskva
+1980,Myanmar,0,0,0,0,0,287,MMR,34474755,Moskva
+1980,Namibia,0,0,0,0,0,287,NAM,1012761,Moskva
+1980,Nepal,0,0,0,0,0,287,NPL,14384864,Moskva
+1980,Netherlands,0,1,2,3,25,287,NLD,14149800,Moskva
+1980,New Caledonia,0,0,0,0,0,287,NCL,143000,Moskva
+1980,New Zealand,0,0,0,0,0,287,NZL,3112900,Moskva
+1980,Nicaragua,0,0,0,0,0,287,NIC,3250470,Moskva
+1980,Niger,0,0,0,0,0,287,NER,5834248,Moskva
+1980,Nigeria,0,0,0,0,0,287,NGA,73698099,Moskva
+1980,Northern Mariana Islands,0,0,0,0,0,287,MNP,17048,Moskva
+1980,Norway,0,0,0,0,0,287,NOR,4085620,Moskva
+1980,Oman,0,0,0,0,0,287,OMN,1154375,Moskva
+1980,Pakistan,0,0,0,0,0,287,PAK,79984297,Moskva
+1980,Palau,0,0,0,0,0,287,PLW,12197,Moskva
+1980,Panama,0,0,0,0,0,287,PAN,1990062,Moskva
+1980,Papua New Guinea,0,0,0,0,0,287,PNG,3215483,Moskva
+1980,Paraguay,0,0,0,0,0,287,PRY,3198848,Moskva
+1980,Peru,0,0,0,0,0,287,PER,17328542,Moskva
+1980,Philippines,0,0,0,0,0,287,PHL,47398432,Moskva
+1980,Poland,3,14,15,32,5,287,POL,35574150,Moskva
+1980,Portugal,0,0,0,0,0,287,PRT,9766312,Moskva
+1980,Puerto Rico,0,0,0,0,0,287,PRI,3206000,Moskva
+1980,Qatar,0,0,0,0,0,287,QAT,223752,Moskva
+1980,Romania,6,6,13,25,6,287,ROM,22242653,Moskva
+1980,Russia,0,0,0,0,0,287,RUS,139010000,Moskva
+1980,Rwanda,0,0,0,0,0,287,RWA,5140786,Moskva
+1980,Samoa,0,0,0,0,0,287,WSM,155554,Moskva
+1980,San Marino,0,0,0,0,0,287,SMR,21397,Moskva
+1980,Sao Tome and Principe,0,0,0,0,0,287,STP,94953,Moskva
+1980,Saudi Arabia,0,0,0,0,0,287,SAU,9843265,Moskva
+1980,Senegal,0,0,0,0,0,287,SEN,5568908,Moskva
+1980,Serbia,0,0,0,0,0,287,SRB,0,Moskva
+1980,Seychelles,0,0,0,0,0,287,SYC,64400,Moskva
+1980,Sierra Leone,0,0,0,0,0,287,SLE,3180237,Moskva
+1980,Singapore,0,0,0,0,0,287,SGP,2414000,Moskva
+1980,Sint Maarten (Dutch part),0,0,0,0,0,287,SXM,0,Moskva
+1980,Slovak Republic,0,0,0,0,0,287,SVK,4979815,Moskva
+1980,Slovenia,0,0,0,0,0,287,SVN,1901315,Moskva
+1980,Solomon Islands,0,0,0,0,0,287,SLB,230614,Moskva
+1980,Somalia,0,0,0,0,0,287,SOM,6089707,Moskva
+1980,South Africa,0,0,0,0,0,287,ZAF,27576000,Moskva
+1980,South Sudan,0,0,0,0,0,287,SSD,4701961,Moskva
+1980,Spain,1,3,2,6,16,287,ESP,37439035,Moskva
+1980,Sri Lanka,0,0,0,0,0,287,LKA,14747000,Moskva
+1980,St. Kitts and Nevis,0,0,0,0,0,287,KNA,43205,Moskva
+1980,St. Lucia,0,0,0,0,0,287,LCA,117984,Moskva
+1980,St. Martin (French part),0,0,0,0,0,287,MAF,7580,Moskva
+1980,St. Vincent and the Grenadines,0,0,0,0,0,287,VCT,100506,Moskva
+1980,Sudan,0,0,0,0,0,287,SDN,14418063,Moskva
+1980,Suriname,0,0,0,0,0,287,SUR,365616,Moskva
+1980,Swaziland,0,0,0,0,0,287,SWZ,603373,Moskva
+1980,Sweden,3,3,6,12,12,287,SWE,8310531,Moskva
+1980,Switzerland,2,0,0,2,27,287,CHE,6319408,Moskva
+1980,Syrian Arab Republic,0,0,0,0,0,287,SYR,8956156,Moskva
+1980,Tajikistan,0,0,0,0,0,287,TJK,3917642,Moskva
+1980,Tanzania,0,2,0,2,28,287,TZA,18686808,Moskva
+1980,Thailand,0,0,0,0,0,287,THA,47369137,Moskva
+1980,Timor-Leste,0,0,0,0,0,287,TMP,580730,Moskva
+1980,Togo,0,0,0,0,0,287,TGO,2720838,Moskva
+1980,Tonga,0,0,0,0,0,287,TON,93007,Moskva
+1980,Trinidad and Tobago,0,0,0,0,0,287,TTO,1085308,Moskva
+1980,Tunisia,0,0,0,0,0,287,TUN,6384000,Moskva
+1980,Turkey,0,0,0,0,0,287,TUR,43905790,Moskva
+1980,Turkmenistan,0,0,0,0,0,287,TKM,2861000,Moskva
+1980,Turks and Caicos Islands,0,0,0,0,0,287,TCA,7525,Moskva
+1980,Tuvalu,0,0,0,0,0,287,TUV,8051,Moskva
+1980,Uganda,0,1,0,1,34,287,UGA,12549779,Moskva
+1980,Ukraine,0,0,0,0,0,287,UKR,49973757,Moskva
+1980,United Arab Emirates,0,0,0,0,0,287,ARE,1014825,Moskva
+1980,England,5,7,9,21,7,287,GBR,56314216,Moskva
+1980,United States,0,0,0,0,0,287,USA,227225000,Moskva
+1980,Uruguay,0,0,0,0,0,287,URY,2915735,Moskva
+1980,Uzbekistan,0,0,0,0,0,287,UZB,16026812,Moskva
+1980,Vanuatu,0,0,0,0,0,287,VUT,115634,Moskva
+1980,"Venezuela, RB",0,1,0,1,33,287,VEN,15096432,Moskva
+1980,Vietnam,0,0,0,0,0,287,VNM,53700000,Moskva
+1980,Virgin Islands (U.S.),0,0,0,0,0,287,VIR,97000,Moskva
+1980,West Bank and Gaza,0,0,0,0,0,287,WBG,0,Moskva
+1980,"Yemen, Rep.",0,0,0,0,0,287,YEM,7906977,Moskva
+1980,Zambia,0,0,0,0,0,287,ZMB,5847241,Moskva
+1980,Zimbabwe,1,0,0,1,32,287,ZWE,7289069,Moskva
+1984,Afghanistan,0,0,0,0,0,610,AFG,11854205,Los Angeles
+1984,Albania,0,0,0,0,0,610,ALB,3001325,Los Angeles
+1984,Algeria,0,0,2,2,34,610,DZA,22150483,Los Angeles
+1984,American Samoa,0,0,0,0,0,610,ASM,37687,Los Angeles
+1984,Andorra,0,0,0,0,0,610,ADO,42704,Los Angeles
+1984,Angola,0,0,0,0,0,610,AGO,8784753,Los Angeles
+1984,Antigua and Barbuda,0,0,0,0,0,610,ATG,66863,Los Angeles
+1984,Argentina,0,0,0,0,0,610,ARG,29886564,Los Angeles
+1984,Armenia,0,0,0,0,0,610,ARM,3287588,Los Angeles
+1984,Aruba,0,0,0,0,0,610,ABW,62831,Los Angeles
+1984,Australia,4,8,12,24,10,610,AUS,15544000,Los Angeles
+1984,Austria,1,1,1,3,23,610,AUT,7561434,Los Angeles
+1984,Azerbaijan,0,0,0,0,0,610,AZE,6568857,Los Angeles
+1984,"Bahamas, The",0,0,0,0,0,610,BHS,230014,Los Angeles
+1984,Bahrain,0,0,0,0,0,610,BHR,407223,Los Angeles
+1984,Bangladesh,0,0,0,0,0,610,BGD,91804318,Los Angeles
+1984,Barbados,0,0,0,0,0,610,BRB,253193,Los Angeles
+1984,Belarus,0,0,0,0,0,610,BLR,9910000,Los Angeles
+1984,Belgium,1,1,2,4,22,610,BEL,9855372,Los Angeles
+1984,Belize,0,0,0,0,0,610,BLZ,160342,Los Angeles
+1984,Benin,0,0,0,0,0,610,BEN,4163968,Los Angeles
+1984,Bermuda,0,0,0,0,0,610,BMU,56423,Los Angeles
+1984,Bhutan,0,0,0,0,0,610,BTN,456362,Los Angeles
+1984,Bolivia,0,0,0,0,0,610,BOL,5900127,Los Angeles
+1984,Bosnia and Herzegovina,0,0,0,0,0,610,BIH,4263393,Los Angeles
+1984,Botswana,0,0,0,0,0,610,BWA,1146205,Los Angeles
+1984,Brazil,1,5,2,8,17,610,BRA,133364277,Los Angeles
+1984,Brunei Darussalam,0,0,0,0,0,610,BRN,216885,Los Angeles
+1984,Bulgaria,0,0,0,0,0,610,BGR,8960679,Los Angeles
+1984,Burkina Faso,0,0,0,0,0,610,BFA,7531244,Los Angeles
+1984,Burundi,0,0,0,0,0,610,BDI,4624850,Los Angeles
+1984,Cambodia,0,0,0,0,0,610,KHM,7499331,Los Angeles
+1984,Cameroon,0,0,1,1,46,610,CMR,10070779,Los Angeles
+1984,Canada,10,18,16,44,4,610,CAN,25702000,Los Angeles
+1984,Cape Verde,0,0,0,0,0,610,CPV,324815,Los Angeles
+1984,Cayman Islands,0,0,0,0,0,610,CYM,18543,Los Angeles
+1984,Central African Republic,0,0,0,0,0,610,CAF,2555936,Los Angeles
+1984,Chad,0,0,0,0,0,610,TCD,4954649,Los Angeles
+1984,Channel Islands,0,0,0,0,0,610,CHI,132451,Los Angeles
+1984,Chile,0,0,0,0,0,610,CHL,11926647,Los Angeles
+1984,China,15,8,9,32,6,610,CHN,1036825000,Los Angeles
+1984,Colombia,0,1,0,1,40,610,COL,29438030,Los Angeles
+1984,Comoros,0,0,0,0,0,610,COM,353345,Los Angeles
+1984,"Congo, Dem. Rep.",0,0,0,0,0,610,ZAR,29243529,Los Angeles
+1984,"Congo, Rep.",0,0,0,0,0,610,COG,2020333,Los Angeles
+1984,Costa Rica,0,0,0,0,0,610,CRI,2625561,Los Angeles
+1984,Cote d'Ivoire,0,1,0,1,38,610,CIV,9771533,Los Angeles
+1984,Croatia,0,0,0,0,0,610,HRV,4680000,Los Angeles
+1984,Cuba,0,0,0,0,0,610,CUB,10028578,Los Angeles
+1984,Curacao,0,0,0,0,0,610,CUW,0,Los Angeles
+1984,Cyprus,0,0,0,0,0,610,CYP,697717,Los Angeles
+1984,Czech Republic,0,0,0,0,0,610,CZE,10330213,Los Angeles
+1984,Denmark,0,3,3,6,20,610,DNK,5111619,Los Angeles
+1984,Djibouti,0,0,0,0,0,610,DJI,405229,Los Angeles
+1984,Dominica,0,0,0,0,0,610,DMA,74215,Los Angeles
+1984,Dominican Republic,0,0,1,1,45,610,DOM,6381602,Los Angeles
+1984,Ecuador,0,0,0,0,0,610,ECU,8742761,Los Angeles
+1984,"Egypt, Arab Rep.",0,1,0,1,36,610,EGY,49190419,Los Angeles
+1984,El Salvador,0,0,0,0,0,610,SLV,4938109,Los Angeles
+1984,Equatorial Guinea,0,0,0,0,0,610,GNQ,293825,Los Angeles
+1984,Eritrea,0,0,0,0,0,610,ERI,2742004,Los Angeles
+1984,Estonia,0,0,0,0,0,610,EST,1518617,Los Angeles
+1984,Ethiopia,0,0,0,0,0,610,ETH,39493610,Los Angeles
+1984,Faeroe Islands,0,0,0,0,0,610,FRO,45239,Los Angeles
+1984,Fiji,0,0,0,0,0,610,FJI,700394,Los Angeles
+1984,Finland,4,2,6,12,15,610,FIN,4881803,Los Angeles
+1984,France,5,7,16,28,9,610,FRA,56489874,Los Angeles
+1984,French Polynesia,0,0,0,0,0,610,PYF,170397,Los Angeles
+1984,Gabon,0,0,0,0,0,610,GAB,804319,Los Angeles
+1984,"Gambia, The",0,0,0,0,0,610,GMB,701097,Los Angeles
+1984,Georgia,0,0,0,0,0,610,GEO,4622200,Los Angeles
+1984,Germany,0,0,0,0,0,610,DEU,77858685,Los Angeles
+1984,Ghana,0,0,0,0,0,610,GHA,12311805,Los Angeles
+1984,Greece,0,1,1,2,33,610,GRC,9895801,Los Angeles
+1984,Greenland,0,0,0,0,0,610,GRL,52700,Los Angeles
+1984,Grenada,0,0,0,0,0,610,GRD,98440,Los Angeles
+1984,Guam,0,0,0,0,0,610,GUM,113961,Los Angeles
+1984,Guatemala,0,0,0,0,0,610,GTM,7731210,Los Angeles
+1984,Guinea,0,0,0,0,0,610,GIN,4925668,Los Angeles
+1984,Guinea-Bissau,0,0,0,0,0,610,GNB,889592,Los Angeles
+1984,Guyana,0,0,0,0,0,610,GUY,758580,Los Angeles
+1984,Haiti,0,0,0,0,0,610,HTI,6244898,Los Angeles
+1984,Honduras,0,0,0,0,0,610,HND,4111424,Los Angeles
+1984,"Hong Kong SAR, China",0,0,0,0,0,610,HKG,5397900,Los Angeles
+1984,Hungary,0,0,0,0,0,610,HUN,10668095,Los Angeles
+1984,Iceland,0,0,1,1,43,610,ISL,239511,Los Angeles
+1984,India,0,0,0,0,0,610,IND,764749394,Los Angeles
+1984,Indonesia,0,0,0,0,0,610,IDN,159097735,Los Angeles
+1984,"Iran, Islamic Rep.",0,0,0,0,0,610,IRN,45672219,Los Angeles
+1984,Iraq,0,0,0,0,0,610,IRQ,15202850,Los Angeles
+1984,Ireland,0,1,0,1,39,610,IRL,3532423,Los Angeles
+1984,Isle of Man,0,0,0,0,0,610,IMY,64207,Los Angeles
+1984,Israel,0,0,0,0,0,610,ISR,4159000,Los Angeles
+1984,Italy,14,6,12,32,7,610,ITA,56576718,Los Angeles
+1984,Jamaica,0,1,2,3,27,610,JAM,2279900,Los Angeles
+1984,Japan,10,8,14,32,8,610,JPN,120018000,Los Angeles
+1984,Jordan,0,0,0,0,0,610,JOR,2551301,Los Angeles
+1984,Kazakhstan,0,0,0,0,0,610,KAZ,15599590,Los Angeles
+1984,Kenya,1,0,2,3,24,610,KEN,18942464,Los Angeles
+1984,Kiribati,0,0,0,0,0,610,KIR,60455,Los Angeles
+1984,"Korea, Dem. Rep.",0,0,0,0,0,610,PRK,18488002,Los Angeles
+1984,"Korea, Rep.",6,6,7,19,11,610,KOR,40406000,Los Angeles
+1984,Kosovo,0,0,0,0,0,610,KSV,1647000,Los Angeles
+1984,Kuwait,0,0,0,0,0,610,KWT,1650388,Los Angeles
+1984,Kyrgyz Republic,0,0,0,0,0,610,KGZ,3916400,Los Angeles
+1984,Lao PDR,0,0,0,0,0,610,LAO,3577281,Los Angeles
+1984,Latvia,0,0,0,0,0,610,LVA,2562047,Los Angeles
+1984,Lebanon,0,0,0,0,0,610,LBN,2667229,Los Angeles
+1984,Lesotho,0,0,0,0,0,610,LSO,1438248,Los Angeles
+1984,Liberia,0,0,0,0,0,610,LBR,2163835,Los Angeles
+1984,Libya,0,0,0,0,0,610,LBY,3613208,Los Angeles
+1984,Liechtenstein,0,0,0,0,0,610,LIE,27009,Los Angeles
+1984,Lithuania,0,0,0,0,0,610,LTU,3514205,Los Angeles
+1984,Luxembourg,0,0,0,0,0,610,LUX,365998,Los Angeles
+1984,"Macao SAR, China",0,0,0,0,0,610,MAC,283672,Los Angeles
+1984,"Macedonia, FYR",7,4,7,18,13,610,MKD,1939913,Los Angeles
+1984,Madagascar,0,0,0,0,0,610,MDG,9714342,Los Angeles
+1984,Malawi,0,0,0,0,0,610,MWI,6958278,Los Angeles
+1984,Malaysia,0,0,0,0,0,610,MYS,15333369,Los Angeles
+1984,Maldives,0,0,0,0,0,610,MDV,177213,Los Angeles
+1984,Mali,0,0,0,0,0,610,MLI,7281246,Los Angeles
+1984,Malta,0,0,0,0,0,610,MLT,330593,Los Angeles
+1984,Marshall Islands,0,0,0,0,0,610,MHL,36567,Los Angeles
+1984,Mauritania,0,0,0,0,0,610,MRT,1718837,Los Angeles
+1984,Mauritius,0,0,0,0,0,610,MUS,1009233,Los Angeles
+1984,Mexico,2,3,1,6,19,610,MEX,76351106,Los Angeles
+1984,"Micronesia, Fed. Sts.",0,0,0,0,0,610,FSM,83242,Los Angeles
+1984,Moldova,0,0,0,0,0,610,MDA,3536000,Los Angeles
+1984,Monaco,0,0,0,0,0,610,MCO,28514,Los Angeles
+1984,Mongolia,0,0,0,0,0,610,MNG,1871083,Los Angeles
+1984,Montenegro,0,0,0,0,0,610,MNE,591105,Los Angeles
+1984,Morocco,2,0,0,2,30,610,MAR,21776104,Los Angeles
+1984,Mozambique,0,0,0,0,0,610,MOZ,13200833,Los Angeles
+1984,Myanmar,0,0,0,0,0,610,MMR,37756446,Los Angeles
+1984,Namibia,0,0,0,0,0,610,NAM,1112044,Los Angeles
+1984,Nepal,0,0,0,0,0,610,NPL,15778051,Los Angeles
+1984,Netherlands,5,2,6,13,14,610,NLD,14424211,Los Angeles
+1984,New Caledonia,0,0,0,0,0,610,NCL,150616,Los Angeles
+1984,New Zealand,8,1,2,11,16,610,NZL,3227100,Los Angeles
+1984,Nicaragua,0,0,0,0,0,610,NIC,3621067,Los Angeles
+1984,Niger,0,0,0,0,0,610,NER,6520599,Los Angeles
+1984,Nigeria,0,1,1,2,32,610,NGA,81775217,Los Angeles
+1984,Northern Mariana Islands,0,0,0,0,0,610,MNP,27363,Los Angeles
+1984,Norway,0,1,2,3,26,610,NOR,4140099,Los Angeles
+1984,Oman,0,0,0,0,0,610,OMN,1430680,Los Angeles
+1984,Pakistan,1,0,0,1,35,610,PAK,91643160,Los Angeles
+1984,Palau,0,0,0,0,0,610,PLW,13371,Los Angeles
+1984,Panama,0,0,0,0,0,610,PAN,2183773,Los Angeles
+1984,Papua New Guinea,0,0,0,0,0,610,PNG,3583707,Los Angeles
+1984,Paraguay,0,0,0,0,0,610,PRY,3597135,Los Angeles
+1984,Peru,0,1,0,1,41,610,PER,19081183,Los Angeles
+1984,Philippines,0,0,0,0,0,610,PHL,52872611,Los Angeles
+1984,Poland,0,0,0,0,0,610,POL,36904134,Los Angeles
+1984,Portugal,1,0,2,3,25,610,PRT,9996232,Los Angeles
+1984,Puerto Rico,0,1,1,2,31,610,PRI,3344190,Los Angeles
+1984,Qatar,0,0,0,0,0,610,QAT,341249,Los Angeles
+1984,Romania,20,16,17,53,3,610,ROM,22655940,Los Angeles
+1984,Russia,0,0,0,0,0,610,RUS,142745000,Los Angeles
+1984,Rwanda,0,0,0,0,0,610,RWA,5873794,Los Angeles
+1984,Samoa,0,0,0,0,0,610,WSM,159281,Los Angeles
+1984,San Marino,0,0,0,0,0,610,SMR,22514,Los Angeles
+1984,Sao Tome and Principe,0,0,0,0,0,610,STP,102325,Los Angeles
+1984,Saudi Arabia,0,0,0,0,0,610,SAU,12592829,Los Angeles
+1984,Senegal,0,0,0,0,0,610,SEN,6246065,Los Angeles
+1984,Serbia,0,0,0,0,0,610,SRB,0,Los Angeles
+1984,Seychelles,0,0,0,0,0,610,SYC,66902,Los Angeles
+1984,Sierra Leone,0,0,0,0,0,610,SLE,3492174,Los Angeles
+1984,Singapore,0,0,0,0,0,610,SGP,2732000,Los Angeles
+1984,Sint Maarten (Dutch part),0,0,0,0,0,610,SXM,0,Los Angeles
+1984,Slovak Republic,0,0,0,0,0,610,SVK,5127097,Los Angeles
+1984,Slovenia,0,0,0,0,0,610,SVN,1932154,Los Angeles
+1984,Solomon Islands,0,0,0,0,0,610,SLB,262719,Los Angeles
+1984,Somalia,0,0,0,0,0,610,SOM,6113252,Los Angeles
+1984,South Africa,0,0,0,0,0,610,ZAF,30505361,Los Angeles
+1984,South Sudan,0,0,0,0,0,610,SSD,5315479,Los Angeles
+1984,Spain,1,2,2,5,21,610,ESP,38278575,Los Angeles
+1984,Sri Lanka,0,0,0,0,0,610,LKA,15603000,Los Angeles
+1984,St. Kitts and Nevis,0,0,0,0,0,610,KNA,42294,Los Angeles
+1984,St. Lucia,0,0,0,0,0,610,LCA,124468,Los Angeles
+1984,St. Martin (French part),0,0,0,0,0,610,MAF,12790,Los Angeles
+1984,St. Vincent and the Grenadines,0,0,0,0,0,610,VCT,103742,Los Angeles
+1984,Sudan,0,0,0,0,0,610,SDN,16557307,Los Angeles
+1984,Suriname,0,0,0,0,0,610,SUR,372272,Los Angeles
+1984,Swaziland,0,0,0,0,0,610,SWZ,680253,Los Angeles
+1984,Sweden,2,11,6,19,12,610,SWE,8336605,Los Angeles
+1984,Switzerland,0,4,4,8,18,610,CHE,6441865,Los Angeles
+1984,Syrian Arab Republic,0,1,0,1,42,610,SYR,10313558,Los Angeles
+1984,Tajikistan,0,0,0,0,0,610,TJK,4400743,Los Angeles
+1984,Tanzania,0,0,0,0,0,610,TZA,21183696,Los Angeles
+1984,Thailand,0,1,0,1,37,610,THA,51090390,Los Angeles
+1984,Timor-Leste,0,0,0,0,0,610,TMP,638938,Los Angeles
+1984,Togo,0,0,0,0,0,610,TGO,3140297,Los Angeles
+1984,Tonga,0,0,0,0,0,610,TON,93838,Los Angeles
+1984,Trinidad and Tobago,0,0,0,0,0,610,TTO,1155701,Los Angeles
+1984,Tunisia,0,0,0,0,0,610,TUN,7042550,Los Angeles
+1984,Turkey,0,0,3,3,29,610,TUR,48138191,Los Angeles
+1984,Turkmenistan,0,0,0,0,0,610,TKM,3151262,Los Angeles
+1984,Turks and Caicos Islands,0,0,0,0,0,610,TCA,9097,Los Angeles
+1984,Tuvalu,0,0,0,0,0,610,TUV,8537,Los Angeles
+1984,Uganda,0,0,0,0,0,610,UGA,14181630,Los Angeles
+1984,Ukraine,0,0,0,0,0,610,UKR,50754000,Los Angeles
+1984,United Arab Emirates,0,0,0,0,0,610,ARE,1277300,Los Angeles
+1984,England,5,11,21,37,5,610,GBR,56422072,Los Angeles
+1984,United States,83,61,30,174,1,610,USA,235825000,Los Angeles
+1984,Uruguay,0,0,0,0,0,610,URY,2992644,Los Angeles
+1984,Uzbekistan,0,0,0,0,0,610,UZB,17778956,Los Angeles
+1984,Vanuatu,0,0,0,0,0,610,VUT,127094,Los Angeles
+1984,"Venezuela, RB",0,0,3,3,28,610,VEN,16867806,Los Angeles
+1984,Vietnam,0,0,0,0,0,610,VNM,57691661,Los Angeles
+1984,Virgin Islands (U.S.),0,0,0,0,0,610,VIR,108000,Los Angeles
+1984,West Bank and Gaza,0,0,0,0,0,610,WBG,0,Los Angeles
+1984,"Yemen, Rep.",0,0,0,0,0,610,YEM,9276622,Los Angeles
+1984,Zambia,0,0,1,1,44,610,ZMB,6636560,Los Angeles
+1984,Zimbabwe,0,0,0,0,0,610,ZWE,8527836,Los Angeles
+1988,Afghanistan,0,0,0,0,0,444,AFG,11013345,Seoul
+1988,Albania,0,0,0,0,0,444,ALB,3336434,Seoul
+1988,Algeria,0,0,0,0,0,444,DZA,24904931,Seoul
+1988,American Samoa,0,0,0,0,0,444,ASM,44049,Seoul
+1988,Andorra,0,0,0,0,0,444,ADO,50431,Seoul
+1988,Angola,0,0,0,0,0,444,AGO,9798055,Seoul
+1988,Antigua and Barbuda,0,0,0,0,0,444,ATG,62538,Seoul
+1988,Argentina,0,1,1,2,32,444,ARG,31713147,Seoul
+1988,Armenia,0,0,0,0,0,444,ARM,3510439,Seoul
+1988,Aruba,0,0,0,0,0,444,ABW,61077,Seoul
+1988,Australia,3,6,5,14,15,444,AUS,16532200,Seoul
+1988,Austria,1,0,0,1,36,444,AUT,7585317,Seoul
+1988,Azerbaijan,0,0,0,0,0,444,AZE,6994139,Seoul
+1988,"Bahamas, The",0,0,0,0,0,444,BHS,247585,Seoul
+1988,Bahrain,0,0,0,0,0,444,BHR,465254,Seoul
+1988,Bangladesh,0,0,0,0,0,444,BGD,102133217,Seoul
+1988,Barbados,0,0,0,0,0,444,BRB,257497,Seoul
+1988,Belarus,0,0,0,0,0,444,BLR,10140000,Seoul
+1988,Belgium,0,0,2,2,33,444,BEL,9901664,Seoul
+1988,Belize,0,0,0,0,0,444,BLZ,178906,Seoul
+1988,Benin,0,0,0,0,0,444,BEN,4685375,Seoul
+1988,Bermuda,0,0,0,0,0,444,BMU,58347,Seoul
+1988,Bhutan,0,0,0,0,0,444,BTN,517306,Seoul
+1988,Bolivia,0,0,0,0,0,444,BOL,6481463,Seoul
+1988,Bosnia and Herzegovina,0,0,0,0,0,444,BIH,4564265,Seoul
+1988,Botswana,0,0,0,0,0,444,BWA,1303192,Seoul
+1988,Brazil,1,2,3,6,23,444,BRA,144452622,Seoul
+1988,Brunei Darussalam,0,0,0,0,0,444,BRN,242758,Seoul
+1988,Bulgaria,10,12,13,35,5,444,BGR,8981446,Seoul
+1988,Burkina Faso,0,0,0,0,0,444,BFA,8356306,Seoul
+1988,Burundi,0,0,0,0,0,444,BDI,5280833,Seoul
+1988,Cambodia,0,0,0,0,0,444,KHM,8510817,Seoul
+1988,Cameroon,0,0,0,0,0,444,CMR,11370394,Seoul
+1988,Canada,3,2,5,10,19,444,CAN,26895000,Seoul
+1988,Cape Verde,0,0,0,0,0,444,CPV,342157,Seoul
+1988,Cayman Islands,0,0,0,0,0,444,CYM,22539,Seoul
+1988,Central African Republic,0,0,0,0,0,444,CAF,2795175,Seoul
+1988,Chad,0,0,0,0,0,444,TCD,5582282,Seoul
+1988,Channel Islands,0,0,0,0,0,444,CHI,138186,Seoul
+1988,Chile,0,1,0,1,38,444,CHL,12757095,Seoul
+1988,China,5,11,12,28,7,444,CHN,1101630000,Seoul
+1988,Colombia,0,0,1,1,47,444,COL,32009024,Seoul
+1988,Comoros,0,0,0,0,0,444,COM,392705,Seoul
+1988,"Congo, Dem. Rep.",0,0,0,0,0,444,ZAR,32679158,Seoul
+1988,"Congo, Rep.",0,0,0,0,0,444,COG,2258785,Seoul
+1988,Costa Rica,0,1,0,1,40,444,CRI,2924348,Seoul
+1988,Cote d'Ivoire,0,0,0,0,0,444,CIV,11316361,Seoul
+1988,Croatia,0,0,0,0,0,444,HRV,4757000,Seoul
+1988,Cuba,0,0,0,0,0,444,CUB,10396268,Seoul
+1988,Curacao,0,0,0,0,0,444,CUW,0,Seoul
+1988,Cyprus,0,0,0,0,0,444,CYP,736477,Seoul
+1988,Czech Republic,0,0,0,0,0,444,CZE,10355276,Seoul
+1988,Denmark,2,1,1,4,25,444,DNK,5129516,Seoul
+1988,Djibouti,0,0,1,1,51,444,DJI,524393,Seoul
+1988,Dominica,0,0,0,0,0,444,DMA,71743,Seoul
+1988,Dominican Republic,0,0,0,0,0,444,DOM,6953918,Seoul
+1988,Ecuador,0,0,0,0,0,444,ECU,9650906,Seoul
+1988,"Egypt, Arab Rep.",0,0,0,0,0,444,EGY,54011214,Seoul
+1988,El Salvador,0,0,0,0,0,444,SLV,5199613,Seoul
+1988,Equatorial Guinea,0,0,0,0,0,444,GNQ,351776,Seoul
+1988,Eritrea,0,0,0,0,0,444,ERI,3126100,Seoul
+1988,Estonia,0,0,0,0,0,444,EST,1561900,Seoul
+1988,Ethiopia,0,0,0,0,0,444,ETH,44916621,Seoul
+1988,Faeroe Islands,0,0,0,0,0,444,FRO,47789,Seoul
+1988,Fiji,0,0,0,0,0,444,FJI,722707,Seoul
+1988,Finland,1,1,2,4,27,444,FIN,4946481,Seoul
+1988,France,6,4,6,16,11,444,FRA,57803824,Seoul
+1988,French Polynesia,0,0,0,0,0,444,PYF,189742,Seoul
+1988,Gabon,0,0,0,0,0,444,GAB,896429,Seoul
+1988,"Gambia, The",0,0,0,0,0,444,GMB,843060,Seoul
+1988,Georgia,0,0,0,0,0,444,GEO,4790700,Seoul
+1988,Germany,0,0,0,0,0,444,DEU,78144619,Seoul
+1988,Ghana,0,0,0,0,0,444,GHA,13853171,Seoul
+1988,Greece,0,0,1,1,52,444,GRC,10036983,Seoul
+1988,Greenland,0,0,0,0,0,444,GRL,54800,Seoul
+1988,Grenada,0,0,0,0,0,444,GRD,98063,Seoul
+1988,Guam,0,0,0,0,0,444,GUM,124677,Seoul
+1988,Guatemala,0,0,0,0,0,444,GTM,8491594,Seoul
+1988,Guinea,0,0,0,0,0,444,GIN,5535918,Seoul
+1988,Guinea-Bissau,0,0,0,0,0,444,GNB,973017,Seoul
+1988,Guyana,0,0,0,0,0,444,GUY,733057,Seoul
+1988,Haiti,0,0,0,0,0,444,HTI,6821300,Seoul
+1988,Honduras,0,0,0,0,0,444,HND,4631575,Seoul
+1988,"Hong Kong SAR, China",0,0,0,0,0,444,HKG,5627600,Seoul
+1988,Hungary,11,6,6,23,10,444,HUN,10596487,Seoul
+1988,Iceland,0,0,0,0,0,444,ISL,249740,Seoul
+1988,India,0,0,0,0,0,444,IND,833833510,Seoul
+1988,Indonesia,0,1,0,1,44,444,IDN,172265107,Seoul
+1988,"Iran, Islamic Rep.",0,1,0,1,39,444,IRN,53250434,Seoul
+1988,Iraq,0,0,0,0,0,444,IRQ,16672907,Seoul
+1988,Ireland,0,0,0,0,0,444,IRL,3524949,Seoul
+1988,Isle of Man,0,0,0,0,0,444,IMY,67902,Seoul
+1988,Israel,0,0,0,0,0,444,ISR,4442000,Seoul
+1988,Italy,6,4,4,14,13,444,ITA,56629288,Seoul
+1988,Jamaica,0,2,0,2,31,444,JAM,2356400,Seoul
+1988,Japan,4,3,7,14,14,444,JPN,122613000,Seoul
+1988,Jordan,0,0,0,0,0,444,JOR,2948000,Seoul
+1988,Kazakhstan,0,0,0,0,0,444,KAZ,16130832,Seoul
+1988,Kenya,5,2,2,9,20,444,KEN,21896890,Seoul
+1988,Kiribati,0,0,0,0,0,444,KIR,67729,Seoul
+1988,"Korea, Dem. Rep.",0,0,0,0,0,444,PRK,19610518,Seoul
+1988,"Korea, Rep.",12,10,11,33,6,444,KOR,41975000,Seoul
+1988,Kosovo,0,0,0,0,0,444,KSV,1791000,Seoul
+1988,Kuwait,0,0,0,0,0,444,KWT,2007415,Seoul
+1988,Kyrgyz Republic,0,0,0,0,0,444,KGZ,4218400,Seoul
+1988,Lao PDR,0,0,0,0,0,444,LAO,4004881,Seoul
+1988,Latvia,0,0,0,0,0,444,LVA,2653434,Seoul
+1988,Lebanon,0,0,0,0,0,444,LBN,2668593,Seoul
+1988,Lesotho,0,0,0,0,0,444,LSO,1544580,Seoul
+1988,Liberia,0,0,0,0,0,444,LBR,2170426,Seoul
+1988,Libya,0,0,0,0,0,444,LBY,4062672,Seoul
+1988,Liechtenstein,0,0,0,0,0,444,LIE,28089,Seoul
+1988,Lithuania,0,0,0,0,0,444,LTU,3655049,Seoul
+1988,Luxembourg,0,0,0,0,0,444,LUX,373450,Seoul
+1988,"Macao SAR, China",0,0,0,0,0,444,MAC,335952,Seoul
+1988,"Macedonia, FYR",3,4,5,12,17,444,MKD,1995338,Seoul
+1988,Madagascar,0,0,0,0,0,444,MDG,10877757,Seoul
+1988,Malawi,0,0,0,0,0,444,MWI,8655185,Seoul
+1988,Malaysia,0,0,0,0,0,444,MYS,17202032,Seoul
+1988,Maldives,0,0,0,0,0,444,MDV,203072,Seoul
+1988,Mali,0,0,0,0,0,444,MLI,7713098,Seoul
+1988,Malta,0,0,0,0,0,444,MLT,347325,Seoul
+1988,Marshall Islands,0,0,0,0,0,444,MHL,44063,Seoul
+1988,Mauritania,0,0,0,0,0,444,MRT,1916611,Seoul
+1988,Mauritius,0,0,0,0,0,444,MUS,1040841,Seoul
+1988,Mexico,0,0,2,2,34,444,MEX,82635332,Seoul
+1988,"Micronesia, Fed. Sts.",0,0,0,0,0,444,FSM,92020,Seoul
+1988,Moldova,0,0,0,0,0,444,MDA,3659000,Seoul
+1988,Monaco,0,0,0,0,0,444,MCO,29238,Seoul
+1988,Mongolia,0,0,1,1,49,444,MNG,2089721,Seoul
+1988,Montenegro,0,0,0,0,0,444,MNE,607814,Seoul
+1988,Morocco,1,0,2,3,29,444,MAR,23739980,Seoul
+1988,Mozambique,0,0,0,0,0,444,MOZ,13348965,Seoul
+1988,Myanmar,0,0,0,0,0,444,MMR,40753329,Seoul
+1988,Namibia,0,0,0,0,0,444,NAM,1303879,Seoul
+1988,Nepal,0,0,0,0,0,444,NPL,17273606,Seoul
+1988,Netherlands,2,2,5,9,21,444,NLD,14760094,Seoul
+1988,New Caledonia,0,0,0,0,0,444,NCL,159710,Seoul
+1988,New Zealand,3,2,8,13,16,444,NZL,3283400,Seoul
+1988,Nicaragua,0,0,0,0,0,444,NIC,3959636,Seoul
+1988,Niger,0,0,0,0,0,444,NER,7300220,Seoul
+1988,Nigeria,0,0,0,0,0,444,NGA,90773617,Seoul
+1988,Northern Mariana Islands,0,0,0,0,0,444,MNP,38570,Seoul
+1988,Norway,2,3,0,5,24,444,NOR,4209488,Seoul
+1988,Oman,0,0,0,0,0,444,OMN,1681070,Seoul
+1988,Pakistan,0,0,1,1,50,444,PAK,104583470,Seoul
+1988,Palau,0,0,0,0,0,444,PLW,14485,Seoul
+1988,Panama,0,0,0,0,0,444,PAN,2383722,Seoul
+1988,Papua New Guinea,0,0,0,0,0,444,PNG,3960314,Seoul
+1988,Paraguay,0,0,0,0,0,444,PRY,4029203,Seoul
+1988,Peru,0,1,0,1,43,444,PER,20875714,Seoul
+1988,Philippines,0,0,1,1,46,444,PHL,58867229,Seoul
+1988,Poland,2,5,9,16,12,444,POL,37824487,Seoul
+1988,Portugal,1,0,0,1,37,444,PRT,10019610,Seoul
+1988,Puerto Rico,0,0,0,0,0,444,PRI,3473898,Seoul
+1988,Qatar,0,0,0,0,0,444,QAT,445197,Seoul
+1988,Romania,7,11,6,24,8,444,ROM,23057662,Seoul
+1988,Russia,0,0,0,0,0,444,RUS,146857000,Seoul
+1988,Rwanda,0,0,0,0,0,444,RWA,7045785,Seoul
+1988,Samoa,0,0,0,0,0,444,WSM,161424,Seoul
+1988,San Marino,0,0,0,0,0,444,SMR,23571,Seoul
+1988,Sao Tome and Principe,0,0,0,0,0,444,STP,111894,Seoul
+1988,Saudi Arabia,0,0,0,0,0,444,SAU,15107785,Seoul
+1988,Senegal,0,1,0,1,45,444,SEN,7062329,Seoul
+1988,Serbia,0,0,0,0,0,444,SRB,0,Seoul
+1988,Seychelles,0,0,0,0,0,444,SYC,68848,Seoul
+1988,Sierra Leone,0,0,0,0,0,444,SLE,3908478,Seoul
+1988,Singapore,0,0,0,0,0,444,SGP,2846000,Seoul
+1988,Sint Maarten (Dutch part),0,0,0,0,0,444,SXM,0,Seoul
+1988,Slovak Republic,0,0,0,0,0,444,SVK,5250596,Seoul
+1988,Slovenia,0,0,0,0,0,444,SVN,1995196,Seoul
+1988,Solomon Islands,0,0,0,0,0,444,SLB,294962,Seoul
+1988,Somalia,0,0,0,0,0,444,SOM,6217331,Seoul
+1988,South Africa,0,0,0,0,0,444,ZAF,33728498,Seoul
+1988,South Sudan,0,0,0,0,0,444,SSD,5738763,Seoul
+1988,Spain,1,1,2,4,26,444,ESP,38715849,Seoul
+1988,Sri Lanka,0,0,0,0,0,444,LKA,16599000,Seoul
+1988,St. Kitts and Nevis,0,0,0,0,0,444,KNA,41045,Seoul
+1988,St. Lucia,0,0,0,0,0,444,LCA,133532,Seoul
+1988,St. Martin (French part),0,0,0,0,0,444,MAF,24873,Seoul
+1988,St. Vincent and the Grenadines,0,0,0,0,0,444,VCT,106533,Seoul
+1988,Sudan,0,0,0,0,0,444,SDN,18682216,Seoul
+1988,Suriname,1,0,0,1,35,444,SUR,393483,Seoul
+1988,Swaziland,0,0,0,0,0,444,SWZ,801350,Seoul
+1988,Sweden,0,4,7,11,18,444,SWE,8436489,Seoul
+1988,Switzerland,0,2,2,4,28,444,CHE,6593386,Seoul
+1988,Syrian Arab Republic,0,0,0,0,0,444,SYR,11729760,Seoul
+1988,Tajikistan,0,0,0,0,0,444,TJK,5008827,Seoul
+1988,Tanzania,0,0,0,0,0,444,TZA,23933171,Seoul
+1988,Thailand,0,0,1,1,48,444,THA,54956736,Seoul
+1988,Timor-Leste,0,0,0,0,0,444,TMP,711794,Seoul
+1988,Togo,0,0,0,0,0,444,TGO,3579803,Seoul
+1988,Tonga,0,0,0,0,0,444,TON,94687,Seoul
+1988,Trinidad and Tobago,0,0,0,0,0,444,TTO,1204890,Seoul
+1988,Tunisia,0,0,0,0,0,444,TUN,7857619,Seoul
+1988,Turkey,1,1,0,2,30,444,TUR,52125597,Seoul
+1988,Turkmenistan,0,0,0,0,0,444,TKM,3479088,Seoul
+1988,Turks and Caicos Islands,0,0,0,0,0,444,TCA,10588,Seoul
+1988,Tuvalu,0,0,0,0,0,444,TUV,8889,Seoul
+1988,Uganda,0,0,0,0,0,444,UGA,16320417,Seoul
+1988,Ukraine,0,0,0,0,0,444,UKR,51521000,Seoul
+1988,United Arab Emirates,0,0,0,0,0,444,ARE,1609170,Seoul
+1988,England,5,10,9,24,9,444,GBR,56928327,Seoul
+1988,United States,36,31,27,94,3,444,USA,244499000,Seoul
+1988,Uruguay,0,0,0,0,0,444,URY,3069112,Seoul
+1988,Uzbekistan,0,0,0,0,0,444,UZB,19606739,Seoul
+1988,Vanuatu,0,0,0,0,0,444,VUT,139369,Seoul
+1988,"Venezuela, RB",0,0,0,0,0,444,VEN,18766017,Seoul
+1988,Vietnam,0,0,0,0,0,444,VNM,63263000,Seoul
+1988,Virgin Islands (U.S.),0,1,0,1,41,444,VIR,104500,Seoul
+1988,West Bank and Gaza,0,0,0,0,0,444,WBG,0,Seoul
+1988,"Yemen, Rep.",0,0,0,0,0,444,YEM,10815614,Seoul
+1988,Zambia,0,0,0,0,0,444,ZMB,7446478,Seoul
+1988,Zimbabwe,0,0,0,0,0,444,ZWE,9854098,Seoul
+1992,Afghanistan,0,0,0,0,0,692,AFG,13811876,Barcelona
+1992,Albania,0,0,0,0,0,692,ALB,3446858,Barcelona
+1992,Algeria,1,0,1,2,42,692,DZA,27535151,Barcelona
+1992,American Samoa,0,0,0,0,0,692,ASM,49597,Barcelona
+1992,Andorra,0,0,0,0,0,692,ADO,58904,Barcelona
+1992,Angola,0,0,0,0,0,692,AGO,11002758,Barcelona
+1992,Antigua and Barbuda,0,0,0,0,0,692,ATG,63434,Barcelona
+1992,Argentina,0,0,1,1,61,692,ARG,33520803,Barcelona
+1992,Armenia,0,0,0,0,0,692,ARM,3449497,Barcelona
+1992,Aruba,0,0,0,0,0,692,ABW,68235,Barcelona
+1992,Australia,7,9,11,27,9,692,AUS,17495000,Barcelona
+1992,Austria,0,2,0,2,46,692,AUT,7840709,Barcelona
+1992,Azerbaijan,0,0,0,0,0,692,AZE,7382000,Barcelona
+1992,"Bahamas, The",0,0,1,1,63,692,BHS,266097,Barcelona
+1992,Bahrain,0,0,0,0,0,692,BHR,522751,Barcelona
+1992,Bangladesh,0,0,0,0,0,692,BGD,112430968,Barcelona
+1992,Barbados,0,0,0,0,0,692,BRB,260963,Barcelona
+1992,Belarus,0,0,0,0,0,692,BLR,10216000,Barcelona
+1992,Belgium,0,1,2,3,36,692,BEL,10045158,Barcelona
+1992,Belize,0,0,0,0,0,692,BLZ,194894,Barcelona
+1992,Benin,0,0,0,0,0,692,BEN,5378226,Barcelona
+1992,Bermuda,0,0,0,0,0,692,BMU,58595,Barcelona
+1992,Bhutan,0,0,0,0,0,692,BTN,528304,Barcelona
+1992,Bolivia,0,0,0,0,0,692,BOL,7123294,Barcelona
+1992,Bosnia and Herzegovina,0,0,0,0,0,692,BIH,4143068,Barcelona
+1992,Botswana,0,0,0,0,0,692,BWA,1465072,Barcelona
+1992,Brazil,2,1,0,3,31,692,BRA,154597985,Barcelona
+1992,Brunei Darussalam,0,0,0,0,0,692,BRN,271935,Barcelona
+1992,Bulgaria,3,7,6,16,17,692,BGR,8540164,Barcelona
+1992,Burkina Faso,0,0,0,0,0,692,BFA,9297116,Barcelona
+1992,Burundi,0,0,0,0,0,692,BDI,5882679,Barcelona
+1992,Cambodia,0,0,0,0,0,692,KHM,9721775,Barcelona
+1992,Cameroon,0,0,0,0,0,692,CMR,12796831,Barcelona
+1992,Canada,7,4,7,18,15,692,CAN,28519597,Barcelona
+1992,Cape Verde,0,0,0,0,0,692,CPV,368873,Barcelona
+1992,Cayman Islands,0,0,0,0,0,692,CYM,27402,Barcelona
+1992,Central African Republic,0,0,0,0,0,692,CAF,3050789,Barcelona
+1992,Chad,0,0,0,0,0,692,TCD,6338934,Barcelona
+1992,Channel Islands,0,0,0,0,0,692,CHI,142258,Barcelona
+1992,Chile,0,0,0,0,0,692,CHL,13706485,Barcelona
+1992,China,16,22,16,54,4,692,CHN,1164970000,Barcelona
+1992,Colombia,0,0,1,1,64,692,COL,34608171,Barcelona
+1992,Comoros,0,0,0,0,0,692,COM,433286,Barcelona
+1992,"Congo, Dem. Rep.",0,0,0,0,0,692,ZAR,37731020,Barcelona
+1992,"Congo, Rep.",0,0,0,0,0,692,COG,2511819,Barcelona
+1992,Costa Rica,0,0,0,0,0,692,CRI,3233568,Barcelona
+1992,Cote d'Ivoire,0,0,0,0,0,692,CIV,12950995,Barcelona
+1992,Croatia,0,1,2,3,37,692,HRV,4470000,Barcelona
+1992,Cuba,14,6,11,31,5,692,CUB,10757891,Barcelona
+1992,Curacao,0,0,0,0,0,692,CUW,0,Barcelona
+1992,Cyprus,0,0,0,0,0,692,CYP,800660,Barcelona
+1992,Czech Republic,0,0,0,0,0,692,CZE,10319123,Barcelona
+1992,Denmark,1,1,4,6,26,692,DNK,5171370,Barcelona
+1992,Djibouti,0,0,0,0,0,692,DJI,629373,Barcelona
+1992,Dominica,0,0,0,0,0,692,DMA,70978,Barcelona
+1992,Dominican Republic,0,0,0,0,0,692,DOM,7540421,Barcelona
+1992,Ecuador,0,0,0,0,0,692,ECU,10598168,Barcelona
+1992,"Egypt, Arab Rep.",0,0,0,0,0,692,EGY,58370712,Barcelona
+1992,El Salvador,0,0,0,0,0,692,SLV,5511138,Barcelona
+1992,Equatorial Guinea,0,0,0,0,0,692,GNQ,399625,Barcelona
+1992,Eritrea,0,0,0,0,0,692,ERI,3331918,Barcelona
+1992,Estonia,1,0,1,2,41,692,EST,1533091,Barcelona
+1992,Ethiopia,1,0,2,3,33,692,ETH,51525658,Barcelona
+1992,Faeroe Islands,0,0,0,0,0,692,FRO,46580,Barcelona
+1992,Fiji,0,0,0,0,0,692,FJI,744340,Barcelona
+1992,Finland,1,2,2,5,28,692,FIN,5041992,Barcelona
+1992,France,8,5,16,29,8,692,FRA,58849212,Barcelona
+1992,French Polynesia,0,0,0,0,0,692,PYF,205269,Barcelona
+1992,Gabon,0,0,0,0,0,692,GAB,998823,Barcelona
+1992,"Gambia, The",0,0,0,0,0,692,GMB,979666,Barcelona
+1992,Georgia,0,0,0,0,0,692,GEO,4873500,Barcelona
+1992,Germany,33,21,28,82,3,692,DEU,80624598,Barcelona
+1992,Ghana,0,0,1,1,58,692,GHA,15471695,Barcelona
+1992,Greece,2,0,0,2,39,692,GRC,10369866,Barcelona
+1992,Greenland,0,0,0,0,0,692,GRL,55300,Barcelona
+1992,Grenada,0,0,0,0,0,692,GRD,97201,Barcelona
+1992,Guam,0,0,0,0,0,692,GUM,136696,Barcelona
+1992,Guatemala,0,0,0,0,0,692,GTM,9312915,Barcelona
+1992,Guinea,0,0,0,0,0,692,GIN,6734242,Barcelona
+1992,Guinea-Bissau,0,0,0,0,0,692,GNB,1064691,Barcelona
+1992,Guyana,0,0,0,0,0,692,GUY,723008,Barcelona
+1992,Haiti,0,0,0,0,0,692,HTI,7399862,Barcelona
+1992,Honduras,0,0,0,0,0,692,HND,5180884,Barcelona
+1992,"Hong Kong SAR, China",0,0,0,0,0,692,HKG,5800500,Barcelona
+1992,Hungary,11,12,7,30,6,692,HUN,10369341,Barcelona
+1992,Iceland,0,0,0,0,0,692,ISL,261057,Barcelona
+1992,India,0,0,0,0,0,692,IND,903749636,Barcelona
+1992,Indonesia,2,2,1,5,27,692,IDN,184916848,Barcelona
+1992,"Iran, Islamic Rep.",0,1,2,3,35,692,IRN,58307457,Barcelona
+1992,Iraq,0,0,0,0,0,692,IRQ,18547047,Barcelona
+1992,Ireland,1,1,0,2,40,692,IRL,3558430,Barcelona
+1992,Isle of Man,0,0,0,0,0,692,IMY,71306,Barcelona
+1992,Israel,0,1,1,2,47,692,ISR,5123000,Barcelona
+1992,Italy,6,5,8,19,13,692,ITA,56797087,Barcelona
+1992,Jamaica,0,3,1,4,29,692,JAM,2423044,Barcelona
+1992,Japan,3,8,11,22,11,692,JPN,124229000,Barcelona
+1992,Jordan,0,0,0,0,0,692,JOR,3733000,Barcelona
+1992,Kazakhstan,0,0,0,0,0,692,KAZ,16439095,Barcelona
+1992,Kenya,2,4,2,8,22,692,KEN,25036941,Barcelona
+1992,Kiribati,0,0,0,0,0,692,KIR,73434,Barcelona
+1992,"Korea, Dem. Rep.",4,0,5,9,21,692,PRK,20838090,Barcelona
+1992,"Korea, Rep.",12,5,12,29,7,692,KOR,43663000,Barcelona
+1992,Kosovo,0,0,0,0,0,692,KSV,1932000,Barcelona
+1992,Kuwait,0,0,0,0,0,692,KWT,0,Barcelona
+1992,Kyrgyz Republic,0,0,0,0,0,692,KGZ,4515400,Barcelona
+1992,Lao PDR,0,0,0,0,0,692,LAO,4497827,Barcelona
+1992,Latvia,0,2,1,3,34,692,LVA,2614338,Barcelona
+1992,Lebanon,0,0,0,0,0,692,LBN,2821868,Barcelona
+1992,Lesotho,0,0,0,0,0,692,LSO,1660360,Barcelona
+1992,Liberia,0,0,0,0,0,692,LBR,2028672,Barcelona
+1992,Libya,0,0,0,0,0,692,LBY,4459214,Barcelona
+1992,Liechtenstein,0,0,0,0,0,692,LIE,29512,Barcelona
+1992,Lithuania,1,0,1,2,43,692,LTU,3700114,Barcelona
+1992,Luxembourg,0,0,0,0,0,692,LUX,392175,Barcelona
+1992,"Macao SAR, China",0,0,0,0,0,692,MAC,377799,Barcelona
+1992,"Macedonia, FYR",0,0,0,0,0,692,MKD,1993080,Barcelona
+1992,Madagascar,0,0,0,0,0,692,MDG,12263899,Barcelona
+1992,Malawi,0,0,0,0,0,692,MWI,9759434,Barcelona
+1992,Malaysia,0,0,1,1,60,692,MYS,19205112,Barcelona
+1992,Maldives,0,0,0,0,0,692,MDV,227863,Barcelona
+1992,Mali,0,0,0,0,0,692,MLI,8322743,Barcelona
+1992,Malta,0,0,0,0,0,692,MLT,361260,Barcelona
+1992,Marshall Islands,0,0,0,0,0,692,MHL,49382,Barcelona
+1992,Mauritania,0,0,0,0,0,692,MRT,2140957,Barcelona
+1992,Mauritius,0,0,0,0,0,692,MUS,1084441,Barcelona
+1992,Mexico,0,1,0,1,52,692,MEX,89757916,Barcelona
+1992,"Micronesia, Fed. Sts.",0,0,0,0,0,692,FSM,101412,Barcelona
+1992,Moldova,0,0,0,0,0,692,MDA,3709000,Barcelona
+1992,Monaco,0,0,0,0,0,692,MCO,29864,Barcelona
+1992,Mongolia,0,0,2,2,49,692,MNG,2243525,Barcelona
+1992,Montenegro,0,0,0,0,0,692,MNE,616630,Barcelona
+1992,Morocco,1,1,1,3,32,692,MAR,25569662,Barcelona
+1992,Mozambique,0,0,0,0,0,692,MOZ,14350459,Barcelona
+1992,Myanmar,0,0,0,0,0,692,MMR,43422423,Barcelona
+1992,Namibia,0,2,0,2,45,692,NAM,1513689,Barcelona
+1992,Nepal,0,0,0,0,0,692,NPL,19050879,Barcelona
+1992,Netherlands,2,6,7,15,18,692,NLD,15184166,Barcelona
+1992,New Caledonia,0,0,0,0,0,692,NCL,176724,Barcelona
+1992,New Zealand,1,4,5,10,20,692,NZL,3531700,Barcelona
+1992,Nicaragua,0,0,0,0,0,692,NIC,4342319,Barcelona
+1992,Niger,0,0,0,0,0,692,NER,8270248,Barcelona
+1992,Nigeria,0,3,1,4,30,692,NGA,100592242,Barcelona
+1992,Northern Mariana Islands,0,0,0,0,0,692,MNP,49429,Barcelona
+1992,Norway,2,4,1,7,24,692,NOR,4286401,Barcelona
+1992,Oman,0,0,0,0,0,692,OMN,1965586,Barcelona
+1992,Pakistan,0,0,1,1,59,692,PAK,117291344,Barcelona
+1992,Palau,0,0,0,0,0,692,PLW,15894,Barcelona
+1992,Panama,0,0,0,0,0,692,PAN,2592117,Barcelona
+1992,Papua New Guinea,0,0,0,0,0,692,PNG,4369087,Barcelona
+1992,Paraguay,0,0,0,0,0,692,PRY,4470934,Barcelona
+1992,Peru,0,1,0,1,53,692,PER,22649612,Barcelona
+1992,Philippines,0,0,1,1,55,692,PHL,64996507,Barcelona
+1992,Poland,3,6,10,19,14,692,POL,38363667,Barcelona
+1992,Portugal,0,0,0,0,0,692,PRT,9969953,Barcelona
+1992,Puerto Rico,0,0,1,1,56,692,PRI,3585176,Barcelona
+1992,Qatar,0,0,1,1,62,692,QAT,489606,Barcelona
+1992,Romania,4,6,8,18,16,692,ROM,22794284,Barcelona
+1992,Russia,0,0,0,0,0,692,RUS,148689000,Barcelona
+1992,Rwanda,0,0,0,0,0,692,RWA,6545100,Barcelona
+1992,Samoa,0,0,0,0,0,692,WSM,165568,Barcelona
+1992,San Marino,0,0,0,0,0,692,SMR,24766,Barcelona
+1992,Sao Tome and Principe,0,0,0,0,0,692,STP,122929,Barcelona
+1992,Saudi Arabia,0,0,0,0,0,692,SAU,17263613,Barcelona
+1992,Senegal,0,0,0,0,0,692,SEN,7990968,Barcelona
+1992,Serbia,0,0,0,0,0,692,SRB,7646424,Barcelona
+1992,Seychelles,0,0,0,0,0,692,SYC,71657,Barcelona
+1992,Sierra Leone,0,0,0,0,0,692,SLE,4031730,Barcelona
+1992,Singapore,0,0,0,0,0,692,SGP,3230700,Barcelona
+1992,Sint Maarten (Dutch part),0,0,0,0,0,692,SXM,0,Barcelona
+1992,Slovak Republic,0,0,0,0,0,692,SVK,5305016,Barcelona
+1992,Slovenia,0,0,2,2,48,692,SVN,1996498,Barcelona
+1992,Solomon Islands,0,0,0,0,0,692,SLB,329984,Barcelona
+1992,Somalia,0,0,0,0,0,692,SOM,6294017,Barcelona
+1992,South Africa,0,2,0,2,44,692,ZAF,36690739,Barcelona
+1992,South Sudan,0,0,0,0,0,692,SSD,5588959,Barcelona
+1992,Spain,13,7,2,22,10,692,ESP,39067745,Barcelona
+1992,Sri Lanka,0,0,0,0,0,692,LKA,17426000,Barcelona
+1992,St. Kitts and Nevis,0,0,0,0,0,692,KNA,41360,Barcelona
+1992,St. Lucia,0,0,0,0,0,692,LCA,141934,Barcelona
+1992,St. Martin (French part),0,0,0,0,0,692,MAF,32892,Barcelona
+1992,St. Vincent and the Grenadines,0,0,0,0,0,692,VCT,108001,Barcelona
+1992,Sudan,0,0,0,0,0,692,SDN,21771781,Barcelona
+1992,Suriname,0,0,1,1,54,692,SUR,418700,Barcelona
+1992,Swaziland,0,0,0,0,0,692,SWZ,907947,Barcelona
+1992,Sweden,1,7,4,12,19,692,SWE,8668067,Barcelona
+1992,Switzerland,1,0,0,1,50,692,CHE,6875364,Barcelona
+1992,Syrian Arab Republic,0,0,0,0,0,692,SYR,13187960,Barcelona
+1992,Tajikistan,0,0,0,0,0,692,TJK,5523207,Barcelona
+1992,Tanzania,0,0,0,0,0,692,TZA,27236099,Barcelona
+1992,Thailand,0,0,1,1,57,692,THA,57661001,Barcelona
+1992,Timor-Leste,0,0,0,0,0,692,TMP,804803,Barcelona
+1992,Togo,0,0,0,0,0,692,TGO,3985364,Barcelona
+1992,Tonga,0,0,0,0,0,692,TON,95443,Barcelona
+1992,Trinidad and Tobago,0,0,0,0,0,692,TTO,1237486,Barcelona
+1992,Tunisia,0,0,0,0,0,692,TUN,8489900,Barcelona
+1992,Turkey,2,2,2,6,25,692,TUR,55815175,Barcelona
+1992,Turkmenistan,0,0,0,0,0,692,TKM,3881973,Barcelona
+1992,Turks and Caicos Islands,0,0,0,0,0,692,TCA,12970,Barcelona
+1992,Tuvalu,0,0,0,0,0,692,TUV,9103,Barcelona
+1992,Uganda,0,0,0,0,0,692,UGA,18788440,Barcelona
+1992,Ukraine,0,0,0,0,0,692,UKR,52150266,Barcelona
+1992,United Arab Emirates,0,0,0,0,0,692,ARE,2012977,Barcelona
+1992,England,5,3,12,20,12,692,GBR,57580402,Barcelona
+1992,United States,37,34,37,108,2,692,USA,256514000,Barcelona
+1992,Uruguay,0,0,0,0,0,692,URY,3154657,Barcelona
+1992,Uzbekistan,0,0,0,0,0,692,UZB,21449000,Barcelona
+1992,Vanuatu,0,0,0,0,0,692,VUT,155242,Barcelona
+1992,"Venezuela, RB",0,0,0,0,0,692,VEN,20691641,Barcelona
+1992,Vietnam,0,0,0,0,0,692,VNM,68450100,Barcelona
+1992,Virgin Islands (U.S.),0,0,0,0,0,692,VIR,105711,Barcelona
+1992,West Bank and Gaza,0,0,0,0,0,692,WBG,2163591,Barcelona
+1992,"Yemen, Rep.",0,0,0,0,0,692,YEM,13040955,Barcelona
+1992,Zambia,0,0,0,0,0,692,ZMB,8229480,Barcelona
+1992,Zimbabwe,0,0,0,0,0,692,ZWE,10981267,Barcelona
+1996,Afghanistan,0,0,0,0,0,837,AFG,18415307,Atlanta
+1996,Albania,0,0,0,0,0,837,ALB,3341043,Atlanta
+1996,Algeria,2,0,1,3,42,837,DZA,29845208,Atlanta
+1996,American Samoa,0,0,0,0,0,837,ASM,53926,Atlanta
+1996,Andorra,0,0,0,0,0,837,ADO,64274,Atlanta
+1996,Angola,0,0,0,0,0,837,AGO,12451945,Atlanta
+1996,Antigua and Barbuda,0,0,0,0,0,837,ATG,70245,Atlanta
+1996,Argentina,0,2,1,3,45,837,ARG,35264070,Atlanta
+1996,Armenia,1,1,0,2,48,837,ARM,3173425,Atlanta
+1996,Aruba,0,0,0,0,0,837,ABW,83195,Atlanta
+1996,Australia,9,9,23,41,5,837,AUS,18311000,Atlanta
+1996,Austria,0,1,2,3,46,837,AUT,7959017,Atlanta
+1996,Azerbaijan,0,1,0,1,70,837,AZE,7763000,Atlanta
+1996,"Bahamas, The",0,1,0,1,68,837,BHS,283678,Atlanta
+1996,Bahrain,0,0,0,0,0,837,BHR,579697,Atlanta
+1996,Bangladesh,0,0,0,0,0,837,BGD,122400896,Atlanta
+1996,Barbados,0,0,0,0,0,837,BRB,263884,Atlanta
+1996,Belarus,1,6,8,15,20,837,BLR,10160000,Atlanta
+1996,Belgium,2,2,2,6,32,837,BEL,10156637,Atlanta
+1996,Belize,0,0,0,0,0,837,BLZ,212375,Atlanta
+1996,Benin,0,0,0,0,0,837,BEN,6176318,Atlanta
+1996,Bermuda,0,0,0,0,0,837,BMU,60129,Atlanta
+1996,Bhutan,0,0,0,0,0,837,BTN,512594,Atlanta
+1996,Bolivia,0,0,0,0,0,837,BOL,7806953,Atlanta
+1996,Bosnia and Herzegovina,0,0,0,0,0,837,BIH,3485575,Atlanta
+1996,Botswana,0,0,0,0,0,837,BWA,1620989,Atlanta
+1996,Brazil,3,3,9,15,18,837,BRA,164392423,Atlanta
+1996,Brunei Darussalam,0,0,0,0,0,837,BRN,302511,Atlanta
+1996,Bulgaria,3,7,5,15,17,837,BGR,8362826,Atlanta
+1996,Burkina Faso,0,0,0,0,0,837,BFA,10372562,Atlanta
+1996,Burundi,1,0,0,1,61,837,BDI,6294482,Atlanta
+1996,Cambodia,0,0,0,0,0,837,KHM,11090611,Atlanta
+1996,Cameroon,0,0,0,0,0,837,CMR,14316949,Atlanta
+1996,Canada,3,11,8,22,11,837,CAN,29671900,Atlanta
+1996,Cape Verde,0,0,0,0,0,837,CPV,408790,Atlanta
+1996,Cayman Islands,0,0,0,0,0,837,CYM,33535,Atlanta
+1996,Central African Republic,0,0,0,0,0,837,CAF,3350299,Atlanta
+1996,Chad,0,0,0,0,0,837,TCD,7216321,Atlanta
+1996,Channel Islands,0,0,0,0,0,837,CHI,144832,Atlanta
+1996,Chile,0,0,0,0,0,837,CHL,14662323,Atlanta
+1996,China,16,22,12,50,4,837,CHN,1217550000,Atlanta
+1996,Colombia,0,0,0,0,0,837,COL,37236124,Atlanta
+1996,Comoros,0,0,0,0,0,837,COM,477548,Atlanta
+1996,"Congo, Dem. Rep.",0,0,0,0,0,837,ZAR,43122601,Atlanta
+1996,"Congo, Rep.",0,0,0,0,0,837,COG,2797572,Atlanta
+1996,Costa Rica,1,0,0,1,59,837,CRI,3566605,Atlanta
+1996,Cote d'Ivoire,0,0,0,0,0,837,CIV,14632391,Atlanta
+1996,Croatia,1,1,0,2,47,837,HRV,4494000,Atlanta
+1996,Cuba,9,8,8,25,9,837,CUB,10980758,Atlanta
+1996,Curacao,0,0,0,0,0,837,CUW,0,Atlanta
+1996,Cyprus,0,0,0,0,0,837,CYP,873246,Atlanta
+1996,Czech Republic,4,3,4,11,22,837,CZE,10315241,Atlanta
+1996,Denmark,4,1,1,6,29,837,DNK,5263074,Atlanta
+1996,Djibouti,0,0,0,0,0,837,DJI,675891,Atlanta
+1996,Dominica,0,0,0,0,0,837,DMA,71146,Atlanta
+1996,Dominican Republic,0,0,0,0,0,837,DOM,8118570,Atlanta
+1996,Ecuador,1,0,0,1,62,837,ECU,11557151,Atlanta
+1996,"Egypt, Arab Rep.",0,0,0,0,0,837,EGY,62123592,Atlanta
+1996,El Salvador,0,0,0,0,0,837,SLV,5806750,Atlanta
+1996,Equatorial Guinea,0,0,0,0,0,837,GNQ,456389,Atlanta
+1996,Eritrea,0,0,0,0,0,837,ERI,3473399,Atlanta
+1996,Estonia,0,0,0,0,0,837,EST,1415594,Atlanta
+1996,Ethiopia,2,0,1,3,41,837,ETH,58815116,Atlanta
+1996,Faeroe Islands,0,0,0,0,0,837,FRO,44058,Atlanta
+1996,Fiji,0,0,0,0,0,837,FJI,784647,Atlanta
+1996,Finland,1,2,1,4,38,837,FIN,5124573,Atlanta
+1996,France,15,7,15,37,6,837,FRA,59752020,Atlanta
+1996,French Polynesia,0,0,0,0,0,837,PYF,219282,Atlanta
+1996,Gabon,0,0,0,0,0,837,GAB,1108698,Atlanta
+1996,"Gambia, The",0,0,0,0,0,837,GMB,1095930,Atlanta
+1996,Georgia,0,0,2,2,56,837,GEO,4616100,Atlanta
+1996,Germany,20,18,27,65,2,837,DEU,81914831,Atlanta
+1996,Ghana,0,0,0,0,0,837,GHA,17169151,Atlanta
+1996,Greece,4,4,0,8,24,837,GRC,10709173,Atlanta
+1996,Greenland,0,0,0,0,0,837,GRL,55900,Atlanta
+1996,Grenada,0,0,0,0,0,837,GRD,100796,Atlanta
+1996,Guam,0,0,0,0,0,837,GUM,148060,Atlanta
+1996,Guatemala,0,0,0,0,0,837,GTM,10214623,Atlanta
+1996,Guinea,0,0,0,0,0,837,GIN,8094751,Atlanta
+1996,Guinea-Bissau,0,0,0,0,0,837,GNB,1165465,Atlanta
+1996,Guyana,0,0,0,0,0,837,GUY,730865,Atlanta
+1996,Haiti,0,0,0,0,0,837,HTI,7986858,Atlanta
+1996,Honduras,0,0,0,0,0,837,HND,5723639,Atlanta
+1996,"Hong Kong SAR, China",1,0,0,1,60,837,HKG,6435500,Atlanta
+1996,Hungary,7,4,10,21,12,837,HUN,10311238,Atlanta
+1996,Iceland,0,0,0,0,0,837,ISL,268916,Atlanta
+1996,India,0,0,1,1,77,837,IND,973147577,Atlanta
+1996,Indonesia,1,1,2,4,40,837,IDN,197097887,Atlanta
+1996,"Iran, Islamic Rep.",1,1,1,3,44,837,IRN,61440887,Atlanta
+1996,Iraq,0,0,0,0,0,837,IRQ,21017108,Atlanta
+1996,Ireland,3,0,1,4,37,837,IRL,3637510,Atlanta
+1996,Isle of Man,0,0,0,0,0,837,IMY,72898,Atlanta
+1996,Israel,0,0,1,1,72,837,ISR,5692000,Atlanta
+1996,Italy,13,10,12,35,7,837,ITA,56860281,Atlanta
+1996,Jamaica,1,3,2,6,34,837,JAM,2509923,Atlanta
+1996,Japan,3,6,5,14,21,837,JPN,125761000,Atlanta
+1996,Jordan,0,0,0,0,0,837,JOR,4325000,Atlanta
+1996,Kazakhstan,3,4,4,11,23,837,KAZ,15577894,Atlanta
+1996,Kenya,1,4,3,8,26,837,KEN,28186224,Atlanta
+1996,Kiribati,0,0,0,0,0,837,KIR,77511,Atlanta
+1996,"Korea, Dem. Rep.",2,1,2,5,36,837,PRK,22016518,Atlanta
+1996,"Korea, Rep.",7,15,5,27,8,837,KOR,45525000,Atlanta
+1996,Kosovo,0,0,0,0,0,837,KSV,2059000,Atlanta
+1996,Kuwait,0,0,0,0,0,837,KWT,1585244,Atlanta
+1996,Kyrgyz Republic,0,0,0,0,0,837,KGZ,4628400,Atlanta
+1996,Lao PDR,0,0,0,0,0,837,LAO,4986592,Atlanta
+1996,Latvia,0,1,0,1,69,837,LVA,2457222,Atlanta
+1996,Lebanon,0,0,0,0,0,837,LBN,3070984,Atlanta
+1996,Lesotho,0,0,0,0,0,837,LSO,1779197,Atlanta
+1996,Liberia,0,0,0,0,0,837,LBR,2197801,Atlanta
+1996,Libya,0,0,0,0,0,837,LBY,4837354,Atlanta
+1996,Liechtenstein,0,0,0,0,0,837,LIE,31287,Atlanta
+1996,Lithuania,0,0,1,1,76,837,LTU,3601613,Atlanta
+1996,Luxembourg,0,0,0,0,0,837,LUX,414225,Atlanta
+1996,"Macao SAR, China",0,0,0,0,0,837,MAC,405231,Atlanta
+1996,"Macedonia, FYR",0,0,0,0,0,837,MKD,1975207,Atlanta
+1996,Madagascar,0,0,0,0,0,837,MDG,13882646,Atlanta
+1996,Malawi,0,0,0,0,0,837,MWI,10153315,Atlanta
+1996,Malaysia,0,1,1,2,55,837,MYS,21259831,Atlanta
+1996,Maldives,0,0,0,0,0,837,MDV,250659,Atlanta
+1996,Mali,0,0,0,0,0,837,MLI,9222157,Atlanta
+1996,Malta,0,0,0,0,0,837,MLT,372687,Atlanta
+1996,Marshall Islands,0,0,0,0,0,837,MHL,51397,Atlanta
+1996,Mauritania,0,0,0,0,0,837,MRT,2403805,Atlanta
+1996,Mauritius,0,0,0,0,0,837,MUS,1133996,Atlanta
+1996,Mexico,0,0,1,1,79,837,MEX,97201533,Atlanta
+1996,"Micronesia, Fed. Sts.",0,0,0,0,0,837,FSM,108342,Atlanta
+1996,Moldova,0,1,1,2,53,837,MDA,3667748,Atlanta
+1996,Monaco,0,0,0,0,0,837,MCO,30971,Atlanta
+1996,Mongolia,0,0,1,1,73,837,MNG,2316598,Atlanta
+1996,Montenegro,0,0,0,0,0,837,MNE,613774,Atlanta
+1996,Morocco,0,0,2,2,58,837,MAR,27237150,Atlanta
+1996,Mozambique,0,0,1,1,71,837,MOZ,16463426,Atlanta
+1996,Myanmar,0,0,0,0,0,837,MMR,45991828,Atlanta
+1996,Namibia,0,2,0,2,51,837,NAM,1705309,Atlanta
+1996,Nepal,0,0,0,0,0,837,NPL,21115271,Atlanta
+1996,Netherlands,4,5,10,19,14,837,NLD,15530498,Atlanta
+1996,New Caledonia,0,0,0,0,0,837,NCL,197000,Atlanta
+1996,New Zealand,3,2,1,6,31,837,NZL,3732000,Atlanta
+1996,Nicaragua,0,0,0,0,0,837,NIC,4756631,Atlanta
+1996,Niger,0,0,0,0,0,837,NER,9499605,Atlanta
+1996,Nigeria,2,1,3,6,33,837,NGA,111166210,Atlanta
+1996,Northern Mariana Islands,0,0,0,0,0,837,MNP,60248,Atlanta
+1996,Norway,2,2,3,7,28,837,NOR,4381336,Atlanta
+1996,Oman,0,0,0,0,0,837,OMN,2175998,Atlanta
+1996,Pakistan,0,0,0,0,0,837,PAK,130083700,Atlanta
+1996,Palau,0,0,0,0,0,837,PLW,17695,Atlanta
+1996,Panama,0,0,0,0,0,837,PAN,2814525,Atlanta
+1996,Papua New Guinea,0,0,0,0,0,837,PNG,4841020,Atlanta
+1996,Paraguay,0,0,0,0,0,837,PRY,4911701,Atlanta
+1996,Peru,0,0,0,0,0,837,PER,24365985,Atlanta
+1996,Philippines,0,1,0,1,64,837,PHL,71184718,Atlanta
+1996,Poland,7,5,5,17,15,837,POL,38624370,Atlanta
+1996,Portugal,1,0,1,2,49,837,PRT,10057861,Atlanta
+1996,Puerto Rico,0,0,1,1,75,837,PRI,3724655,Atlanta
+1996,Qatar,0,0,0,0,0,837,QAT,512476,Atlanta
+1996,Romania,4,7,9,20,13,837,ROM,22619004,Atlanta
+1996,Russia,26,21,16,63,3,837,RUS,147739000,Atlanta
+1996,Rwanda,0,0,0,0,0,837,RWA,5929575,Atlanta
+1996,Samoa,0,0,0,0,0,837,WSM,171276,Atlanta
+1996,San Marino,0,0,0,0,0,837,SMR,25914,Atlanta
+1996,Sao Tome and Principe,0,0,0,0,0,837,STP,132323,Atlanta
+1996,Saudi Arabia,0,0,0,0,0,837,SAU,18848350,Atlanta
+1996,Senegal,0,0,0,0,0,837,SEN,8940298,Atlanta
+1996,Serbia,0,0,0,0,0,837,SRB,7708878,Atlanta
+1996,Seychelles,0,0,0,0,0,837,SYC,76417,Atlanta
+1996,Sierra Leone,0,0,0,0,0,837,SLE,3919708,Atlanta
+1996,Singapore,0,0,0,0,0,837,SGP,3670700,Atlanta
+1996,Sint Maarten (Dutch part),0,0,0,0,0,837,SXM,0,Atlanta
+1996,Slovak Republic,1,1,1,3,43,837,SVK,5373361,Atlanta
+1996,Slovenia,0,2,0,2,52,837,SVN,1988628,Atlanta
+1996,Solomon Islands,0,0,0,0,0,837,SLB,369439,Atlanta
+1996,Somalia,0,0,0,0,0,837,SOM,6481035,Atlanta
+1996,South Africa,3,1,1,5,35,837,ZAF,40000247,Atlanta
+1996,South Sudan,0,0,0,0,0,837,SSD,5561120,Atlanta
+1996,Spain,5,6,6,17,16,837,ESP,39478186,Atlanta
+1996,Sri Lanka,0,0,0,0,0,837,LKA,18336000,Atlanta
+1996,St. Kitts and Nevis,0,0,0,0,0,837,KNA,43391,Atlanta
+1996,St. Lucia,0,0,0,0,0,837,LCA,148962,Atlanta
+1996,St. Martin (French part),0,0,0,0,0,837,MAF,32102,Atlanta
+1996,St. Vincent and the Grenadines,0,0,0,0,0,837,VCT,108078,Atlanta
+1996,Sudan,0,0,0,0,0,837,SDN,25263021,Atlanta
+1996,Suriname,0,0,0,0,0,837,SUR,441734,Atlanta
+1996,Swaziland,0,0,0,0,0,837,SWZ,984506,Atlanta
+1996,Sweden,2,4,2,8,25,837,SWE,8840998,Atlanta
+1996,Switzerland,4,3,0,7,27,837,CHE,7071850,Atlanta
+1996,Syrian Arab Republic,1,0,0,1,63,837,SYR,14746306,Atlanta
+1996,Tajikistan,0,0,0,0,0,837,TJK,5862347,Atlanta
+1996,Tanzania,0,0,0,0,0,837,TZA,30780453,Atlanta
+1996,Thailand,1,0,1,2,50,837,THA,59562136,Atlanta
+1996,Timor-Leste,0,0,0,0,0,837,TMP,869024,Atlanta
+1996,Togo,0,0,0,0,0,837,TGO,4392177,Atlanta
+1996,Tonga,0,1,0,1,65,837,TON,96218,Atlanta
+1996,Trinidad and Tobago,0,0,2,2,57,837,TTO,1258365,Atlanta
+1996,Tunisia,0,0,1,1,74,837,TUN,9089300,Atlanta
+1996,Turkey,4,1,1,6,30,837,TUR,59442502,Atlanta
+1996,Turkmenistan,0,0,0,0,0,837,TKM,4267690,Atlanta
+1996,Turks and Caicos Islands,0,0,0,0,0,837,TCA,15967,Atlanta
+1996,Tuvalu,0,0,0,0,0,837,TUV,9264,Atlanta
+1996,Uganda,0,0,1,1,78,837,UGA,21407693,Atlanta
+1996,Ukraine,9,2,12,23,10,837,UKR,51057189,Atlanta
+1996,United Arab Emirates,0,0,0,0,0,837,ARE,2470810,Atlanta
+1996,England,1,8,6,15,19,837,GBR,58166950,Atlanta
+1996,United States,44,32,25,101,1,837,USA,269394000,Atlanta
+1996,Uruguay,0,0,0,0,0,837,URY,3247585,Atlanta
+1996,Uzbekistan,0,1,1,2,54,837,UZB,23225000,Atlanta
+1996,Vanuatu,0,0,0,0,0,837,VUT,171802,Atlanta
+1996,"Venezuela, RB",0,0,0,0,0,837,VEN,22556838,Atlanta
+1996,Vietnam,0,0,0,0,0,837,VNM,73156700,Atlanta
+1996,Virgin Islands (U.S.),0,0,0,0,0,837,VIR,108093,Atlanta
+1996,West Bank and Gaza,0,0,0,0,0,837,WBG,2587997,Atlanta
+1996,"Yemen, Rep.",0,0,0,0,0,837,YEM,15578640,Atlanta
+1996,Zambia,0,1,0,1,67,837,ZMB,9073311,Atlanta
+1996,Zimbabwe,0,0,0,0,0,837,ZWE,11846110,Atlanta
+2000,Afghanistan,0,0,0,0,0,918,AFG,20595360,Sydney
+2000,Albania,0,0,0,0,0,918,ALB,3304948,Sydney
+2000,Algeria,1,1,3,5,38,918,DZA,31719449,Sydney
+2000,American Samoa,0,0,0,0,0,918,ASM,57522,Sydney
+2000,Andorra,0,0,0,0,0,918,ADO,65399,Sydney
+2000,Angola,0,0,0,0,0,918,AGO,13924930,Sydney
+2000,Antigua and Barbuda,0,0,0,0,0,918,ATG,77648,Sydney
+2000,Argentina,0,2,2,4,47,918,ARG,36903067,Sydney
+2000,Armenia,0,0,1,1,77,918,ARM,3076098,Sydney
+2000,Aruba,0,0,0,0,0,918,ABW,90858,Sydney
+2000,Australia,16,25,17,58,4,918,AUS,19153000,Sydney
+2000,Austria,2,1,0,3,49,918,AUT,8011566,Sydney
+2000,Azerbaijan,2,0,1,3,51,918,AZE,8048600,Sydney
+2000,"Bahamas, The",2,0,1,3,50,918,BHS,297759,Sydney
+2000,Bahrain,0,0,0,0,0,918,BHR,668239,Sydney
+2000,Bangladesh,0,0,0,0,0,918,BGD,132383265,Sydney
+2000,Barbados,0,0,1,1,71,918,BRB,267190,Sydney
+2000,Belarus,3,3,11,17,16,918,BLR,10005000,Sydney
+2000,Belgium,0,2,3,5,40,918,BEL,10251250,Sydney
+2000,Belize,0,0,0,0,0,918,BLZ,238586,Sydney
+2000,Benin,0,0,0,0,0,918,BEN,6949366,Sydney
+2000,Bermuda,0,0,0,0,0,918,BMU,61833,Sydney
+2000,Bhutan,0,0,0,0,0,918,BTN,564350,Sydney
+2000,Bolivia,0,0,0,0,0,918,BOL,8495271,Sydney
+2000,Bosnia and Herzegovina,0,0,0,0,0,918,BIH,3834364,Sydney
+2000,Botswana,0,0,0,0,0,918,BWA,1755375,Sydney
+2000,Brazil,0,6,6,12,22,918,BRA,174504898,Sydney
+2000,Brunei Darussalam,0,0,0,0,0,918,BRN,331801,Sydney
+2000,Bulgaria,5,6,2,13,19,918,BGR,8170172,Sydney
+2000,Burkina Faso,0,0,0,0,0,918,BFA,11607944,Sydney
+2000,Burundi,0,0,0,0,0,918,BDI,6674286,Sydney
+2000,Cambodia,0,0,0,0,0,918,KHM,12222871,Sydney
+2000,Cameroon,1,0,0,1,65,918,CMR,15927713,Sydney
+2000,Canada,3,3,8,14,18,918,CAN,30769700,Sydney
+2000,Cape Verde,0,0,0,0,0,918,CPV,442426,Sydney
+2000,Cayman Islands,0,0,0,0,0,918,CYM,41685,Sydney
+2000,Central African Republic,0,0,0,0,0,918,CAF,3638316,Sydney
+2000,Chad,0,0,0,0,0,918,TCD,8301151,Sydney
+2000,Channel Islands,0,0,0,0,0,918,CHI,148725,Sydney
+2000,Chile,0,0,1,1,80,918,CHL,15454402,Sydney
+2000,China,28,16,14,58,3,918,CHN,1262645000,Sydney
+2000,Colombia,1,0,0,1,64,918,COL,39897984,Sydney
+2000,Comoros,0,0,0,0,0,918,COM,528312,Sydney
+2000,"Congo, Dem. Rep.",0,0,0,0,0,918,ZAR,46949244,Sydney
+2000,"Congo, Rep.",0,0,0,0,0,918,COG,3126204,Sydney
+2000,Costa Rica,0,0,2,2,62,918,CRI,3929588,Sydney
+2000,Cote d'Ivoire,0,0,0,0,0,918,CIV,16131332,Sydney
+2000,Croatia,1,0,1,2,58,918,HRV,4426000,Sydney
+2000,Cuba,11,11,7,29,8,918,CUB,11138416,Sydney
+2000,Curacao,0,0,0,0,0,918,CUW,133860,Sydney
+2000,Cyprus,0,0,0,0,0,918,CYP,943287,Sydney
+2000,Czech Republic,2,3,3,8,28,918,CZE,10272322,Sydney
+2000,Denmark,2,3,1,6,31,918,DNK,5339616,Sydney
+2000,Djibouti,0,0,0,0,0,918,DJI,722887,Sydney
+2000,Dominica,0,0,0,0,0,918,DMA,69679,Sydney
+2000,Dominican Republic,0,0,0,0,0,918,DOM,8663421,Sydney
+2000,Ecuador,0,0,0,0,0,918,ECU,12533087,Sydney
+2000,"Egypt, Arab Rep.",0,0,0,0,0,918,EGY,66136590,Sydney
+2000,El Salvador,0,0,0,0,0,918,SLV,5958794,Sydney
+2000,Equatorial Guinea,0,0,0,0,0,918,GNQ,518179,Sydney
+2000,Eritrea,0,0,0,0,0,918,ERI,3939348,Sydney
+2000,Estonia,1,0,2,3,55,918,EST,1369515,Sydney
+2000,Ethiopia,4,1,3,8,27,918,ETH,66024199,Sydney
+2000,Faeroe Islands,0,0,0,0,0,918,FRO,46491,Sydney
+2000,Fiji,0,0,0,0,0,918,FJI,811647,Sydney
+2000,Finland,2,1,1,4,44,918,FIN,5176209,Sydney
+2000,France,13,14,11,38,6,918,FRA,60911057,Sydney
+2000,French Polynesia,0,0,0,0,0,918,PYF,237267,Sydney
+2000,Gabon,0,0,0,0,0,918,GAB,1225527,Sydney
+2000,"Gambia, The",0,0,0,0,0,918,GMB,1228863,Sydney
+2000,Georgia,0,0,6,6,34,918,GEO,4418300,Sydney
+2000,Germany,13,17,26,56,5,918,DEU,82211508,Sydney
+2000,Ghana,0,0,0,0,0,918,GHA,18825034,Sydney
+2000,Greece,4,6,3,13,20,918,GRC,10917482,Sydney
+2000,Greenland,0,0,0,0,0,918,GRL,56200,Sydney
+2000,Grenada,0,0,0,0,0,918,GRD,101620,Sydney
+2000,Guam,0,0,0,0,0,918,GUM,155328,Sydney
+2000,Guatemala,0,0,0,0,0,918,GTM,11204183,Sydney
+2000,Guinea,0,0,0,0,0,918,GIN,8746128,Sydney
+2000,Guinea-Bissau,0,0,0,0,0,918,GNB,1273312,Sydney
+2000,Guyana,0,0,0,0,0,918,GUY,744471,Sydney
+2000,Haiti,0,0,0,0,0,918,HTI,8578234,Sydney
+2000,Honduras,0,0,0,0,0,918,HND,6235561,Sydney
+2000,"Hong Kong SAR, China",0,0,0,0,0,918,HKG,6665000,Sydney
+2000,Hungary,8,6,3,17,15,918,HUN,10210971,Sydney
+2000,Iceland,0,0,1,1,72,918,ISL,281205,Sydney
+2000,India,0,0,1,1,79,918,IND,1042261758,Sydney
+2000,Indonesia,1,3,2,6,32,918,IDN,208938698,Sydney
+2000,"Iran, Islamic Rep.",3,0,1,4,43,918,IRN,65911052,Sydney
+2000,Iraq,0,0,0,0,0,918,IRQ,23801156,Sydney
+2000,Ireland,0,1,0,1,70,918,IRL,3805174,Sydney
+2000,Isle of Man,0,0,0,0,0,918,IMY,76806,Sydney
+2000,Israel,0,0,1,1,74,918,ISR,6289000,Sydney
+2000,Italy,13,8,13,34,7,918,ITA,56942108,Sydney
+2000,Jamaica,0,6,3,9,26,918,JAM,2589389,Sydney
+2000,Japan,5,8,5,18,14,918,JPN,126870000,Sydney
+2000,Jordan,0,0,0,0,0,918,JOR,4797000,Sydney
+2000,Kazakhstan,3,4,0,7,29,918,KAZ,14883626,Sydney
+2000,Kenya,2,3,2,7,30,918,KEN,31285050,Sydney
+2000,Kiribati,0,0,0,0,0,918,KIR,82788,Sydney
+2000,"Korea, Dem. Rep.",0,1,3,4,48,918,PRK,22840225,Sydney
+2000,"Korea, Rep.",8,10,10,28,10,918,KOR,47008000,Sydney
+2000,Kosovo,0,0,0,0,0,918,KSV,1700000,Sydney
+2000,Kuwait,0,0,1,1,73,918,KWT,1906231,Sydney
+2000,Kyrgyz Republic,0,0,1,1,76,918,KGZ,4898400,Sydney
+2000,Lao PDR,0,0,0,0,0,918,LAO,5388281,Sydney
+2000,Latvia,1,1,1,3,54,918,LVA,2372985,Sydney
+2000,Lebanon,0,0,0,0,0,918,LBN,3235380,Sydney
+2000,Lesotho,0,0,0,0,0,918,LSO,1856225,Sydney
+2000,Liberia,0,0,0,0,0,918,LBR,2891968,Sydney
+2000,Libya,0,0,0,0,0,918,LBY,5176185,Sydney
+2000,Liechtenstein,0,0,0,0,0,918,LIE,33093,Sydney
+2000,Lithuania,2,0,3,5,36,918,LTU,3499536,Sydney
+2000,Luxembourg,0,0,0,0,0,918,LUX,436300,Sydney
+2000,"Macao SAR, China",0,0,0,0,0,918,MAC,431907,Sydney
+2000,"Macedonia, FYR",0,0,0,0,0,918,MKD,2052129,Sydney
+2000,Madagascar,0,0,0,0,0,918,MDG,15744811,Sydney
+2000,Malawi,0,0,0,0,0,918,MWI,11321496,Sydney
+2000,Malaysia,0,0,0,0,0,918,MYS,23420751,Sydney
+2000,Maldives,0,0,0,0,0,918,MDV,272745,Sydney
+2000,Mali,0,0,0,0,0,918,MLI,10260577,Sydney
+2000,Malta,0,0,0,0,0,918,MLT,381363,Sydney
+2000,Marshall Islands,0,0,0,0,0,918,MHL,52161,Sydney
+2000,Mauritania,0,0,0,0,0,918,MRT,2708095,Sydney
+2000,Mauritius,0,0,0,0,0,918,MUS,1186873,Sydney
+2000,Mexico,1,2,3,6,33,918,MEX,103873607,Sydney
+2000,"Micronesia, Fed. Sts.",0,0,0,0,0,918,FSM,107430,Sydney
+2000,Moldova,0,1,1,2,61,918,MDA,3639588,Sydney
+2000,Monaco,0,0,0,0,0,918,MCO,32081,Sydney
+2000,Mongolia,0,0,0,0,0,918,MNG,2397473,Sydney
+2000,Montenegro,0,0,0,0,0,918,MNE,611196,Sydney
+2000,Morocco,0,1,4,5,41,918,MAR,28710123,Sydney
+2000,Mozambique,1,0,0,1,66,918,MOZ,18275618,Sydney
+2000,Myanmar,0,0,0,0,0,918,MMR,48453000,Sydney
+2000,Namibia,0,0,0,0,0,918,NAM,1897953,Sydney
+2000,Nepal,0,0,0,0,0,918,NPL,23184177,Sydney
+2000,Netherlands,12,9,4,25,12,918,NLD,15925513,Sydney
+2000,New Caledonia,0,0,0,0,0,918,NCL,213230,Sydney
+2000,New Zealand,1,0,3,4,46,918,NZL,3857700,Sydney
+2000,Nicaragua,0,0,0,0,0,918,NIC,5100920,Sydney
+2000,Niger,0,0,0,0,0,918,NER,10989815,Sydney
+2000,Nigeria,1,2,0,3,52,918,NGA,122876727,Sydney
+2000,Northern Mariana Islands,0,0,0,0,0,918,MNP,68434,Sydney
+2000,Norway,4,3,3,10,24,918,NOR,4490967,Sydney
+2000,Oman,0,0,0,0,0,918,OMN,2192535,Sydney
+2000,Pakistan,0,0,0,0,0,918,PAK,143832014,Sydney
+2000,Palau,0,0,0,0,0,918,PLW,19174,Sydney
+2000,Panama,0,0,0,0,0,918,PAN,3054812,Sydney
+2000,Papua New Guinea,0,0,0,0,0,918,PNG,5379226,Sydney
+2000,Paraguay,0,0,0,0,0,918,PRY,5350253,Sydney
+2000,Peru,0,0,0,0,0,918,PER,26000080,Sydney
+2000,Philippines,0,0,0,0,0,918,PHL,77651848,Sydney
+2000,Poland,6,5,3,14,17,918,POL,38453757,Sydney
+2000,Portugal,0,0,2,2,63,918,PRT,10225836,Sydney
+2000,Puerto Rico,0,0,0,0,0,918,PRI,3810605,Sydney
+2000,Qatar,0,0,1,1,78,918,QAT,593693,Sydney
+2000,Romania,11,6,9,26,11,918,ROM,22442971,Sydney
+2000,Russia,32,28,29,89,2,918,RUS,146303000,Sydney
+2000,Rwanda,0,0,0,0,0,918,RWA,8395577,Sydney
+2000,Samoa,0,0,0,0,0,918,WSM,174614,Sydney
+2000,San Marino,0,0,0,0,0,918,SMR,26969,Sydney
+2000,Sao Tome and Principe,0,0,0,0,0,918,STP,139428,Sydney
+2000,Saudi Arabia,0,1,1,2,60,918,SAU,20144584,Sydney
+2000,Senegal,0,0,0,0,0,918,SEN,9861679,Sydney
+2000,Serbia,0,0,0,0,0,918,SRB,7516346,Sydney
+2000,Seychelles,0,0,0,0,0,918,SYC,81131,Sydney
+2000,Sierra Leone,0,0,0,0,0,918,SLE,4139757,Sydney
+2000,Singapore,0,0,0,0,0,918,SGP,4027900,Sydney
+2000,Sint Maarten (Dutch part),0,0,0,0,0,918,SXM,30519,Sydney
+2000,Slovak Republic,1,3,1,5,37,918,SVK,5388720,Sydney
+2000,Slovenia,2,0,0,2,57,918,SVN,1988925,Sydney
+2000,Solomon Islands,0,0,0,0,0,918,SLB,412336,Sydney
+2000,Somalia,0,0,0,0,0,918,SOM,7385416,Sydney
+2000,South Africa,0,2,3,5,39,918,ZAF,44000000,Sydney
+2000,South Sudan,0,0,0,0,0,918,SSD,6652984,Sydney
+2000,Spain,3,3,5,11,23,918,ESP,40263216,Sydney
+2000,Sri Lanka,0,1,0,1,69,918,LKA,19102000,Sydney
+2000,St. Kitts and Nevis,0,0,0,0,0,918,KNA,45544,Sydney
+2000,St. Lucia,0,0,0,0,0,918,LCA,156949,Sydney
+2000,St. Martin (French part),0,0,0,0,0,918,MAF,28384,Sydney
+2000,St. Vincent and the Grenadines,0,0,0,0,0,918,VCT,107897,Sydney
+2000,Sudan,0,0,0,0,0,918,SDN,27729798,Sydney
+2000,Suriname,0,0,0,0,0,918,SUR,466668,Sydney
+2000,Swaziland,0,0,0,0,0,918,SWZ,1063715,Sydney
+2000,Sweden,4,5,3,12,21,918,SWE,8872109,Sydney
+2000,Switzerland,1,6,2,9,25,918,CHE,7184250,Sydney
+2000,Syrian Arab Republic,0,0,0,0,0,918,SYR,16371208,Sydney
+2000,Tajikistan,0,0,0,0,0,918,TJK,6186152,Sydney
+2000,Tanzania,0,0,0,0,0,918,TZA,34020512,Sydney
+2000,Thailand,1,0,2,3,56,918,THA,62343379,Sydney
+2000,Timor-Leste,0,0,0,0,0,918,TMP,853585,Sydney
+2000,Togo,0,0,0,0,0,918,TGO,4864753,Sydney
+2000,Tonga,0,0,0,0,0,918,TON,97962,Sydney
+2000,Trinidad and Tobago,0,1,1,2,59,918,TTO,1267980,Sydney
+2000,Tunisia,0,0,0,0,0,918,TUN,9563500,Sydney
+2000,Turkey,3,0,2,5,35,918,TUR,63174483,Sydney
+2000,Turkmenistan,0,0,0,0,0,918,TKM,4501419,Sydney
+2000,Turks and Caicos Islands,0,0,0,0,0,918,TCA,18876,Sydney
+2000,Tuvalu,0,0,0,0,0,918,TUV,9419,Sydney
+2000,Uganda,0,0,0,0,0,918,UGA,24275641,Sydney
+2000,Ukraine,3,10,10,23,13,918,UKR,49175848,Sydney
+2000,United Arab Emirates,0,0,0,0,0,918,ARE,3026352,Sydney
+2000,England,11,10,7,28,9,918,GBR,58892514,Sydney
+2000,United States,37,24,32,93,1,918,USA,282162411,Sydney
+2000,Uruguay,0,1,0,1,68,918,URY,3320841,Sydney
+2000,Uzbekistan,1,1,2,4,45,918,UZB,24650400,Sydney
+2000,Vanuatu,0,0,0,0,0,918,VUT,185058,Sydney
+2000,"Venezuela, RB",0,0,0,0,0,918,VEN,24407553,Sydney
+2000,Vietnam,0,1,0,1,67,918,VNM,77630900,Sydney
+2000,Virgin Islands (U.S.),0,0,0,0,0,918,VIR,108639,Sydney
+2000,West Bank and Gaza,0,0,0,0,0,918,WBG,2922153,Sydney
+2000,"Yemen, Rep.",0,0,0,0,0,918,YEM,17522537,Sydney
+2000,Zambia,0,0,0,0,0,918,ZMB,10100981,Sydney
+2000,Zimbabwe,0,0,0,0,0,918,ZWE,12503652,Sydney
+2004,Afghanistan,0,0,0,0,0,920,AFG,24018682,Athina
+2004,Albania,0,0,0,0,0,920,ALB,3216197,Athina
+2004,Algeria,0,0,0,0,0,920,DZA,33461345,Athina
+2004,American Samoa,0,0,0,0,0,920,ASM,59262,Athina
+2004,Andorra,0,0,0,0,0,920,ADO,79060,Athina
+2004,Angola,0,0,0,0,0,920,AGO,15976715,Athina
+2004,Antigua and Barbuda,0,0,0,0,0,920,ATG,81718,Athina
+2004,Argentina,2,0,4,6,35,920,ARG,38308779,Athina
+2004,Armenia,0,0,0,0,0,920,ARM,3025652,Athina
+2004,Aruba,0,0,0,0,0,920,ABW,98742,Athina
+2004,Australia,17,16,17,50,4,920,AUS,20127400,Athina
+2004,Austria,2,4,1,7,29,920,AUT,8171966,Athina
+2004,Azerbaijan,1,0,4,5,44,920,AZE,8306500,Athina
+2004,"Bahamas, The",1,0,1,2,58,920,BHS,322400,Athina
+2004,Bahrain,0,0,0,0,0,920,BHR,820505,Athina
+2004,Bangladesh,0,0,0,0,0,920,BGD,141235035,Athina
+2004,Barbados,0,0,0,0,0,920,BRB,272205,Athina
+2004,Belarus,2,5,6,13,18,920,BLR,9730000,Athina
+2004,Belgium,1,0,2,3,55,920,BEL,10421137,Athina
+2004,Belize,0,0,0,0,0,920,BLZ,265040,Athina
+2004,Benin,0,0,0,0,0,920,BEN,7922796,Athina
+2004,Bermuda,0,0,0,0,0,920,BMU,63740,Athina
+2004,Bhutan,0,0,0,0,0,920,BTN,633893,Athina
+2004,Bolivia,0,0,0,0,0,920,BOL,9187610,Athina
+2004,Bosnia and Herzegovina,0,0,0,0,0,920,BIH,3886723,Athina
+2004,Botswana,0,0,0,0,0,920,BWA,1854739,Athina
+2004,Brazil,5,2,3,10,22,920,BRA,184010283,Athina
+2004,Brunei Darussalam,0,0,0,0,0,920,BRN,360797,Athina
+2004,Bulgaria,2,1,9,12,20,920,BGR,7781161,Athina
+2004,Burkina Faso,0,0,0,0,0,920,BFA,13034258,Athina
+2004,Burundi,0,0,0,0,0,920,BDI,7510771,Athina
+2004,Cambodia,0,0,0,0,0,920,KHM,13149386,Athina
+2004,Cameroon,1,0,0,1,66,920,CMR,17674960,Athina
+2004,Canada,3,6,3,12,19,920,CAN,31995000,Athina
+2004,Cape Verde,0,0,0,0,0,920,CPV,473577,Athina
+2004,Cayman Islands,0,0,0,0,0,920,CYM,47299,Athina
+2004,Central African Republic,0,0,0,0,0,920,CAF,3893595,Athina
+2004,Chad,0,0,0,0,0,920,TCD,9665024,Athina
+2004,Channel Islands,0,0,0,0,0,920,CHI,153174,Athina
+2004,Chile,2,0,1,3,52,920,CHL,16168241,Athina
+2004,China,32,17,14,63,3,920,CHN,1296075000,Athina
+2004,Colombia,0,0,2,2,64,920,COL,42527623,Athina
+2004,Comoros,0,0,0,0,0,920,COM,585389,Athina
+2004,"Congo, Dem. Rep.",0,0,0,0,0,920,ZAR,52487293,Athina
+2004,"Congo, Rep.",0,0,0,0,0,920,COG,3448868,Athina
+2004,Costa Rica,0,0,0,0,0,920,CRI,4246336,Athina
+2004,Cote d'Ivoire,0,0,0,0,0,920,CIV,17144325,Athina
+2004,Croatia,1,2,2,5,41,920,HRV,4439000,Athina
+2004,Cuba,9,7,11,27,11,920,CUB,11273363,Athina
+2004,Curacao,0,0,0,0,0,920,CUW,131591,Athina
+2004,Cyprus,0,0,0,0,0,920,CYP,1015820,Athina
+2004,Czech Republic,1,3,5,9,24,920,CZE,10216016,Athina
+2004,Denmark,2,1,5,8,26,920,DNK,5404523,Athina
+2004,Djibouti,0,0,0,0,0,920,DJI,765776,Athina
+2004,Dominica,0,0,0,0,0,920,DMA,70325,Athina
+2004,Dominican Republic,1,0,0,1,65,920,DOM,9207389,Athina
+2004,Ecuador,0,0,0,0,0,920,ECU,13529091,Athina
+2004,"Egypt, Arab Rep.",1,1,3,5,43,920,EGY,70591288,Athina
+2004,El Salvador,0,0,0,0,0,920,SLV,6050297,Athina
+2004,Equatorial Guinea,0,0,0,0,0,920,GNQ,585983,Athina
+2004,Eritrea,0,0,1,1,71,920,ERI,4665522,Athina
+2004,Estonia,0,1,2,3,57,920,EST,1349290,Athina
+2004,Ethiopia,2,3,2,7,30,920,ETH,74066147,Athina
+2004,Faeroe Islands,0,0,0,0,0,920,FRO,48782,Athina
+2004,Fiji,0,0,0,0,0,920,FJI,818995,Athina
+2004,Finland,0,2,0,2,61,920,FIN,5228172,Athina
+2004,France,11,9,13,33,7,920,FRA,62702121,Athina
+2004,French Polynesia,0,0,0,0,0,920,PYF,251811,Athina
+2004,Gabon,0,0,0,0,0,920,GAB,1347125,Athina
+2004,"Gambia, The",0,0,0,0,0,920,GMB,1391934,Athina
+2004,Georgia,2,2,0,4,46,920,GEO,4318300,Athina
+2004,Germany,13,16,20,49,5,920,DEU,82516260,Athina
+2004,Ghana,0,0,0,0,0,920,GHA,20835514,Athina
+2004,Greece,6,6,4,16,17,920,GRC,11061701,Athina
+2004,Greenland,0,0,0,0,0,920,GRL,56911,Athina
+2004,Grenada,0,0,0,0,0,920,GRD,102655,Athina
+2004,Guam,0,0,0,0,0,920,GUM,158194,Athina
+2004,Guatemala,0,0,0,0,0,920,GTM,12367800,Athina
+2004,Guinea,0,0,0,0,0,920,GIN,9379621,Athina
+2004,Guinea-Bissau,0,0,0,0,0,920,GNB,1390791,Athina
+2004,Guyana,0,0,0,0,0,920,GUY,756939,Athina
+2004,Haiti,0,0,0,0,0,920,HTI,9129933,Athina
+2004,Honduras,0,0,0,0,0,920,HND,6762426,Athina
+2004,"Hong Kong SAR, China",0,1,0,1,69,920,HKG,6783500,Athina
+2004,Hungary,8,6,3,17,16,920,HUN,10107146,Athina
+2004,Iceland,0,0,0,0,0,920,ISL,292074,Athina
+2004,India,0,1,0,1,70,920,IND,1110626108,Athina
+2004,Indonesia,1,1,2,4,47,920,IDN,221293797,Athina
+2004,"Iran, Islamic Rep.",2,2,2,6,34,920,IRN,69342126,Athina
+2004,Iraq,0,0,0,0,0,920,IRQ,26673536,Athina
+2004,Ireland,0,0,0,0,0,920,IRL,4070262,Athina
+2004,Isle of Man,0,0,0,0,0,920,IMY,79658,Athina
+2004,Israel,1,0,1,2,59,920,ISR,6809000,Athina
+2004,Italy,10,11,11,32,8,920,ITA,58175310,Athina
+2004,Jamaica,2,1,2,5,39,920,JAM,2638100,Athina
+2004,Japan,16,9,12,37,6,920,JPN,127761000,Athina
+2004,Jordan,0,0,0,0,0,920,JOR,5290000,Athina
+2004,Kazakhstan,1,4,3,8,27,920,KAZ,15012984,Athina
+2004,Kenya,1,4,2,7,31,920,KEN,34834606,Athina
+2004,Kiribati,0,0,0,0,0,920,KIR,88936,Athina
+2004,"Korea, Dem. Rep.",0,4,1,5,45,920,PRK,23639303,Athina
+2004,"Korea, Rep.",9,12,9,30,9,920,KOR,48039000,Athina
+2004,Kosovo,0,0,0,0,0,920,KSV,1704622,Athina
+2004,Kuwait,0,0,0,0,0,920,KWT,2196466,Athina
+2004,Kyrgyz Republic,0,0,0,0,0,920,KGZ,5104700,Athina
+2004,Lao PDR,0,0,0,0,0,920,LAO,5699112,Athina
+2004,Latvia,0,4,0,4,48,920,LVA,2312819,Athina
+2004,Lebanon,0,0,0,0,0,920,LBN,3853582,Athina
+2004,Lesotho,0,0,0,0,0,920,LSO,1912022,Athina
+2004,Liberia,0,0,0,0,0,920,LBR,3184643,Athina
+2004,Libya,0,0,0,0,0,920,LBY,5507000,Athina
+2004,Liechtenstein,0,0,0,0,0,920,LIE,34445,Athina
+2004,Lithuania,1,2,0,3,53,920,LTU,3435591,Athina
+2004,Luxembourg,0,0,0,0,0,920,LUX,458095,Athina
+2004,"Macao SAR, China",0,0,0,0,0,920,MAC,458542,Athina
+2004,"Macedonia, FYR",0,0,0,0,0,920,MKD,2085728,Athina
+2004,Madagascar,0,0,0,0,0,920,MDG,17763367,Athina
+2004,Malawi,0,0,0,0,0,920,MWI,12569091,Athina
+2004,Malaysia,0,0,0,0,0,920,MYS,25365089,Athina
+2004,Maldives,0,0,0,0,0,920,MDV,292505,Athina
+2004,Mali,0,0,0,0,0,920,MLI,11572936,Athina
+2004,Malta,0,0,0,0,0,920,MLT,401268,Athina
+2004,Marshall Islands,0,0,0,0,0,920,MHL,52074,Athina
+2004,Mauritania,0,0,0,0,0,920,MRT,3055425,Athina
+2004,Mauritius,0,0,0,0,0,920,MUS,1233386,Athina
+2004,Mexico,0,3,1,4,49,920,MEX,109381550,Athina
+2004,"Micronesia, Fed. Sts.",0,0,0,0,0,920,FSM,106575,Athina
+2004,Moldova,0,0,0,0,0,920,MDA,3603934,Athina
+2004,Monaco,0,0,0,0,0,920,MCO,33346,Athina
+2004,Mongolia,0,0,1,1,73,920,MNG,2496248,Athina
+2004,Montenegro,0,0,0,0,0,920,MNE,614670,Athina
+2004,Morocco,2,1,0,3,51,920,MAR,29855820,Athina
+2004,Mozambique,0,0,0,0,0,920,MOZ,20438827,Athina
+2004,Myanmar,0,0,0,0,0,920,MMR,49875169,Athina
+2004,Namibia,0,0,0,0,0,920,NAM,2003320,Athina
+2004,Nepal,0,0,0,0,0,920,NPL,24921910,Athina
+2004,Netherlands,4,9,9,22,13,920,NLD,16281779,Athina
+2004,New Caledonia,0,0,0,0,0,920,NCL,230068,Athina
+2004,New Zealand,3,2,0,5,37,920,NZL,4087500,Athina
+2004,Nicaragua,0,0,0,0,0,920,NIC,5386299,Athina
+2004,Niger,0,0,0,0,0,920,NER,12708897,Athina
+2004,Nigeria,0,0,2,2,62,920,NGA,135999250,Athina
+2004,Northern Mariana Islands,0,0,0,0,0,920,MNP,66143,Athina
+2004,Norway,5,0,1,6,32,920,NOR,4591910,Athina
+2004,Oman,0,0,0,0,0,920,OMN,2464001,Athina
+2004,Pakistan,0,0,0,0,0,920,PAK,155151394,Athina
+2004,Palau,0,0,0,0,0,920,PLW,19805,Athina
+2004,Panama,0,0,0,0,0,920,PAN,3303335,Athina
+2004,Papua New Guinea,0,0,0,0,0,920,PNG,5948461,Athina
+2004,Paraguay,0,1,0,1,68,920,PRY,5793330,Athina
+2004,Peru,0,0,0,0,0,920,PER,27403845,Athina
+2004,Philippines,0,0,0,0,0,920,PHL,84231329,Athina
+2004,Poland,3,2,5,10,23,920,POL,38182222,Athina
+2004,Portugal,0,2,1,3,56,920,PRT,10501970,Athina
+2004,Puerto Rico,0,0,0,0,0,920,PRI,3826878,Athina
+2004,Qatar,0,0,0,0,0,920,QAT,720383,Athina
+2004,Romania,8,5,6,19,15,920,ROM,21684890,Athina
+2004,Russia,28,26,36,90,2,920,RUS,143849574,Athina
+2004,Rwanda,0,0,0,0,0,920,RWA,9254379,Athina
+2004,Samoa,0,0,0,0,0,920,WSM,178794,Athina
+2004,San Marino,0,0,0,0,0,920,SMR,29290,Athina
+2004,Sao Tome and Principe,0,0,0,0,0,920,STP,150842,Athina
+2004,Saudi Arabia,0,0,0,0,0,920,SAU,23839231,Athina
+2004,Senegal,0,0,0,0,0,920,SEN,10967568,Athina
+2004,Serbia,0,0,0,0,0,920,SRB,7463157,Athina
+2004,Seychelles,0,0,0,0,0,920,SYC,82500,Athina
+2004,Sierra Leone,0,0,0,0,0,920,SLE,4928175,Athina
+2004,Singapore,0,0,0,0,0,920,SGP,4166700,Athina
+2004,Sint Maarten (Dutch part),0,0,0,0,0,920,SXM,35318,Athina
+2004,Slovak Republic,2,2,2,6,33,920,SVK,5382438,Athina
+2004,Slovenia,0,1,3,4,50,920,SVN,1997012,Athina
+2004,Solomon Islands,0,0,0,0,0,920,SLB,457827,Athina
+2004,Somalia,0,0,0,0,0,920,SOM,8249965,Athina
+2004,South Africa,1,3,2,6,36,920,ZAF,46664771,Athina
+2004,South Sudan,0,0,0,0,0,920,SSD,7730180,Athina
+2004,Spain,3,11,6,20,14,920,ESP,42691689,Athina
+2004,Sri Lanka,0,0,0,0,0,920,LKA,19435000,Athina
+2004,St. Kitts and Nevis,0,0,0,0,0,920,KNA,48421,Athina
+2004,St. Lucia,0,0,0,0,0,920,LCA,163460,Athina
+2004,St. Martin (French part),0,0,0,0,0,920,MAF,27514,Athina
+2004,St. Vincent and the Grenadines,0,0,0,0,0,920,VCT,108562,Athina
+2004,Sudan,0,0,0,0,0,920,SDN,30778572,Athina
+2004,Suriname,0,0,0,0,0,920,SUR,493394,Athina
+2004,Swaziland,0,0,0,0,0,920,SWZ,1094758,Athina
+2004,Sweden,4,2,1,7,28,920,SWE,8993531,Athina
+2004,Switzerland,1,1,3,5,42,920,CHE,7389625,Athina
+2004,Syrian Arab Republic,0,0,1,1,74,920,SYR,17676012,Athina
+2004,Tajikistan,0,0,0,0,0,920,TJK,6663929,Athina
+2004,Tanzania,0,0,0,0,0,920,TZA,37765139,Athina
+2004,Thailand,3,1,4,8,25,920,THA,65087400,Athina
+2004,Timor-Leste,0,0,0,0,0,920,TMP,966987,Athina
+2004,Togo,0,0,0,0,0,920,TGO,5397851,Athina
+2004,Tonga,0,0,0,0,0,920,TON,100319,Athina
+2004,Trinidad and Tobago,0,0,1,1,72,920,TTO,1290379,Athina
+2004,Tunisia,0,0,0,0,0,920,TUN,9932400,Athina
+2004,Turkey,3,3,5,11,21,920,TUR,66845635,Athina
+2004,Turkmenistan,0,0,0,0,0,920,TKM,4696876,Athina
+2004,Turks and Caicos Islands,0,0,0,0,0,920,TCA,25025,Athina
+2004,Tuvalu,0,0,0,0,0,920,TUV,9646,Athina
+2004,Uganda,0,0,0,0,0,920,UGA,27766986,Athina
+2004,Ukraine,8,5,9,22,12,920,UKR,47451600,Athina
+2004,United Arab Emirates,1,0,0,1,67,920,ARE,3658658,Athina
+2004,England,9,9,12,30,10,920,GBR,59867866,Athina
+2004,United States,36,39,26,101,1,920,USA,292805298,Athina
+2004,Uruguay,0,0,0,0,0,920,URY,3323822,Athina
+2004,Uzbekistan,2,1,2,5,40,920,UZB,25864350,Athina
+2004,Vanuatu,0,0,0,0,0,920,VUT,204135,Athina
+2004,"Venezuela, RB",0,0,2,2,63,920,VEN,26261326,Athina
+2004,Vietnam,0,0,0,0,0,920,VNM,81437700,Athina
+2004,Virgin Islands (U.S.),0,0,0,0,0,920,VIR,107950,Athina
+2004,West Bank and Gaza,0,0,0,0,0,920,WBG,3236626,Athina
+2004,"Yemen, Rep.",0,0,0,0,0,920,YEM,19612696,Athina
+2004,Zambia,0,0,0,0,0,920,ZMB,11174650,Athina
+2004,Zimbabwe,1,1,1,3,54,920,ZWE,12693047,Athina
+2008,Afghanistan,0,0,1,1,82,954,AFG,27032197,Beijing
+2008,Albania,0,0,0,0,0,954,ALB,3156608,Beijing
+2008,Algeria,0,1,1,2,64,954,DZA,35725377,Beijing
+2008,American Samoa,0,0,0,0,0,954,ASM,57053,Beijing
+2008,Andorra,0,0,0,0,0,954,ADO,79969,Beijing
+2008,Angola,0,0,0,0,0,954,AGO,18314441,Beijing
+2008,Antigua and Barbuda,0,0,0,0,0,954,ATG,85349,Beijing
+2008,Argentina,2,0,4,6,35,954,ARG,39676083,Beijing
+2008,Armenia,0,0,6,6,37,954,ARM,2977488,Beijing
+2008,Aruba,0,0,0,0,0,954,ABW,101344,Beijing
+2008,Australia,14,15,17,46,5,954,AUS,21384400,Beijing
+2008,Austria,0,1,2,3,56,954,AUT,8336926,Beijing
+2008,Azerbaijan,1,2,4,7,30,954,AZE,8763400,Beijing
+2008,"Bahamas, The",0,1,1,2,67,954,BHS,348340,Beijing
+2008,Bahrain,0,0,0,0,0,954,BHR,1116038,Beijing
+2008,Bangladesh,0,0,0,0,0,954,BGD,147969967,Beijing
+2008,Barbados,0,0,0,0,0,954,BRB,277634,Beijing
+2008,Belarus,4,5,10,19,13,954,BLR,9528000,Beijing
+2008,Belgium,1,1,0,2,59,954,BEL,10709973,Beijing
+2008,Belize,0,0,0,0,0,954,BLZ,293544,Beijing
+2008,Benin,0,0,0,0,0,954,BEN,8973293,Beijing
+2008,Bermuda,0,0,0,0,0,954,BMU,65273,Beijing
+2008,Bhutan,0,0,0,0,0,954,BTN,692159,Beijing
+2008,Bolivia,0,0,0,0,0,954,BOL,9834098,Beijing
+2008,Bosnia and Herzegovina,0,0,0,0,0,954,BIH,3861201,Beijing
+2008,Botswana,0,0,0,0,0,954,BWA,1933719,Beijing
+2008,Brazil,3,4,8,15,17,954,BRA,191765567,Beijing
+2008,Brunei Darussalam,0,0,0,0,0,954,BRN,388017,Beijing
+2008,Bulgaria,1,1,3,5,40,954,BGR,7623395,Beijing
+2008,Burkina Faso,0,0,0,0,0,954,BFA,14659646,Beijing
+2008,Burundi,0,0,0,0,0,954,BDI,8624280,Beijing
+2008,Cambodia,0,0,0,0,0,954,KHM,13940518,Beijing
+2008,Cameroon,1,0,0,1,70,954,CMR,19595026,Beijing
+2008,Canada,3,9,6,18,15,954,CAN,33317662,Beijing
+2008,Cape Verde,0,0,0,0,0,954,CPV,484651,Beijing
+2008,Cayman Islands,0,0,0,0,0,954,CYM,52912,Beijing
+2008,Central African Republic,0,0,0,0,0,954,CAF,4185106,Beijing
+2008,Chad,0,0,0,0,0,954,TCD,11030628,Beijing
+2008,Channel Islands,0,0,0,0,0,954,CHI,157554,Beijing
+2008,Chile,0,1,0,1,78,954,CHL,16831184,Beijing
+2008,China,51,21,28,100,2,954,CHN,1324655000,Beijing
+2008,Colombia,0,1,1,2,65,954,COL,45153037,Beijing
+2008,Comoros,0,0,0,0,0,954,COM,649291,Beijing
+2008,"Congo, Dem. Rep.",0,0,0,0,0,954,ZAR,58819038,Beijing
+2008,"Congo, Rep.",0,0,0,0,0,954,COG,3876475,Beijing
+2008,Costa Rica,0,0,0,0,0,954,CRI,4532711,Beijing
+2008,Cote d'Ivoire,0,0,0,0,0,954,CIV,18260044,Beijing
+2008,Croatia,0,2,3,5,42,954,HRV,4434000,Beijing
+2008,Cuba,2,11,11,24,12,954,CUB,11296355,Beijing
+2008,Curacao,0,0,0,0,0,954,CUW,141279,Beijing
+2008,Cyprus,0,0,0,0,0,954,CYP,1077089,Beijing
+2008,Czech Republic,3,3,0,6,31,954,CZE,10424336,Beijing
+2008,Denmark,2,2,3,7,28,954,DNK,5493621,Beijing
+2008,Djibouti,0,0,0,0,0,954,DJI,810100,Beijing
+2008,Dominica,0,0,0,0,0,954,DMA,70883,Beijing
+2008,Dominican Republic,1,1,0,2,60,954,DOM,9750195,Beijing
+2008,Ecuador,0,1,0,1,74,954,ECU,14512402,Beijing
+2008,"Egypt, Arab Rep.",0,0,1,1,80,954,EGY,75491922,Beijing
+2008,El Salvador,0,0,0,0,0,954,SLV,6151776,Beijing
+2008,Equatorial Guinea,0,0,0,0,0,954,GNQ,658025,Beijing
+2008,Eritrea,0,0,0,0,0,954,ERI,5382163,Beijing
+2008,Estonia,1,1,0,2,58,954,EST,1340675,Beijing
+2008,Ethiopia,4,1,2,7,27,954,ETH,82621190,Beijing
+2008,Faeroe Islands,0,0,0,0,0,954,FRO,49601,Beijing
+2008,Fiji,0,0,0,0,0,954,FJI,843851,Beijing
+2008,Finland,1,1,2,4,47,954,FIN,5313399,Beijing
+2008,France,7,16,18,41,7,954,FRA,64371099,Beijing
+2008,French Polynesia,0,0,0,0,0,954,PYF,262877,Beijing
+2008,Gabon,0,0,0,0,0,954,GAB,1482843,Beijing
+2008,"Gambia, The",0,0,0,0,0,954,GMB,1577984,Beijing
+2008,Georgia,3,0,3,6,33,954,GEO,4383800,Beijing
+2008,Germany,16,10,15,41,6,954,DEU,82110097,Beijing
+2008,Ghana,0,0,0,0,0,954,GHA,23110139,Beijing
+2008,Greece,0,2,2,4,48,954,GRC,11237094,Beijing
+2008,Greenland,0,0,0,0,0,954,GRL,56328,Beijing
+2008,Grenada,0,0,0,0,0,954,GRD,103932,Beijing
+2008,Guam,0,0,0,0,0,954,GUM,158310,Beijing
+2008,Guatemala,0,0,0,0,0,954,GTM,13648307,Beijing
+2008,Guinea,0,0,0,0,0,954,GIN,10314678,Beijing
+2008,Guinea-Bissau,0,0,0,0,0,954,GNB,1516920,Beijing
+2008,Guyana,0,0,0,0,0,954,GUY,775739,Beijing
+2008,Haiti,0,0,0,0,0,954,HTI,9638255,Beijing
+2008,Honduras,0,0,0,0,0,954,HND,7322368,Beijing
+2008,"Hong Kong SAR, China",0,0,0,0,0,954,HKG,6957800,Beijing
+2008,Hungary,3,5,2,10,22,954,HUN,10038188,Beijing
+2008,Iceland,0,1,0,1,77,954,ISL,317414,Beijing
+2008,India,1,0,2,3,53,954,IND,1174662334,Beijing
+2008,Indonesia,1,1,3,5,39,954,IDN,234243489,Beijing
+2008,"Iran, Islamic Rep.",1,0,1,2,61,954,IRN,72660887,Beijing
+2008,Iraq,0,0,0,0,0,954,IRQ,29429829,Beijing
+2008,Ireland,0,1,2,3,55,954,IRL,4425683,Beijing
+2008,Isle of Man,0,0,0,0,0,954,IMY,82561,Beijing
+2008,Israel,0,0,1,1,81,954,ISR,7308800,Beijing
+2008,Italy,8,9,10,27,9,954,ITA,59832179,Beijing
+2008,Jamaica,6,3,2,11,20,954,JAM,2687200,Beijing
+2008,Japan,9,6,10,25,11,954,JPN,127704040,Beijing
+2008,Jordan,0,0,0,0,0,954,JOR,5786000,Beijing
+2008,Kazakhstan,2,4,7,13,19,954,KAZ,15673999,Beijing
+2008,Kenya,6,4,4,14,18,954,KEN,38773277,Beijing
+2008,Kiribati,0,0,0,0,0,954,KIR,94832,Beijing
+2008,"Korea, Dem. Rep.",2,1,3,6,34,954,PRK,24243894,Beijing
+2008,"Korea, Rep.",13,10,8,31,8,954,KOR,48949000,Beijing
+2008,Kosovo,0,0,0,0,0,954,KSV,1747383,Beijing
+2008,Kuwait,0,0,0,0,0,954,KWT,2702221,Beijing
+2008,Kyrgyz Republic,0,1,1,2,66,954,KGZ,5318700,Beijing
+2008,Lao PDR,0,0,0,0,0,954,LAO,6139127,Beijing
+2008,Latvia,1,1,1,3,52,954,LVA,2266094,Beijing
+2008,Lebanon,0,0,0,0,0,954,LBN,4186088,Beijing
+2008,Lesotho,0,0,0,0,0,954,LSO,1972199,Beijing
+2008,Liberia,0,0,0,0,0,954,LBR,3672714,Beijing
+2008,Libya,0,0,0,0,0,954,LBY,5876805,Beijing
+2008,Liechtenstein,0,0,0,0,0,954,LIE,35582,Beijing
+2008,Lithuania,0,2,3,5,43,954,LTU,3358115,Beijing
+2008,Luxembourg,0,0,0,0,0,954,LUX,488650,Beijing
+2008,"Macao SAR, China",0,0,0,0,0,954,MAC,507528,Beijing
+2008,"Macedonia, FYR",0,0,0,0,0,954,MKD,2098769,Beijing
+2008,Madagascar,0,0,0,0,0,954,MDG,19926785,Beijing
+2008,Malawi,0,0,0,0,0,954,MWI,14138207,Beijing
+2008,Malaysia,0,1,0,1,76,954,MYS,27302348,Beijing
+2008,Maldives,0,0,0,0,0,954,MDV,313843,Beijing
+2008,Mali,0,0,0,0,0,954,MLI,13138299,Beijing
+2008,Malta,0,0,0,0,0,954,MLT,411950,Beijing
+2008,Marshall Islands,0,0,0,0,0,954,MHL,52245,Beijing
+2008,Mauritania,0,0,0,0,0,954,MRT,3422901,Beijing
+2008,Mauritius,0,0,1,1,84,954,MUS,1268565,Beijing
+2008,Mexico,2,0,1,3,51,954,MEX,114968039,Beijing
+2008,"Micronesia, Fed. Sts.",0,0,0,0,0,954,FSM,104498,Beijing
+2008,Moldova,0,0,1,1,85,954,MDA,3570107,Beijing
+2008,Monaco,0,0,0,0,0,954,MCO,35686,Beijing
+2008,Mongolia,2,2,0,4,45,954,MNG,2632834,Beijing
+2008,Montenegro,0,0,0,0,0,954,MNE,618649,Beijing
+2008,Morocco,0,1,1,2,68,954,MAR,30955151,Beijing
+2008,Mozambique,0,0,0,0,0,954,MOZ,22762525,Beijing
+2008,Myanmar,0,0,0,0,0,954,MMR,51174018,Beijing
+2008,Namibia,0,0,0,0,0,954,NAM,2110791,Beijing
+2008,Nepal,0,0,0,0,0,954,NPL,26249412,Beijing
+2008,Netherlands,7,5,4,16,16,954,NLD,16445593,Beijing
+2008,New Caledonia,0,0,0,0,0,954,NCL,243985,Beijing
+2008,New Zealand,3,2,4,9,24,954,NZL,4268900,Beijing
+2008,Nicaragua,0,0,0,0,0,954,NIC,5667983,Beijing
+2008,Niger,0,0,0,0,0,954,NER,14737895,Beijing
+2008,Nigeria,0,1,3,4,49,954,NGA,151208080,Beijing
+2008,Northern Mariana Islands,0,0,0,0,0,954,MNP,57345,Beijing
+2008,Norway,3,5,1,9,23,954,NOR,4768212,Beijing
+2008,Oman,0,0,0,0,0,954,OMN,2593523,Beijing
+2008,Pakistan,0,0,0,0,0,954,PAK,167008083,Beijing
+2008,Palau,0,0,0,0,0,954,PLW,20228,Beijing
+2008,Panama,1,0,0,1,69,954,PAN,3553480,Beijing
+2008,Papua New Guinea,0,0,0,0,0,954,PNG,6550877,Beijing
+2008,Paraguay,0,0,0,0,0,954,PRY,6236005,Beijing
+2008,Peru,0,0,0,0,0,954,PER,28625628,Beijing
+2008,Philippines,0,0,0,0,0,954,PHL,90371287,Beijing
+2008,Poland,3,6,1,10,21,954,POL,38125759,Beijing
+2008,Portugal,1,1,0,2,57,954,PRT,10622413,Beijing
+2008,Puerto Rico,0,0,0,0,0,954,PRI,3760866,Beijing
+2008,Qatar,0,0,0,0,0,954,QAT,1359114,Beijing
+2008,Romania,4,1,3,8,25,954,ROM,21513622,Beijing
+2008,Russia,23,21,29,73,3,954,RUS,141950000,Beijing
+2008,Rwanda,0,0,0,0,0,954,RWA,10222961,Beijing
+2008,Samoa,0,0,0,0,0,954,WSM,183444,Beijing
+2008,San Marino,0,0,0,0,0,954,SMR,30549,Beijing
+2008,Sao Tome and Principe,0,0,0,0,0,954,STP,168253,Beijing
+2008,Saudi Arabia,0,0,0,0,0,954,SAU,26366358,Beijing
+2008,Senegal,0,0,0,0,0,954,SEN,12238791,Beijing
+2008,Serbia,0,1,2,3,54,954,SRB,7350221,Beijing
+2008,Seychelles,0,0,0,0,0,954,SYC,86956,Beijing
+2008,Sierra Leone,0,0,0,0,0,954,SLE,5532139,Beijing
+2008,Singapore,0,1,0,1,79,954,SGP,4839400,Beijing
+2008,Sint Maarten (Dutch part),0,0,0,0,0,954,SXM,40459,Beijing
+2008,Slovak Republic,3,2,1,6,32,954,SVK,5406626,Beijing
+2008,Slovenia,1,2,2,5,38,954,SVN,2021316,Beijing
+2008,Solomon Islands,0,0,0,0,0,954,SLB,503541,Beijing
+2008,Somalia,0,0,0,0,0,954,SOM,9140259,Beijing
+2008,South Africa,0,1,0,1,75,954,ZAF,48793022,Beijing
+2008,South Sudan,0,0,0,0,0,954,SSD,9118386,Beijing
+2008,Spain,5,10,3,18,14,954,ESP,45555716,Beijing
+2008,Sri Lanka,0,0,0,0,0,954,LKA,20217000,Beijing
+2008,St. Kitts and Nevis,0,0,0,0,0,954,KNA,51110,Beijing
+2008,St. Lucia,0,0,0,0,0,954,LCA,172734,Beijing
+2008,St. Martin (French part),0,0,0,0,0,954,MAF,29376,Beijing
+2008,St. Vincent and the Grenadines,0,0,0,0,0,954,VCT,109158,Beijing
+2008,Sudan,0,1,0,1,73,954,SDN,34040065,Beijing
+2008,Suriname,0,0,0,0,0,954,SUR,515372,Beijing
+2008,Swaziland,0,0,0,0,0,954,SWZ,1153929,Beijing
+2008,Sweden,0,4,1,5,41,954,SWE,9219637,Beijing
+2008,Switzerland,2,1,4,7,29,954,CHE,7647675,Beijing
+2008,Syrian Arab Republic,0,0,0,0,0,954,SYR,20346056,Beijing
+2008,Tajikistan,0,1,1,2,63,954,TJK,7275252,Beijing
+2008,Tanzania,0,0,0,0,0,954,TZA,42353790,Beijing
+2008,Thailand,2,2,0,4,44,954,THA,66185340,Beijing
+2008,Timor-Leste,0,0,0,0,0,954,TMP,1077911,Beijing
+2008,Togo,0,0,1,1,86,954,TGO,5987491,Beijing
+2008,Tonga,0,0,0,0,0,954,TON,102947,Beijing
+2008,Trinidad and Tobago,0,2,0,2,62,954,TTO,1316449,Beijing
+2008,Tunisia,1,0,0,1,71,954,TUN,10328900,Beijing
+2008,Turkey,1,4,3,8,26,954,TUR,70363511,Beijing
+2008,Turkmenistan,0,0,0,0,0,954,TKM,4917543,Beijing
+2008,Turks and Caicos Islands,0,0,0,0,0,954,TCA,29481,Beijing
+2008,Tuvalu,0,0,0,0,0,954,TUV,9788,Beijing
+2008,Uganda,0,0,0,0,0,954,UGA,31778799,Beijing
+2008,Ukraine,7,5,15,27,10,954,UKR,46258200,Beijing
+2008,United Arab Emirates,0,0,0,0,0,954,ARE,6798635,Beijing
+2008,England,19,13,15,47,4,954,GBR,61393521,Beijing
+2008,United States,36,38,36,110,1,954,USA,304093966,Beijing
+2008,Uruguay,0,0,0,0,0,954,URY,3348898,Beijing
+2008,Uzbekistan,1,2,3,6,36,954,UZB,27302800,Beijing
+2008,Vanuatu,0,0,0,0,0,954,VUT,225398,Beijing
+2008,"Venezuela, RB",0,0,1,1,83,954,VEN,28120312,Beijing
+2008,Vietnam,0,1,0,1,72,954,VNM,85122300,Beijing
+2008,Virgin Islands (U.S.),0,0,0,0,0,954,VIR,107091,Beijing
+2008,West Bank and Gaza,0,0,0,0,0,954,WBG,3596688,Beijing
+2008,"Yemen, Rep.",0,0,0,0,0,954,YEM,21703571,Beijing
+2008,Zambia,0,0,0,0,0,954,ZMB,12456527,Beijing
+2008,Zimbabwe,1,3,0,4,46,954,ZWE,12784041,Beijing
+2012,Afghanistan,0,0,1,1,80,960,AFG,29824536,London
+2012,Albania,0,0,0,0,0,960,ALB,3162083,London
+2012,Algeria,1,0,0,1,69,960,DZA,38481705,London
+2012,American Samoa,0,0,0,0,0,960,ASM,55128,London
+2012,Andorra,0,0,0,0,0,960,ADO,78360,London
+2012,Angola,0,0,0,0,0,960,AGO,20820525,London
+2012,Antigua and Barbuda,0,0,0,0,0,960,ATG,89069,London
+2012,Argentina,1,1,2,4,45,960,ARG,41086927,London
+2012,Armenia,0,1,2,3,53,960,ARM,2969081,London
+2012,Aruba,0,0,0,0,0,960,ABW,102384,London
+2012,Australia,7,16,12,35,7,960,AUS,22683600,London
+2012,Austria,0,0,0,0,0,960,AUT,8462446,London
+2012,Azerbaijan,2,2,6,10,25,960,AZE,9297507,London
+2012,"Bahamas, The",1,0,0,1,71,960,BHS,371960,London
+2012,Bahrain,0,0,1,1,82,960,BHR,1317827,London
+2012,Bangladesh,0,0,0,0,0,960,BGD,154695368,London
+2012,Barbados,0,0,0,0,0,960,BRB,283221,London
+2012,Belarus,2,5,5,12,22,960,BLR,9464000,London
+2012,Belgium,0,1,2,3,52,960,BEL,11142157,London
+2012,Belize,0,0,0,0,0,960,BLZ,324060,London
+2012,Benin,0,0,0,0,0,960,BEN,10050702,London
+2012,Bermuda,0,0,0,0,0,960,BMU,64806,London
+2012,Bhutan,0,0,0,0,0,960,BTN,741822,London
+2012,Bolivia,0,0,0,0,0,960,BOL,10496285,London
+2012,Bosnia and Herzegovina,0,0,0,0,0,960,BIH,3833916,London
+2012,Botswana,0,1,0,1,74,960,BWA,2003910,London
+2012,Brazil,3,5,9,17,16,960,BRA,198656019,London
+2012,Brunei Darussalam,0,0,0,0,0,960,BRN,412238,London
+2012,Bulgaria,0,1,1,2,62,960,BGR,7304632,London
+2012,Burkina Faso,0,0,0,0,0,960,BFA,16460141,London
+2012,Burundi,0,0,0,0,0,960,BDI,9849569,London
+2012,Cambodia,0,0,0,0,0,960,KHM,14864646,London
+2012,Cameroon,0,0,0,0,0,960,CMR,21699631,London
+2012,Canada,1,5,12,18,14,960,CAN,34880491,London
+2012,Cape Verde,0,0,0,0,0,960,CPV,494401,London
+2012,Cayman Islands,0,0,0,0,0,960,CYM,57570,London
+2012,Central African Republic,0,0,0,0,0,960,CAF,4525209,London
+2012,Chad,0,0,0,0,0,960,TCD,12448175,London
+2012,Channel Islands,0,0,0,0,0,960,CHI,161235,London
+2012,Chile,0,0,0,0,0,960,CHL,17464814,London
+2012,China,38,27,23,88,2,960,CHN,1350695000,London
+2012,Colombia,1,3,4,8,30,960,COL,47704427,London
+2012,Comoros,0,0,0,0,0,960,COM,717503,London
+2012,"Congo, Dem. Rep.",0,0,0,0,0,960,ZAR,65705093,London
+2012,"Congo, Rep.",0,0,0,0,0,960,COG,4337051,London
+2012,Costa Rica,0,0,0,0,0,960,CRI,4805295,London
+2012,Cote d'Ivoire,0,0,0,0,0,960,CIV,19839750,London
+2012,Croatia,3,1,2,6,36,960,HRV,4267000,London
+2012,Cuba,5,3,6,14,17,960,CUB,11270957,London
+2012,Curacao,0,0,0,0,0,960,CUW,151892,London
+2012,Cyprus,0,1,0,1,77,960,CYP,1128994,London
+2012,Czech Republic,4,3,3,10,24,960,CZE,10514810,London
+2012,Denmark,2,4,3,9,28,960,DNK,5590478,London
+2012,Djibouti,0,0,0,0,0,960,DJI,859652,London
+2012,Dominica,0,0,0,0,0,960,DMA,71684,London
+2012,Dominican Republic,1,1,0,2,55,960,DOM,10276621,London
+2012,Ecuador,0,0,0,0,0,960,ECU,15492264,London
+2012,"Egypt, Arab Rep.",0,2,0,2,57,960,EGY,80721874,London
+2012,El Salvador,0,0,0,0,0,960,SLV,6297394,London
+2012,Equatorial Guinea,0,0,0,0,0,960,GNQ,736296,London
+2012,Eritrea,0,0,0,0,0,960,ERI,6130922,London
+2012,Estonia,0,1,1,2,61,960,EST,1339396,London
+2012,Ethiopia,3,1,3,7,31,960,ETH,91728849,London
+2012,Faeroe Islands,0,0,0,0,0,960,FRO,49506,London
+2012,Fiji,0,0,0,0,0,960,FJI,874742,London
+2012,Finland,0,1,2,3,54,960,FIN,5414293,London
+2012,France,11,11,12,34,8,960,FRA,65696689,London
+2012,French Polynesia,0,0,0,0,0,960,PYF,273814,London
+2012,Gabon,0,1,0,1,78,960,GAB,1632572,London
+2012,"Gambia, The",0,0,0,0,0,960,GMB,1791225,London
+2012,Georgia,1,3,3,7,33,960,GEO,4511800,London
+2012,Germany,11,19,14,44,5,960,DEU,81889839,London
+2012,Ghana,0,0,0,0,0,960,GHA,25366462,London
+2012,Greece,0,0,2,2,64,960,GRC,11280167,London
+2012,Greenland,0,0,0,0,0,960,GRL,56840,London
+2012,Grenada,1,0,0,1,68,960,GRD,105483,London
+2012,Guam,0,0,0,0,0,960,GUM,162810,London
+2012,Guatemala,0,1,0,1,73,960,GTM,15082831,London
+2012,Guinea,0,0,0,0,0,960,GIN,11451273,London
+2012,Guinea-Bissau,0,0,0,0,0,960,GNB,1663558,London
+2012,Guyana,0,0,0,0,0,960,GUY,795369,London
+2012,Haiti,0,0,0,0,0,960,HTI,10173775,London
+2012,Honduras,0,0,0,0,0,960,HND,7935846,London
+2012,"Hong Kong SAR, China",0,0,1,1,84,960,HKG,7154600,London
+2012,Hungary,8,4,6,18,13,960,HUN,9943755,London
+2012,Iceland,0,0,0,0,0,960,ISL,320137,London
+2012,India,0,2,4,6,37,960,IND,1236686732,London
+2012,Indonesia,0,1,1,2,59,960,IDN,246864191,London
+2012,"Iran, Islamic Rep.",4,5,3,12,20,960,IRN,76424443,London
+2012,Iraq,0,0,0,0,0,960,IRQ,32578209,London
+2012,Ireland,1,1,3,5,40,960,IRL,4588798,London
+2012,Isle of Man,0,0,0,0,0,960,IMY,85284,London
+2012,Israel,0,0,0,0,0,960,ISR,7907900,London
+2012,Italy,8,9,11,28,10,960,ITA,60917978,London
+2012,Jamaica,4,4,4,12,21,960,JAM,2712100,London
+2012,Japan,7,14,17,38,6,960,JPN,127561489,London
+2012,Jordan,0,0,0,0,0,960,JOR,6318000,London
+2012,Kazakhstan,7,1,5,13,18,960,KAZ,16797459,London
+2012,Kenya,2,4,5,11,23,960,KEN,43178141,London
+2012,Kiribati,0,0,0,0,0,960,KIR,100786,London
+2012,"Korea, Dem. Rep.",4,0,2,6,34,960,PRK,24763188,London
+2012,"Korea, Rep.",13,8,7,28,9,960,KOR,50004000,London
+2012,Kosovo,0,0,0,0,0,960,KSV,1806366,London
+2012,Kuwait,0,0,1,1,79,960,KWT,3250496,London
+2012,Kyrgyz Republic,0,0,0,0,0,960,KGZ,5582100,London
+2012,Lao PDR,0,0,0,0,0,960,LAO,6645827,London
+2012,Latvia,1,0,1,2,56,960,LVA,2025473,London
+2012,Lebanon,0,0,0,0,0,960,LBN,4424888,London
+2012,Lesotho,0,0,0,0,0,960,LSO,2051545,London
+2012,Liberia,0,0,0,0,0,960,LBR,4190435,London
+2012,Libya,0,0,0,0,0,960,LBY,6154623,London
+2012,Liechtenstein,0,0,0,0,0,960,LIE,36656,London
+2012,Lithuania,2,1,2,5,39,960,LTU,2985509,London
+2012,Luxembourg,0,0,0,0,0,960,LUX,531441,London
+2012,"Macao SAR, China",0,0,0,0,0,960,MAC,556783,London
+2012,"Macedonia, FYR",0,0,0,0,0,960,MKD,2105575,London
+2012,Madagascar,0,0,0,0,0,960,MDG,22293914,London
+2012,Malawi,0,0,0,0,0,960,MWI,15906483,London
+2012,Malaysia,0,1,1,2,63,960,MYS,29239927,London
+2012,Maldives,0,0,0,0,0,960,MDV,338442,London
+2012,Mali,0,0,0,0,0,960,MLI,14853572,London
+2012,Malta,0,0,0,0,0,960,MLT,418366,London
+2012,Marshall Islands,0,0,0,0,0,960,MHL,52555,London
+2012,Mauritania,0,0,0,0,0,960,MRT,3796141,London
+2012,Mauritius,0,0,0,0,0,960,MUS,1291456,London
+2012,Mexico,1,3,3,7,32,960,MEX,120847477,London
+2012,"Micronesia, Fed. Sts.",0,0,0,0,0,960,FSM,103395,London
+2012,Moldova,0,0,2,2,66,960,MDA,3559541,London
+2012,Monaco,0,0,0,0,0,960,MCO,37579,London
+2012,Mongolia,0,2,3,5,41,960,MNG,2796484,London
+2012,Montenegro,0,1,0,1,76,960,MNE,621081,London
+2012,Morocco,0,0,1,1,81,960,MAR,32521143,London
+2012,Mozambique,0,0,0,0,0,960,MOZ,25203395,London
+2012,Myanmar,0,0,0,0,0,960,MMR,52797319,London
+2012,Namibia,0,0,0,0,0,960,NAM,2259393,London
+2012,Nepal,0,0,0,0,0,960,NPL,27474377,London
+2012,Netherlands,6,6,8,20,11,960,NLD,16767705,London
+2012,New Caledonia,0,0,0,0,0,960,NCL,258121,London
+2012,New Zealand,6,2,5,13,19,960,NZL,4433100,London
+2012,Nicaragua,0,0,0,0,0,960,NIC,5991733,London
+2012,Niger,0,0,0,0,0,960,NER,17157042,London
+2012,Nigeria,0,0,0,0,0,960,NGA,168833776,London
+2012,Northern Mariana Islands,0,0,0,0,0,960,MNP,53305,London
+2012,Norway,2,1,1,4,43,960,NOR,5018869,London
+2012,Oman,0,0,0,0,0,960,OMN,3314001,London
+2012,Pakistan,0,0,0,0,0,960,PAK,179160111,London
+2012,Palau,0,0,0,0,0,960,PLW,20754,London
+2012,Panama,0,0,0,0,0,960,PAN,3802281,London
+2012,Papua New Guinea,0,0,0,0,0,960,PNG,7167010,London
+2012,Paraguay,0,0,0,0,0,960,PRY,6687361,London
+2012,Peru,0,0,0,0,0,960,PER,29987800,London
+2012,Philippines,0,0,0,0,0,960,PHL,96706764,London
+2012,Poland,2,2,6,10,26,960,POL,38542737,London
+2012,Portugal,0,1,0,1,75,960,PRT,10526703,London
+2012,Puerto Rico,0,1,1,2,60,960,PRI,3667084,London
+2012,Qatar,0,0,2,2,67,960,QAT,2050514,London
+2012,Romania,2,5,2,9,27,960,ROM,21326905,London
+2012,Russia,24,26,32,82,3,960,RUS,143533000,London
+2012,Rwanda,0,0,0,0,0,960,RWA,11457801,London
+2012,Samoa,0,0,0,0,0,960,WSM,188889,London
+2012,San Marino,0,0,0,0,0,960,SMR,31247,London
+2012,Sao Tome and Principe,0,0,0,0,0,960,STP,188098,London
+2012,Saudi Arabia,0,0,1,1,85,960,SAU,28287855,London
+2012,Senegal,0,0,0,0,0,960,SEN,13726021,London
+2012,Serbia,1,1,2,4,46,960,SRB,7223887,London
+2012,Seychelles,0,0,0,0,0,960,SYC,87785,London
+2012,Sierra Leone,0,0,0,0,0,960,SLE,5978727,London
+2012,Singapore,0,0,2,2,65,960,SGP,5312400,London
+2012,Sint Maarten (Dutch part),0,0,0,0,0,960,SXM,39088,London
+2012,Slovak Republic,0,1,3,4,48,960,SVK,5410267,London
+2012,Slovenia,1,1,2,4,44,960,SVN,2058152,London
+2012,Solomon Islands,0,0,0,0,0,960,SLB,549598,London
+2012,Somalia,0,0,0,0,0,960,SOM,10195134,London
+2012,South Africa,3,2,1,6,35,960,ZAF,51189307,London
+2012,South Sudan,0,0,0,0,0,960,SSD,10837527,London
+2012,Spain,3,10,4,17,15,960,ESP,46217961,London
+2012,Sri Lanka,0,0,0,0,0,960,LKA,20328000,London
+2012,St. Kitts and Nevis,0,0,0,0,0,960,KNA,53584,London
+2012,St. Lucia,0,0,0,0,0,960,LCA,180870,London
+2012,St. Martin (French part),0,0,0,0,0,960,MAF,30959,London
+2012,St. Vincent and the Grenadines,0,0,0,0,0,960,VCT,109373,London
+2012,Sudan,0,0,0,0,0,960,SDN,37195349,London
+2012,Suriname,0,0,0,0,0,960,SUR,534541,London
+2012,Swaziland,0,0,0,0,0,960,SWZ,1230985,London
+2012,Sweden,1,4,3,8,29,960,SWE,9516617,London
+2012,Switzerland,2,2,0,4,42,960,CHE,7997152,London
+2012,Syrian Arab Republic,0,0,0,0,0,960,SYR,22399254,London
+2012,Tajikistan,0,0,1,1,83,960,TJK,8008990,London
+2012,Tanzania,0,0,0,0,0,960,TZA,47783107,London
+2012,Thailand,0,2,1,3,51,960,THA,66785001,London
+2012,Timor-Leste,0,0,0,0,0,960,TMP,1210233,London
+2012,Togo,0,0,0,0,0,960,TGO,6642928,London
+2012,Tonga,0,0,0,0,0,960,TON,104941,London
+2012,Trinidad and Tobago,1,0,3,4,47,960,TTO,1337439,London
+2012,Tunisia,1,1,1,3,49,960,TUN,10777500,London
+2012,Turkey,2,2,1,5,38,960,TUR,73997128,London
+2012,Turkmenistan,0,0,0,0,0,960,TKM,5172931,London
+2012,Turks and Caicos Islands,0,0,0,0,0,960,TCA,32427,London
+2012,Tuvalu,0,0,0,0,0,960,TUV,9860,London
+2012,Uganda,1,0,0,1,70,960,UGA,36345860,London
+2012,Ukraine,6,5,9,20,12,960,UKR,45593300,London
+2012,United Arab Emirates,0,0,0,0,0,960,ARE,9205651,London
+2012,England,29,17,19,65,4,960,GBR,63227526,London
+2012,United States,46,29,29,104,1,960,USA,313914040,London
+2012,Uruguay,0,0,0,0,0,960,URY,3395253,London
+2012,Uzbekistan,1,0,2,3,50,960,UZB,29776850,London
+2012,Vanuatu,0,0,0,0,0,960,VUT,247262,London
+2012,"Venezuela, RB",1,0,0,1,72,960,VEN,29954782,London
+2012,Vietnam,0,0,0,0,0,960,VNM,88775500,London
+2012,Virgin Islands (U.S.),0,0,0,0,0,960,VIR,105275,London
+2012,West Bank and Gaza,0,0,0,0,0,960,WBG,4046901,London
+2012,"Yemen, Rep.",0,0,0,0,0,960,YEM,23852409,London
+2012,Zambia,0,0,0,0,0,960,ZMB,14075099,London
+2012,Zimbabwe,0,0,0,0,0,960,ZWE,13724317,London
